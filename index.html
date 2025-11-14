@@ -40,34 +40,6 @@
             margin-bottom: 10px;
         }
         
-        .header p {
-            opacity: 0.9;
-        }
-        
-        .rules-section {
-            background: #34495e;
-            color: white;
-            padding: 15px;
-            font-size: 0.9em;
-        }
-        
-        .rules-section h3 {
-            margin-bottom: 10px;
-            text-align: center;
-        }
-        
-        .rules-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-            gap: 15px;
-        }
-        
-        .rule-item {
-            background: rgba(255,255,255,0.1);
-            padding: 10px;
-            border-radius: 5px;
-        }
-        
         .search-section {
             padding: 30px;
             background: #f8f9fa;
@@ -136,103 +108,147 @@
             border-left: 5px solid #3498db;
         }
         
-        .scores-summary {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-            gap: 20px;
-            margin-bottom: 20px;
-        }
-        
-        .score-card {
+        .info-panel {
             background: white;
-            padding: 20px;
+            border: 2px solid #e9ecef;
             border-radius: 10px;
-            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
-            text-align: center;
-            border-top: 4px solid;
-        }
-        
-        .quiz-total {
-            border-top-color: #3498db;
-        }
-        
-        .attendance-score {
-            border-top-color: #f39c12;
-        }
-        
-        .final-score {
-            border-top-color: #2ecc71;
-        }
-        
-        .score-card h3 {
-            margin-bottom: 10px;
-            font-size: 1.1em;
-            color: #555;
-        }
-        
-        .score-value {
-            font-size: 2.2em;
-            font-weight: bold;
-            margin: 10px 0;
-        }
-        
-        .score-details {
-            font-size: 0.9em;
-            color: #666;
-            margin-top: 10px;
-        }
-        
-        .scores-table {
-            width: 100%;
-            border-collapse: collapse;
-            margin-top: 20px;
+            padding: 20px;
+            margin-bottom: 20px;
             box-shadow: 0 2px 10px rgba(0,0,0,0.1);
         }
         
-        .scores-table th {
-            background: linear-gradient(135deg, #2c3e50, #34495e);
+        .info-panel h3 {
+            color: #2c3e50;
+            margin-bottom: 15px;
+            padding-bottom: 10px;
+            border-bottom: 2px solid #f8f9fa;
+        }
+        
+        .rules-section {
+            background: #fff9e6;
+            border-left: 4px solid #f39c12;
+            padding: 15px;
+            margin-bottom: 15px;
+            border-radius: 8px;
+        }
+        
+        .rules-section h4 {
+            color: #e67e22;
+            margin-bottom: 10px;
+        }
+        
+        .rules-section ul {
+            padding-left: 20px;
+        }
+        
+        .rules-section li {
+            margin-bottom: 8px;
+            line-height: 1.5;
+        }
+        
+        .attendance-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+            gap: 15px;
+            margin-bottom: 15px;
+        }
+        
+        .attendance-item {
+            text-align: center;
+            padding: 10px;
+            background: #f8f9fa;
+            border-radius: 8px;
+        }
+        
+        .attendance-item .week {
+            font-weight: bold;
+            color: #495057;
+        }
+        
+        .attendance-item .status {
+            margin-top: 5px;
+            font-size: 0.9em;
+        }
+        
+        .status-present {
+            color: #27ae60;
+        }
+        
+        .status-absent {
+            color: #e74c3c;
+        }
+        
+        .status-leave {
+            color: #f39c12;
+        }
+        
+        .quiz-scores-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+            gap: 15px;
+            margin-bottom: 15px;
+        }
+        
+        .quiz-score-item {
+            text-align: center;
+            padding: 12px;
+            background: #f8f9fa;
+            border-radius: 8px;
+            border-left: 4px solid #3498db;
+        }
+        
+        .quiz-score-item .week {
+            font-weight: bold;
+            color: #495057;
+            margin-bottom: 5px;
+        }
+        
+        .quiz-score-item .score {
+            font-size: 1.2em;
+            font-weight: bold;
+            color: #2c3e50;
+        }
+        
+        .total-display {
+            background: linear-gradient(135deg, #2ecc71, #27ae60);
             color: white;
             padding: 15px;
-            text-align: left;
-            font-weight: 600;
-        }
-        
-        .scores-table td {
-            padding: 15px;
-            border-bottom: 1px solid #e9ecef;
-        }
-        
-        .scores-table tr:nth-child(even) {
-            background-color: #f8f9fa;
-        }
-        
-        .scores-table tr:hover {
-            background-color: #e8f4fd;
-        }
-        
-        .attendance-present {
-            color: #27ae60;
-            font-weight: bold;
-        }
-        
-        .attendance-absent {
-            color: #e74c3c;
-            font-weight: bold;
-        }
-        
-        .attendance-leave {
-            color: #f39c12;
-            font-weight: bold;
-        }
-        
-        .score-value {
+            border-radius: 8px;
             text-align: center;
+            font-size: 1.2em;
+            font-weight: bold;
+            margin-top: 10px;
+        }
+        
+        .quiz-total-display {
+            background: linear-gradient(135deg, #3498db, #2980b9);
+            color: white;
+            padding: 15px;
+            border-radius: 8px;
+            text-align: center;
+            font-size: 1.2em;
+            font-weight: bold;
+            margin-top: 10px;
+        }
+        
+        .final-paper-display {
+            background: linear-gradient(135deg, #9b59b6, #8e44ad);
+            color: white;
+            padding: 15px;
+            border-radius: 8px;
+            text-align: center;
+            font-size: 1.2em;
             font-weight: bold;
         }
         
-        .top-score {
-            background-color: #d4edda !important;
-            border-left: 4px solid #28a745;
+        .course-total-display {
+            background: linear-gradient(135deg, #e74c3c, #c0392b);
+            color: white;
+            padding: 15px;
+            border-radius: 8px;
+            text-align: center;
+            font-size: 1.2em;
+            font-weight: bold;
         }
         
         .error-message {
@@ -244,32 +260,14 @@
             margin-top: 20px;
         }
         
-        .loading {
-            text-align: center;
-            padding: 20px;
-            color: #666;
-        }
-        
         @media (max-width: 768px) {
             .search-form {
                 flex-direction: column;
             }
             
-            .scores-table {
-                font-size: 14px;
-            }
-            
-            .scores-table th,
-            .scores-table td {
-                padding: 10px 5px;
-            }
-            
-            .score-value {
-                font-size: 1.8em;
-            }
-            
-            .rules-grid {
-                grid-template-columns: 1fr;
+            .attendance-grid,
+            .quiz-scores-grid {
+                grid-template-columns: repeat(2, 1fr);
             }
         }
     </style>
@@ -278,22 +276,7 @@
     <div class="container">
         <div class="header">
             <h1>智识与审美课程成绩查询</h1>
-            <p>请输入姓名和学号（或校名）查询您的课程成绩详情</p>
-        </div>
-        
-        <div class="rules-section">
-            <h3>成绩计算规则</h3>
-            <div class="rules-grid">
-                <div class="rule-item">
-                    <strong>测验总分：</strong>最高四次测验成绩的总和×15%（保留一位小数）
-                </div>
-                <div class="rule-item">
-                    <strong>考勤分：</strong>缺勤（不含请假）1~3次为-1分，4~7次为-2分
-                </div>
-                <div class="rule-item">
-                    <strong>总分：</strong>测验总分 + 考勤分
-                </div>
-            </div>
+            <p>请输入姓名和学号查询您的成绩详情</p>
         </div>
         
         <div class="search-section">
@@ -303,41 +286,83 @@
                     <input type="text" id="name" placeholder="请输入您的姓名" required>
                 </div>
                 <div class="input-group">
-                    <label for="id">学号/校名</label>
-                    <input type="text" id="id" placeholder="请输入您的学号/校名" required>
+                    <label for="id">学号</label>
+                    <input type="text" id="id" placeholder="请输入您的学号" required>
                 </div>
                 <button type="submit" class="search-btn">查询成绩</button>
             </form>
         </div>
         
         <div class="result-section" id="resultSection">
-            <div class="loading" id="loadingMessage">正在加载数据...</div>
-            <div id="contentArea" style="display: none;">
-                <div class="student-info" id="studentInfo"></div>
-                <div class="scores-summary" id="scoresSummary"></div>
-                <table class="scores-table" id="scoresTable">
-                    <thead>
-                        <tr>
-                            <th>周次</th>
-                            <th>考勤状态</th>
-                            <th>测验成绩</th>
-                            <th>备注</th>
-                        </tr>
-                    </thead>
-                    <tbody id="scoresBody">
-                    </tbody>
-                </table>
+            <div class="student-info" id="studentInfo"></div>
+            
+            <!-- 考勤信息面板 -->
+            <div class="info-panel" id="attendancePanel">
+                <h3>📅 考勤信息</h3>
+                <div class="rules-section">
+                    <h4>考勤分计算规则</h4>
+                    <ul>
+                        <li>缺勤次数 ≤ 0次：考勤分不扣分</li>
+                        <li>缺勤次数 1-3次：考勤分扣1分</li>
+                        <li>缺勤次数 > 3次：考勤分扣2分</li>
+                        <li>请假不计入缺勤次数</li>
+                    </ul>
+                </div>
+                <div class="attendance-grid" id="attendanceGrid"></div>
+                <div class="total-display">
+                    考勤总分: <span id="attendanceTotal">0</span> 分
+                </div>
+            </div>
+            
+            <!-- 测验成绩面板 -->
+            <div class="info-panel" id="quizScoresPanel">
+                <h3>📊 各周测验成绩</h3>
+                <div class="rules-section">
+                    <h4>测验总分计算规则</h4>
+                    <ul>
+                        <li>测验总分 = 各周测验成绩的平均分</li>
+                        <li>仅计算有成绩的周次</li>
+                        <li>测验成绩已四舍五入取整</li>
+                    </ul>
+                </div>
+                <div class="quiz-scores-grid" id="quizScoresGrid"></div>
+                <div class="quiz-total-display">
+                    测验总分: <span id="quizTotalScore">0</span> 分
+                </div>
+            </div>
+            
+            <!-- 期末论文分数面板 -->
+            <div class="info-panel" id="finalPaperPanel">
+                <h3>📝 期末论文成绩</h3>
+                <div class="final-paper-display">
+                    论文分数: <span id="finalPaperScore">待公布</span>
+                </div>
+            </div>
+            
+            <!-- 课程总分面板 -->
+            <div class="info-panel" id="totalScorePanel">
+                <h3>🏆 课程总成绩</h3>
+                <div class="rules-section">
+                    <h4>课程总分计算规则</h4>
+                    <ul>
+                        <li>课程总分 = 测验总分 × 权重 + 期末论文 × 权重 + 考勤分</li>
+                        <li>具体权重比例将在期末公布</li>
+                    </ul>
+                </div>
+                <div class="course-total-display">
+                    课程总分: <span id="totalCourseScore">待计算</span>
+                </div>
             </div>
         </div>
     </div>
 
     <script>
         // 加载成绩数据
-        let courseData = null;
+        let scoresData = null;
         
         // 页面加载时获取数据
         document.addEventListener('DOMContentLoaded', function() {
-            fetch('course_scores.json')
+            fetch('./scores.json')
                 .then(response => {
                     if (!response.ok) {
                         throw new Error('网络响应不正常');
@@ -345,14 +370,12 @@
                     return response.json();
                 })
                 .then(data => {
-                    courseData = data;
-                    console.log('课程数据加载成功，共', data.students.length, '名学生');
-                    document.getElementById('loadingMessage').style.display = 'none';
+                    scoresData = data;
+                    console.log('成绩数据加载成功，共', data.students.length, '名学生');
                 })
                 .catch(error => {
                     console.error('加载数据失败:', error);
-                    document.getElementById('loadingMessage').innerHTML = 
-                        '数据加载失败，请刷新页面重试<br>错误信息: ' + error.message;
+                    alert('数据加载失败，请刷新页面重试');
                 });
         });
 
@@ -363,132 +386,123 @@
             const name = document.getElementById('name').value.trim();
             const id = document.getElementById('id').value.trim();
             
-            if (!courseData) {
+            if (!scoresData) {
                 alert('数据正在加载中，请稍后再试');
                 return;
             }
             
             // 查找学生
-            const student = courseData.students.find(s => 
-                s.name === name && s.id.toString() === id
+            const student = scoresData.students.find(s => 
+                s.name === name && s.id === id
             );
             
             const resultSection = document.getElementById('resultSection');
-            const contentArea = document.getElementById('contentArea');
             const studentInfo = document.getElementById('studentInfo');
-            const scoresSummary = document.getElementById('scoresSummary');
-            const scoresBody = document.getElementById('scoresBody');
-            
-            resultSection.style.display = 'block';
-            document.getElementById('loadingMessage').style.display = 'none';
+            const attendanceGrid = document.getElementById('attendanceGrid');
+            const attendanceTotal = document.getElementById('attendanceTotal');
+            const quizScoresGrid = document.getElementById('quizScoresGrid');
+            const quizTotalScore = document.getElementById('quizTotalScore');
+            const finalPaperScore = document.getElementById('finalPaperScore');
+            const totalCourseScore = document.getElementById('totalCourseScore');
             
             if (student) {
-                contentArea.style.display = 'block';
-                
                 // 显示学生信息
                 studentInfo.innerHTML = `
                     <h3>${student.name} 同学</h3>
                     <p>学号: ${student.id}</p>
-                    <p>数据更新时间: ${courseData.last_updated}</p>
                 `;
                 
-                // 计算最高四次成绩
-                const validScores = Object.entries(student.scores)
-                    .filter(([week, score]) => score !== null && score !== undefined)
-                    .map(([week, score]) => ({ week, score }));
+                // 显示考勤信息
+                attendanceGrid.innerHTML = '';
+                const weeks = ['week3', 'week6', 'week8', 'week10', 'week12', 'week14', 'week16'];
+                const weekNames = ['第三周', '第六周', '第八周', '第十周', '第十二周', '第十四周', '第十六周'];
                 
-                // 按成绩排序，取前四名
-                const topScores = [...validScores]
-                    .sort((a, b) => b.score - a.score)
-                    .slice(0, 4);
-                
-                // 显示成绩摘要卡片
-                scoresSummary.innerHTML = `
-                    <div class="score-card quiz-total">
-                        <h3>测验总分</h3>
-                        <div class="score-value">${student.quiz_total} / 60</div>
-                        <div class="score-details">
-                            基于 ${validScores.length} 次有效测验成绩<br>
-                            最高四次: ${topScores.map(s => s.score).join(' + ')} = ${topScores.reduce((sum, s) => sum + s.score, 0)}<br>
-                            ${topScores.reduce((sum, s) => sum + s.score, 0)} × 15% = ${student.quiz_total}
-                        </div>
-                    </div>
-                    <div class="score-card attendance-score">
-                        <h3>考勤分</h3>
-                        <div class="score-value">${student.attendance_score}</div>
-                        <div class="score-details">
-                            缺勤 ${student.absent_count} 次<br>
-                            ${student.absent_count === 0 ? '无缺勤，不扣分' : 
-                              student.absent_count <= 3 ? '1~3次缺勤，扣1分' : 
-                              '4~7次缺勤，扣2分'}
-                        </div>
-                    </div>
-                    <div class="score-card final-score">
-                        <h3>总分</h3>
-                        <div class="score-value">${student.total_score}</div>
-                        <div class="score-details">
-                            测验总分 + 考勤分<br>
-                            ${student.quiz_total} ${student.attendance_score >= 0 ? '+' : ''} ${student.attendance_score} = ${student.total_score}
-                        </div>
-                    </div>
-                `;
-                
-                // 显示详细成绩
-                scoresBody.innerHTML = '';
-                const weeks = [
-                    { key: 'week3', name: '第三周' },
-                    { key: 'week6', name: '第六周' },
-                    { key: 'week8', name: '第八周' },
-                    { key: 'week10', name: '第十周' },
-                    { key: 'week12', name: '第十二周' },
-                    { key: 'week14', name: '第十四周' },
-                    { key: 'week16', name: '第十六周' }
-                ];
-                
-                weeks.forEach(week => {
-                    const attendance = student.attendance[week.key];
-                    const score = student.scores[week.key];
-                    const isTopScore = topScores.some(s => s.week === week.key);
+                weeks.forEach((week, index) => {
+                    const status = student.attendance[week];
+                    let statusClass = '';
+                    let statusText = status;
                     
-                    let attendanceClass = '';
-                    let attendanceText = attendance;
-                    
-                    if (attendance === '出勤') {
-                        attendanceClass = 'attendance-present';
-                    } else if (attendance === '缺勤') {
-                        attendanceClass = 'attendance-absent';
-                    } else if (attendance === '请假') {
-                        attendanceClass = 'attendance-leave';
+                    if (status === '出勤') {
+                        statusClass = 'status-present';
+                    } else if (status === '缺勤') {
+                        statusClass = 'status-absent';
+                    } else if (status === '请假') {
+                        statusClass = 'status-leave';
                     }
                     
-                    const row = document.createElement('tr');
-                    if (isTopScore) {
-                        row.className = 'top-score';
-                    }
-                    
-                    row.innerHTML = `
-                        <td>${week.name}</td>
-                        <td class="${attendanceClass}">${attendanceText || '--'}</td>
-                        <td class="score-value">${score !== null && score !== undefined ? score : '--'}</td>
-                        <td>${isTopScore ? '✅ 计入测验总分' : (score !== null && score !== undefined ? '不计入测验总分' : '无成绩')}</td>
+                    const item = document.createElement('div');
+                    item.className = 'attendance-item';
+                    item.innerHTML = `
+                        <div class="week">${weekNames[index]}</div>
+                        <div class="status ${statusClass}">${statusText || '未记录'}</div>
                     `;
-                    scoresBody.appendChild(row);
+                    attendanceGrid.appendChild(item);
                 });
                 
+                // 显示考勤总分
+                attendanceTotal.textContent = student.attendance_total;
+                
+                // 显示各周测验成绩并计算测验总分
+                quizScoresGrid.innerHTML = '';
+                let totalQuizScore = 0;
+                let quizCount = 0;
+                
+                weeks.forEach((week, index) => {
+                    const score = student.quiz_scores[week];
+                    if (score > 0) { // 只显示有成绩的周次
+                        const item = document.createElement('div');
+                        item.className = 'quiz-score-item';
+                        item.innerHTML = `
+                            <div class="week">${weekNames[index]}</div>
+                            <div class="score">${score}分</div>
+                        `;
+                        quizScoresGrid.appendChild(item);
+                        
+                        totalQuizScore += score;
+                        quizCount++;
+                    }
+                });
+                
+                // 计算并显示测验总分（平均分）
+                const averageQuizScore = quizCount > 0 ? Math.round(totalQuizScore / quizCount) : 0;
+                quizTotalScore.textContent = averageQuizScore;
+                
+                // 显示期末论文成绩
+                if (student.final_paper > 0) {
+                    finalPaperScore.textContent = student.final_paper + '分';
+                } else {
+                    finalPaperScore.textContent = '待公布';
+                }
+                
+                // 显示课程总分
+                if (student.total_score > 0) {
+                    totalCourseScore.textContent = student.total_score + '分';
+                } else {
+                    totalCourseScore.textContent = '待计算';
+                }
+                
+                resultSection.style.display = 'block';
+                
+                // 滚动到结果区域
+                resultSection.scrollIntoView({ behavior: 'smooth' });
+                
             } else {
-                contentArea.style.display = 'none';
-                document.getElementById('loadingMessage').innerHTML = `
-                    <div class="error-message">
-                        未找到匹配的学生信息，请检查姓名和学号是否正确<br>
-                        已加载 ${courseData.students.length} 名学生数据<br>
-                        最后更新: ${courseData.last_updated}
-                    </div>
+                resultSection.style.display = 'block';
+                studentInfo.innerHTML = '';
+                attendanceGrid.innerHTML = '';
+                quizScoresGrid.innerHTML = '';
+                quizTotalScore.textContent = '0';
+                finalPaperScore.textContent = '待公布';
+                totalCourseScore.textContent = '待计算';
+                
+                const errorDiv = document.createElement('div');
+                errorDiv.className = 'error-message';
+                errorDiv.innerHTML = `
+                    未找到匹配的学生信息，请检查姓名和学号是否正确<br>
+                    已加载 ${scoresData.students.length} 名学生数据
                 `;
-                document.getElementById('loadingMessage').style.display = 'block';
+                quizScoresGrid.appendChild(errorDiv);
             }
-            
-            // 滚动到结果区域
-            resultSection.scrollIntoView({ behavior: 'smooth' });
         });
     </script>
 </body>
