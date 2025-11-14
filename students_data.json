@@ -1,620 +1,2783 @@
 [
   {
     "student_id": "2000013703",
-    "name": "2000013703",
-    "attendance": [],
+    "name": "仝仲杰",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "请假",
+        "score": null
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 94.0
+      },
+      {
+        "week": 8,
+        "status": "请假",
+        "score": null
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 71.0
+      }
+    ],
     "final_paper": 0.0
   },
   {
     "student_id": "2000091816",
-    "name": "2000091816",
-    "attendance": [],
+    "name": "安德鲁",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 40.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 93.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 96.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 76.0
+      }
+    ],
     "final_paper": 0.0
   },
   {
     "student_id": "2100014925",
-    "name": "2100014925",
-    "attendance": [],
+    "name": "包睿哲",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 93.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 98.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 84.0
+      }
+    ],
     "final_paper": 0.0
   },
   {
     "student_id": "2100014927",
-    "name": "2100014927",
-    "attendance": [],
+    "name": "李俊良",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "缺勤",
+        "score": null
+      },
+      {
+        "week": 6,
+        "status": "缺勤",
+        "score": null
+      },
+      {
+        "week": 8,
+        "status": "缺勤",
+        "score": null
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 63.0
+      }
+    ],
     "final_paper": -1.0
   },
   {
     "student_id": "2100014952",
-    "name": "2100014952",
-    "attendance": [],
+    "name": "施紫茵",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 80.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 92.0
+      },
+      {
+        "week": 8,
+        "status": "请假",
+        "score": null
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 80.0
+      }
+    ],
     "final_paper": 0.0
   },
   {
     "student_id": "2100092305",
-    "name": "2100092305",
-    "attendance": [],
+    "name": "陈博",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": null
+      },
+      {
+        "week": 8,
+        "status": "缺勤",
+        "score": null
+      },
+      {
+        "week": 10,
+        "status": "缺勤",
+        "score": 41.0
+      }
+    ],
     "final_paper": -1.0
   },
   {
     "student_id": "2200011415",
-    "name": "2200011415",
-    "attendance": [],
+    "name": "宋卓洋",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 97.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 75.0
+      }
+    ],
     "final_paper": 0.0
   },
   {
     "student_id": "2200011430",
-    "name": "2200011430",
-    "attendance": [],
+    "name": "杨旸",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 93.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 98.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 70.0
+      }
+    ],
     "final_paper": 0.0
   },
   {
     "student_id": "2200011446",
-    "name": "2200011446",
-    "attendance": [],
+    "name": "王若熙",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 96.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 91.0
+      }
+    ],
     "final_paper": 0.0
   },
   {
     "student_id": "2200011502",
-    "name": "2200011502",
-    "attendance": [],
+    "name": "徐铭宇",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 97.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 83.0
+      }
+    ],
     "final_paper": 0.0
   },
   {
     "student_id": "2200012152",
-    "name": "2200012152",
-    "attendance": [],
+    "name": "郑岳晨阳",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 92.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 98.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 78.0
+      }
+    ],
     "final_paper": 0.0
   },
   {
     "student_id": "2200012864",
-    "name": "2200012864",
-    "attendance": [],
+    "name": "赵希睿",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "请假",
+        "score": null
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 98.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 70.0
+      }
+    ],
     "final_paper": 0.0
   },
   {
     "student_id": "2200014904",
-    "name": "2200014904",
-    "attendance": [],
+    "name": "王易乾",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 95.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 96.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 82.0
+      }
+    ],
     "final_paper": 0.0
   },
   {
     "student_id": "2200014905",
-    "name": "2200014905",
-    "attendance": [],
+    "name": "袁黛茜",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 98.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 98.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 83.0
+      }
+    ],
     "final_paper": 0.0
   },
   {
     "student_id": "2200014906",
-    "name": "2200014906",
-    "attendance": [],
+    "name": "倪源辰",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 95.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 67.0
+      }
+    ],
     "final_paper": 0.0
   },
   {
     "student_id": "2200014917",
-    "name": "2200014917",
-    "attendance": [],
+    "name": "何慧琳",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "请假",
+        "score": null
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 96.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 96.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 82.0
+      }
+    ],
     "final_paper": 0.0
   },
   {
     "student_id": "2200014927",
-    "name": "2200014927",
-    "attendance": [],
+    "name": "周航羽",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "缺勤",
+        "score": null
+      },
+      {
+        "week": 6,
+        "status": "缺勤",
+        "score": null
+      },
+      {
+        "week": 8,
+        "status": "缺勤",
+        "score": null
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 90.0
+      }
+    ],
     "final_paper": -1.0
   },
   {
     "student_id": "2200014932",
-    "name": "2200014932",
-    "attendance": [],
+    "name": "胡晨欣",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 94.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 96.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 86.0
+      }
+    ],
     "final_paper": 0.0
   },
   {
     "student_id": "2200014959",
-    "name": "2200014959",
-    "attendance": [],
+    "name": "陈思伽",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 96.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": null
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 75.0
+      }
+    ],
     "final_paper": 0.0
   },
   {
     "student_id": "2200014962",
-    "name": "2200014962",
-    "attendance": [],
+    "name": "白玛钰珍",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 95.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 94.0
+      }
+    ],
     "final_paper": 0.0
   },
   {
     "student_id": "2200015140",
-    "name": "2200015140",
-    "attendance": [],
+    "name": "邹富兴",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 93.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 98.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 84.0
+      }
+    ],
     "final_paper": 0.0
   },
   {
     "student_id": "2200017419",
-    "name": "2200017419",
-    "attendance": [],
+    "name": "景璧辉",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 96.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": null
+      }
+    ],
     "final_paper": 0.0
   },
   {
     "student_id": "2300011324",
-    "name": "2300011324",
-    "attendance": [],
+    "name": "屈尘骓",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 93.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 80.0
+      }
+    ],
     "final_paper": 0.0
   },
   {
     "student_id": "2300011342",
-    "name": "2300011342",
-    "attendance": [],
+    "name": "和宜周",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 95.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 98.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 72.0
+      }
+    ],
     "final_paper": 0.0
   },
   {
     "student_id": "2300011558",
-    "name": "2300011558",
-    "attendance": [],
+    "name": "王之恒",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 95.0
+      },
+      {
+        "week": 8,
+        "status": "缺勤",
+        "score": null
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 65.0
+      }
+    ],
     "final_paper": -1.0
   },
   {
     "student_id": "2300011740",
-    "name": "2300011740",
-    "attendance": [],
+    "name": "李中烨",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 94.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 98.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 70.0
+      }
+    ],
     "final_paper": 0.0
   },
   {
     "student_id": "2300012808",
-    "name": "2300012808",
-    "attendance": [],
+    "name": "梁天睿",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 95.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 98.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 77.0
+      }
+    ],
     "final_paper": 0.0
   },
   {
     "student_id": "2300012861",
-    "name": "2300012861",
-    "attendance": [],
+    "name": "陈禹铭",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 93.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 98.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 94.0
+      }
+    ],
     "final_paper": 0.0
   },
   {
     "student_id": "2300013922",
-    "name": "2300013922",
-    "attendance": [],
+    "name": "赵海涵",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 80.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 96.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 98.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 67.0
+      }
+    ],
     "final_paper": 0.0
   },
   {
     "student_id": "2300014226",
-    "name": "2300014226",
-    "attendance": [],
+    "name": "冯海敏",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 97.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 82.0
+      }
+    ],
     "final_paper": 0.0
   },
   {
     "student_id": "2300014522",
-    "name": "2300014522",
-    "attendance": [],
+    "name": "张逸凡",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 96.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 88.0
+      }
+    ],
     "final_paper": 0.0
   },
   {
     "student_id": "2300014570",
-    "name": "2300014570",
-    "attendance": [],
+    "name": "王墨涵",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 80.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 93.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 98.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 71.0
+      }
+    ],
     "final_paper": 0.0
   },
   {
     "student_id": "2300014902",
-    "name": "2300014902",
-    "attendance": [],
+    "name": "苏昱峰",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 92.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 69.0
+      }
+    ],
     "final_paper": 0.0
   },
   {
     "student_id": "2300014923",
-    "name": "2300014923",
-    "attendance": [],
+    "name": "陈茁",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 96.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 84.0
+      }
+    ],
     "final_paper": 0.0
   },
   {
     "student_id": "2300014956",
-    "name": "2300014956",
-    "attendance": [],
+    "name": "李晓鹏",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 93.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 96.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 77.0
+      }
+    ],
     "final_paper": 0.0
   },
   {
     "student_id": "2300014958",
-    "name": "2300014958",
-    "attendance": [],
+    "name": "曹荣乐",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 94.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 79.0
+      }
+    ],
     "final_paper": 0.0
   },
   {
     "student_id": "2300014959",
-    "name": "2300014959",
-    "attendance": [],
+    "name": "周子越",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 95.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 87.0
+      }
+    ],
     "final_paper": 0.0
   },
   {
     "student_id": "2300014962",
-    "name": "2300014962",
-    "attendance": [],
+    "name": "蒋梦烨",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "请假",
+        "score": null
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 94.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 98.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 79.0
+      }
+    ],
     "final_paper": 0.0
   },
   {
     "student_id": "2300014965",
-    "name": "2300014965",
-    "attendance": [],
+    "name": "苏乐儿",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 95.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 81.0
+      }
+    ],
     "final_paper": 0.0
   },
   {
     "student_id": "2300016327",
-    "name": "2300016327",
-    "attendance": [],
+    "name": "李企淳",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 95.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 74.0
+      }
+    ],
     "final_paper": 0.0
   },
   {
     "student_id": "2300092302",
-    "name": "2300092302",
-    "attendance": [],
+    "name": "南浦知帰",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 95.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 60.0
+      }
+    ],
     "final_paper": 0.0
   },
   {
     "student_id": "2300094307",
-    "name": "2300094307",
-    "attendance": [],
+    "name": "李清莲",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 94.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": null
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 67.0
+      }
+    ],
     "final_paper": 0.0
   },
   {
     "student_id": "2400010971",
-    "name": "2400010971",
-    "attendance": [],
+    "name": "蔺赓泽",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 96.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 89.0
+      }
+    ],
     "final_paper": 0.0
   },
   {
     "student_id": "2400010985",
-    "name": "2400010985",
-    "attendance": [],
+    "name": "陈怀瑜",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 96.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 91.0
+      }
+    ],
     "final_paper": 0.0
   },
   {
     "student_id": "2400010989",
-    "name": "2400010989",
-    "attendance": [],
+    "name": "韩宇宸",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 95.0
+      },
+      {
+        "week": 8,
+        "status": "请假",
+        "score": null
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 83.0
+      }
+    ],
     "final_paper": 0.0
   },
   {
     "student_id": "2400011024",
-    "name": "2400011024",
-    "attendance": [],
+    "name": "王贤瑞",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 96.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 98.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 59.0
+      }
+    ],
     "final_paper": 0.0
   },
   {
     "student_id": "2400011207",
-    "name": "2400011207",
-    "attendance": [],
+    "name": "林柏豪",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 95.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 96.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 73.0
+      }
+    ],
     "final_paper": 0.0
   },
   {
     "student_id": "2400011304",
-    "name": "2400011304",
-    "attendance": [],
+    "name": "刘聃",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 94.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 98.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 80.0
+      }
+    ],
     "final_paper": 0.0
   },
   {
     "student_id": "2400011452",
-    "name": "2400011452",
-    "attendance": [],
+    "name": "翁宇阳",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 94.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 96.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 79.0
+      }
+    ],
     "final_paper": 0.0
   },
   {
     "student_id": "2400011581",
-    "name": "2400011581",
-    "attendance": [],
+    "name": "顾博宇",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 94.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 89.0
+      }
+    ],
     "final_paper": 0.0
   },
   {
     "student_id": "2400011761",
-    "name": "2400011761",
-    "attendance": [],
+    "name": "郑翰永",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 96.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 66.0
+      }
+    ],
     "final_paper": 0.0
   },
   {
     "student_id": "2400011798",
-    "name": "2400011798",
-    "attendance": [],
+    "name": "傅玉成",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 95.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 78.0
+      }
+    ],
     "final_paper": 0.0
   },
   {
     "student_id": "2400012158",
-    "name": "2400012158",
-    "attendance": [],
+    "name": "唐诗棋",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 95.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 98.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 63.0
+      }
+    ],
     "final_paper": 0.0
   },
   {
     "student_id": "2400012295",
-    "name": "2400012295",
-    "attendance": [],
+    "name": "王佑名",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 80.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 94.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 59.0
+      }
+    ],
     "final_paper": 0.0
   },
   {
     "student_id": "2400012603",
-    "name": "2400012603",
-    "attendance": [],
+    "name": "张洺瑜",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 93.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 91.0
+      }
+    ],
     "final_paper": 0.0
   },
   {
     "student_id": "2400013260",
-    "name": "2400013260",
-    "attendance": [],
+    "name": "徐艺匀",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 96.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 43.0
+      }
+    ],
     "final_paper": 0.0
   },
   {
     "student_id": "2400013755",
-    "name": "2400013755",
-    "attendance": [],
+    "name": "刘丛竹",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 94.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 98.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 75.0
+      }
+    ],
     "final_paper": 0.0
   },
   {
     "student_id": "2400014957",
-    "name": "2400014957",
-    "attendance": [],
+    "name": "王奕菲",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 93.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 98.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 80.0
+      }
+    ],
     "final_paper": 0.0
   },
   {
     "student_id": "2400015415",
-    "name": "2400015415",
-    "attendance": [],
+    "name": "陈欣怡",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 94.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 96.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 86.0
+      }
+    ],
     "final_paper": 0.0
   },
   {
     "student_id": "2400015487",
-    "name": "2400015487",
-    "attendance": [],
+    "name": "刘文谨",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 95.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 65.0
+      }
+    ],
     "final_paper": 0.0
   },
   {
     "student_id": "2400015886",
-    "name": "2400015886",
-    "attendance": [],
+    "name": "齐羽丰",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 95.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 65.0
+      }
+    ],
     "final_paper": 0.0
   },
   {
     "student_id": "2400016640",
-    "name": "2400016640",
-    "attendance": [],
+    "name": "蒋宇",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 94.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 98.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 83.0
+      }
+    ],
     "final_paper": 0.0
   },
   {
     "student_id": "2400017403",
-    "name": "2400017403",
-    "attendance": [],
+    "name": "张吟聆",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 96.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 72.0
+      }
+    ],
     "final_paper": 0.0
   },
   {
     "student_id": "2400018415",
-    "name": "2400018415",
-    "attendance": [],
+    "name": "王淇渲",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 97.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 97.0
+      }
+    ],
     "final_paper": 0.0
   },
   {
     "student_id": "2400912016",
-    "name": "2400912016",
-    "attendance": [],
+    "name": "李丰喆",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 93.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 98.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 68.0
+      }
+    ],
     "final_paper": 0.0
   },
   {
     "student_id": "2400912017",
-    "name": "2400912017",
-    "attendance": [],
+    "name": "李基皓",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 93.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 63.0
+      }
+    ],
     "final_paper": 0.0
   },
   {
     "student_id": "2410108213",
-    "name": "2410108213",
-    "attendance": [],
+    "name": "孔凡",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 95.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 98.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 64.0
+      }
+    ],
     "final_paper": 0.0
   },
   {
     "student_id": "2410124242",
-    "name": "2410124242",
-    "attendance": [],
+    "name": "张震",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 97.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 98.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 76.0
+      }
+    ],
     "final_paper": 0.0
   },
   {
     "student_id": "2500011011",
-    "name": "2500011011",
-    "attendance": [],
+    "name": "陆亦铭",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 94.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 98.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 71.0
+      }
+    ],
     "final_paper": 0.0
   },
   {
     "student_id": "2500011044",
-    "name": "2500011044",
-    "attendance": [],
+    "name": "贾雯博",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 95.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 98.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 91.0
+      }
+    ],
     "final_paper": 0.0
   },
   {
     "student_id": "2500011130",
-    "name": "2500011130",
-    "attendance": [],
+    "name": "赵东兴",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 93.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 98.0
+      },
+      {
+        "week": 10,
+        "status": "缺勤",
+        "score": null
+      }
+    ],
     "final_paper": -1.0
   },
   {
     "student_id": "2500011439",
-    "name": "2500011439",
-    "attendance": [],
+    "name": "倪梓阳",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 93.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 98.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 83.0
+      }
+    ],
     "final_paper": 0.0
   },
   {
     "student_id": "2500011454",
-    "name": "2500011454",
-    "attendance": [],
+    "name": "王靖翔",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 95.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 85.0
+      }
+    ],
     "final_paper": 0.0
   },
   {
     "student_id": "2500011459",
-    "name": "2500011459",
-    "attendance": [],
+    "name": "韩学晨",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 94.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 94.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 85.0
+      }
+    ],
     "final_paper": 0.0
   },
   {
     "student_id": "2500011493",
-    "name": "2500011493",
-    "attendance": [],
+    "name": "王千一",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 98.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 96.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 100.0
+      }
+    ],
     "final_paper": 0.0
   },
   {
     "student_id": "2500012307",
-    "name": "2500012307",
-    "attendance": [],
+    "name": "王维石",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 80.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 96.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 98.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 77.0
+      }
+    ],
     "final_paper": 0.0
   },
   {
     "student_id": "2500012411",
-    "name": "2500012411",
-    "attendance": [],
+    "name": "周琳萱",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 95.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 83.0
+      }
+    ],
     "final_paper": 0.0
   },
   {
     "student_id": "2500012817",
-    "name": "2500012817",
-    "attendance": [],
+    "name": "马健",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 98.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 100.0
+      }
+    ],
     "final_paper": 0.0
   },
   {
     "student_id": "2500013046",
-    "name": "2500013046",
-    "attendance": [],
+    "name": "于俊龙",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 94.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 71.0
+      }
+    ],
     "final_paper": 0.0
   },
   {
     "student_id": "2500013066",
-    "name": "2500013066",
-    "attendance": [],
+    "name": "马语辰",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 96.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 94.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 85.0
+      }
+    ],
     "final_paper": 0.0
   },
   {
     "student_id": "2500013196",
-    "name": "2500013196",
-    "attendance": [],
+    "name": "李根智",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 96.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 86.0
+      }
+    ],
     "final_paper": 0.0
   },
   {
     "student_id": "2500013203",
-    "name": "2500013203",
-    "attendance": [],
+    "name": "李乐天丞",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 94.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 96.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 81.0
+      }
+    ],
     "final_paper": 0.0
   },
   {
     "student_id": "2500016281",
-    "name": "2500016281",
-    "attendance": [],
+    "name": "王鑫雨",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 98.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 75.0
+      }
+    ],
     "final_paper": 0.0
   },
   {
     "student_id": "2500016614",
-    "name": "2500016614",
-    "attendance": [],
+    "name": "张翔",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 97.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 71.0
+      }
+    ],
     "final_paper": 0.0
   },
   {
     "student_id": "2500016932",
-    "name": "2500016932",
-    "attendance": [],
+    "name": "张兴悦",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 94.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 98.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 85.0
+      }
+    ],
     "final_paper": 0.0
   },
   {
     "student_id": "2500017815",
-    "name": "2500017815",
-    "attendance": [],
+    "name": "杨砺寒",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "请假",
+        "score": null
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 98.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 54.0
+      }
+    ],
     "final_paper": 0.0
   },
   {
     "student_id": "2500018402",
-    "name": "2500018402",
-    "attendance": [],
+    "name": "彭嘉涵",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 95.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 98.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 77.0
+      }
+    ],
     "final_paper": 0.0
   },
   {
     "student_id": "2500018508",
-    "name": "2500018508",
-    "attendance": [],
+    "name": "赵彦燃",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "请假",
+        "score": null
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 78.0
+      }
+    ],
     "final_paper": 0.0
   },
   {
     "student_id": "2500091806",
-    "name": "2500091806",
-    "attendance": [],
+    "name": "秧孝慈",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 96.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 98.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 76.0
+      }
+    ],
     "final_paper": 0.0
   },
   {
     "student_id": "2500931107",
-    "name": "2500931107",
-    "attendance": [],
+    "name": "马子涵",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 97.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 89.0
+      }
+    ],
     "final_paper": 0.0
   },
   {
     "student_id": "2500931114",
-    "name": "2500931114",
-    "attendance": [],
+    "name": "陈昫君",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 98.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 57.0
+      }
+    ],
     "final_paper": 0.0
   },
   {
     "student_id": "2500931121",
-    "name": "2500931121",
-    "attendance": [],
+    "name": "杜冰鑫",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 95.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 98.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 57.0
+      }
+    ],
     "final_paper": 0.0
   },
   {
     "student_id": "2510124209",
-    "name": "2510124209",
-    "attendance": [],
+    "name": "王奕晴",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 97.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 98.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 73.0
+      }
+    ],
     "final_paper": 0.0
   },
   {
     "student_id": "2510301105",
-    "name": "2510301105",
-    "attendance": [],
+    "name": "胡耀宇",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 95.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 63.0
+      }
+    ],
     "final_paper": 0.0
   },
   {
     "student_id": "2510301117",
-    "name": "2510301117",
-    "attendance": [],
+    "name": "王知宜",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 97.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 96.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 74.0
+      }
+    ],
     "final_paper": 0.0
   },
   {
     "student_id": "2510301141",
-    "name": "2510301141",
-    "attendance": [],
+    "name": "翟艺岚",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 94.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 98.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 86.0
+      }
+    ],
     "final_paper": 0.0
   },
   {
     "student_id": "2510301317",
-    "name": "2510301317",
-    "attendance": [],
+    "name": "钱知源",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 95.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 79.0
+      }
+    ],
     "final_paper": 0.0
   },
   {
     "student_id": "2510301324",
-    "name": "2510301324",
-    "attendance": [],
+    "name": "梁奥鑫",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 97.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 74.0
+      }
+    ],
     "final_paper": 0.0
   },
   {
     "student_id": "2510303107",
-    "name": "2510303107",
-    "attendance": [],
+    "name": "耿潇扬",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 94.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 98.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 74.0
+      }
+    ],
     "final_paper": 0.0
   },
   {
     "student_id": "2510305108",
-    "name": "2510305108",
-    "attendance": [],
+    "name": "张靖韩",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 94.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 98.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 70.0
+      }
+    ],
     "final_paper": 0.0
   },
   {
     "student_id": "2510306235",
-    "name": "2510306235",
-    "attendance": [],
+    "name": "庄子宁",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 97.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 98.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 60.0
+      }
+    ],
     "final_paper": 0.0
   },
   {
     "student_id": "2510307419",
-    "name": "2510307419",
-    "attendance": [],
+    "name": "贾博雅",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 94.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 78.0
+      }
+    ],
     "final_paper": 0.0
   },
   {
     "student_id": "北京外国语大学",
-    "name": "北京外国语大学",
-    "attendance": [],
+    "name": "吴羿筱",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "请假",
+        "score": null
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 95.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 62.0
+      }
+    ],
     "final_paper": 0.0
   }
 ]
