@@ -406,7 +406,7 @@
                 scoresSummary.innerHTML = `
                     <div class="score-card quiz-total">
                         <h3>测验总分</h3>
-                        <div class="score-value">${student.quiz_total}</div>
+                        <div class="score-value">${student.quiz_total} / 60</div>
                         <div class="score-details">
                             基于 ${validScores.length} 次有效测验成绩<br>
                             最高四次: ${topScores.map(s => s.score).join(' + ')} = ${topScores.reduce((sum, s) => sum + s.score, 0)}<br>
@@ -419,8 +419,8 @@
                         <div class="score-details">
                             缺勤 ${student.absent_count} 次<br>
                             ${student.absent_count === 0 ? '无缺勤，不扣分' : 
-                              student.absent_count <= 3 ? '1-3次缺勤，扣1分' : 
-                              '4-7次缺勤，扣2分'}
+                              student.absent_count <= 3 ? '1~3次缺勤，扣1分' : 
+                              '4~7次缺勤，扣2分'}
                         </div>
                     </div>
                     <div class="score-card final-score">
