@@ -226,6 +226,21 @@
             font-weight: bold;
             color: #2c3e50;
         }
+
+        .quiz-score-item.no-score {
+            background: #f8f9fa;
+            border-left: 4px solid #bdc3c7;
+            color: #95a5a6;
+        }
+        
+        .quiz-score-item.no-score .week {
+            color: #95a5a6;
+        }
+        
+        .quiz-score-item.no-score .score {
+            color: #95a5a6;
+            font-weight: normal;
+        }
         
         .total-display {
             background: linear-gradient(135deg, #2ecc71, #27ae60);
@@ -316,7 +331,7 @@
             
             <!-- 考勤信息面板 -->
             <div class="info-panel" id="attendancePanel">
-                <h3>📅 考勤信息</h3>
+                <h3>考勤信息</h3>
                 <div class="rules-section">
                     <h4>考勤分计算规则</h4>
                     <ul>
@@ -334,7 +349,11 @@
             
             <!-- 测验成绩面板 -->
             <div class="info-panel" id="quizScoresPanel">
-                <h3>📊 各周测验成绩</h3>
+                <h3>各周测验成绩</h3>
+                <div class="quiz-total-display">
+                     <span id="quizTotalScore">0</span> / 60
+                </div>
+                <div class="quiz-scores-grid" id="quizScoresGrid"></div>
                 <div class="rules-section">
                     <h4>测验总分计算规则</h4>
                     <ul>
@@ -342,16 +361,13 @@
                         <li>计算结果四舍五入取整</li>
                     </ul>
                 </div>
-                <div class="quiz-scores-grid" id="quizScoresGrid"></div>
                 <div class="calculation-details" id="quizCalculationDetails"></div>
-                <div class="quiz-total-display">
-                    测验总分: <span id="quizTotalScore">0</span> 分
-                </div>
+                
             </div>
             
             <!-- 期末论文分数面板 -->
             <div class="info-panel" id="finalPaperPanel">
-                <h3>📝 期末论文成绩</h3>
+                <h3>期末论文成绩</h3>
                 <div class="final-paper-display">
                     论文分数: <span id="finalPaperScore">待公布</span>
                 </div>
@@ -359,7 +375,7 @@
             
             <!-- 课程总分面板 -->
             <div class="info-panel" id="totalScorePanel">
-                <h3>🏆 课程总成绩</h3>
+                <h3>课程总成绩</h3>
                 <div class="rules-section">
                     <h4>课程总分计算规则</h4>
                     <ul>
@@ -432,6 +448,68 @@
                     <h3>${student.name} 同学</h3>
                     <p>学号: ${student.id}</p>
                 `;
+
+                // 显示各周测验成绩并计算测验总分
+                quizScoresGrid.innerHTML = '';
+                let allQuizScores = [];
+                
+                // 收集所有有成绩的周次
+                weeks.forEach((week, index) => {
+                    const score = student.quiz_scores[week];
+                    if (score > 0) { // 只收集有成绩的周次用于计算
+                        allQuizScores.push({
+                            week: weekNames[index],
+                            score: score
+                        });
+                    }
+                });
+                
+                // 按成绩降序排序，取最高的四次
+                allQuizScores.sort((a, b) => b.score - a.score);
+                const topFourScores = allQuizScores.slice(0, 4);
+                const topFourSum = topFourScores.reduce((sum, item) => sum + item.score, 0);
+                const quizTotal = Math.round(topFourSum * 0.15);
+
+                // 显示测验总分
+                quizTotalScore.textContent = quizTotal;
+                
+                // 显示所有周次的测验成绩，包括没有成绩的周次
+                weeks.forEach((week, index) => {
+                    const score = student.quiz_scores[week];
+                    const weekName = weekNames[index];
+                    const hasScore = score > 0;
+                    const isHighScore = hasScore && topFourScores.some(item => item.week === weekName && item.score === score);
+                    
+                    const item = document.createElement('div');
+                    
+                    if (hasScore) {
+                        item.className = `quiz-score-item ${isHighScore ? 'high-score' : ''}`;
+                        item.innerHTML = `
+                            <div class="week">${weekName}</div>
+                            <div class="score">${score}分</div>
+                        `;
+                    } else {
+                        item.className = 'quiz-score-item no-score';
+                        item.innerHTML = `
+                            <div class="week">${weekName}</div>
+                            <div class="score">--</div>
+                        `;
+                    }
+                    
+                    quizScoresGrid.appendChild(item);
+                });
+                
+                // 显示测验计算详情
+                if (topFourScores.length > 0) {
+                    let detailsHtml = '<p><strong>计算详情：</strong></p>';
+                    detailsHtml += `<p>最高四次成绩: ${topFourScores.map(item => `${item.week}(${item.score}分)`).join(' + ')}</p>`;
+                    detailsHtml += `<p>最高四次成绩总和: ${topFourSum}分</p>`;
+                    detailsHtml += `<p>${topFourSum} × 15% = ${quizTotal}分</p>`;
+                    quizCalculationDetails.innerHTML = detailsHtml;
+                } else {
+                    quizCalculationDetails.innerHTML = '<p>暂无测验成绩</p>';
+                }
+                
                 
                 // 显示考勤信息
                 attendanceGrid.innerHTML = '';
@@ -463,63 +541,11 @@
                 // 显示考勤总分
                 attendanceTotal.textContent = student.attendance_total;
                 
-                // 显示各周测验成绩并计算测验总分
-                quizScoresGrid.innerHTML = '';
-                let allQuizScores = [];
-                
-                weeks.forEach((week, index) => {
-                    const score = student.quiz_scores[week];
-                    if (score > 0) { // 只显示有成绩的周次
-                        allQuizScores.push({
-                            week: weekNames[index],
-                            score: score
-                        });
-                    }
-                });
-                
-                // 按成绩降序排序，取最高的四次
-                allQuizScores.sort((a, b) => b.score - a.score);
-                const topFourScores = allQuizScores.slice(0, 4);
-                const topFourSum = topFourScores.reduce((sum, item) => sum + item.score, 0);
-                const quizTotal = Math.round(topFourSum * 0.15);
-                
-                // 显示所有测验成绩，并高亮显示最高的四次
-                weeks.forEach((week, index) => {
-                    const score = student.quiz_scores[week];
-                    if (score > 0) { // 只显示有成绩的周次
-                        const weekName = weekNames[index];
-                        const isHighScore = topFourScores.some(item => item.week === weekName && item.score === score);
-                        
-                        const item = document.createElement('div');
-                        item.className = `quiz-score-item ${isHighScore ? 'high-score' : ''}`;
-                        item.innerHTML = `
-                            <div class="week">${weekName}</div>
-                            <div class="score">${score}分</div>
-                        `;
-                        quizScoresGrid.appendChild(item);
-                    }
-                });
-                
-                // 显示测验计算详情
-                if (topFourScores.length > 0) {
-                    let detailsHtml = '<p><strong>计算详情：</strong></p>';
-                    detailsHtml += `<p>最高四次成绩: ${topFourScores.map(item => `${item.week}(${item.score}分)`).join(' + ')}</p>`;
-                    detailsHtml += `<p>最高四次成绩总和: ${topFourSum}分</p>`;
-                    detailsHtml += `<p>${topFourSum} × 15% = ${(topFourSum * 0.15).toFixed(2)}分</p>`;
-                    detailsHtml += `<p>四舍五入取整: <strong>${quizTotal}分</strong></p>`;
-                    quizCalculationDetails.innerHTML = detailsHtml;
-                } else {
-                    quizCalculationDetails.innerHTML = '<p>暂无测验成绩</p>';
-                }
-                
-                // 显示测验总分
-                quizTotalScore.textContent = quizTotal / 60;
-                
                 // 显示期末论文成绩
                 let finalPaperValue = 0;
                 if (student.final_paper > 0) {
                     finalPaperValue = student.final_paper;
-                    finalPaperScore.textContent = finalPaperValue + '分';
+                    finalPaperScore.textContent = finalPaperValue / 40;
                 } else {
                     finalPaperScore.textContent = '--';
                 }
@@ -545,7 +571,7 @@
                     totalDetailsHtml += `<p>${quizTotal} + ${attendanceValue} + ${finalPaperValue} = <strong>${totalValue}分</strong></p>`;
                     totalCalculationDetails.innerHTML = totalDetailsHtml;
                     
-                    totalCourseScore.textContent = totalValue + '分';
+                    totalCourseScore.textContent = totalValue / 100;
                 } else {
                     totalCalculationDetails.innerHTML = '<p>待期末论文成绩公布后计算</p>';
                     totalCourseScore.textContent = '待计算';
