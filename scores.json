@@ -1,0 +1,2579 @@
+{
+  "students": [
+    {
+      "name": "仝仲杰",
+      "id": "2000013703",
+      "attendance": {
+        "week3": "请假",
+        "week6": "出勤",
+        "week8": "请假",
+        "week10": "出勤",
+        "week12": "",
+        "week14": "",
+        "week16": ""
+      },
+      "quiz_scores": {
+        "week3": 0,
+        "week6": 94,
+        "week8": 0,
+        "week10": 71,
+        "week12": 0,
+        "week14": 0,
+        "week16": 0
+      },
+      "attendance_total": 0,
+      "final_paper": 0,
+      "total_score": 0
+    },
+    {
+      "name": "安德鲁",
+      "id": "2000091816",
+      "attendance": {
+        "week3": "出勤",
+        "week6": "出勤",
+        "week8": "出勤",
+        "week10": "出勤",
+        "week12": "",
+        "week14": "",
+        "week16": ""
+      },
+      "quiz_scores": {
+        "week3": 40,
+        "week6": 93,
+        "week8": 96,
+        "week10": 76,
+        "week12": 0,
+        "week14": 0,
+        "week16": 0
+      },
+      "attendance_total": 0,
+      "final_paper": 0,
+      "total_score": 0
+    },
+    {
+      "name": "包睿哲",
+      "id": "2100014925",
+      "attendance": {
+        "week3": "出勤",
+        "week6": "出勤",
+        "week8": "出勤",
+        "week10": "出勤",
+        "week12": "",
+        "week14": "",
+        "week16": ""
+      },
+      "quiz_scores": {
+        "week3": 100,
+        "week6": 93,
+        "week8": 98,
+        "week10": 84,
+        "week12": 0,
+        "week14": 0,
+        "week16": 0
+      },
+      "attendance_total": 0,
+      "final_paper": 0,
+      "total_score": 0
+    },
+    {
+      "name": "李俊良",
+      "id": "2100014927",
+      "attendance": {
+        "week3": "缺勤",
+        "week6": "缺勤",
+        "week8": "缺勤",
+        "week10": "出勤",
+        "week12": "",
+        "week14": "",
+        "week16": ""
+      },
+      "quiz_scores": {
+        "week3": 0,
+        "week6": 0,
+        "week8": 0,
+        "week10": 63,
+        "week12": 0,
+        "week14": 0,
+        "week16": 0
+      },
+      "attendance_total": -1,
+      "final_paper": 0,
+      "total_score": 0
+    },
+    {
+      "name": "施紫茵",
+      "id": "2100014952",
+      "attendance": {
+        "week3": "出勤",
+        "week6": "出勤",
+        "week8": "请假",
+        "week10": "出勤",
+        "week12": "",
+        "week14": "",
+        "week16": ""
+      },
+      "quiz_scores": {
+        "week3": 80,
+        "week6": 92,
+        "week8": 0,
+        "week10": 80,
+        "week12": 0,
+        "week14": 0,
+        "week16": 0
+      },
+      "attendance_total": 0,
+      "final_paper": 0,
+      "total_score": 0
+    },
+    {
+      "name": "陈博",
+      "id": "2100092305",
+      "attendance": {
+        "week3": "出勤",
+        "week6": "出勤",
+        "week8": "缺勤",
+        "week10": "缺勤",
+        "week12": "",
+        "week14": "",
+        "week16": ""
+      },
+      "quiz_scores": {
+        "week3": 100,
+        "week6": 0,
+        "week8": 0,
+        "week10": 41,
+        "week12": 0,
+        "week14": 0,
+        "week16": 0
+      },
+      "attendance_total": -1,
+      "final_paper": 0,
+      "total_score": 0
+    },
+    {
+      "name": "宋卓洋",
+      "id": "2200011415",
+      "attendance": {
+        "week3": "出勤",
+        "week6": "出勤",
+        "week8": "出勤",
+        "week10": "出勤",
+        "week12": "",
+        "week14": "",
+        "week16": ""
+      },
+      "quiz_scores": {
+        "week3": 100,
+        "week6": 97,
+        "week8": 100,
+        "week10": 75,
+        "week12": 0,
+        "week14": 0,
+        "week16": 0
+      },
+      "attendance_total": 0,
+      "final_paper": 0,
+      "total_score": 0
+    },
+    {
+      "name": "杨旸",
+      "id": "2200011430",
+      "attendance": {
+        "week3": "出勤",
+        "week6": "出勤",
+        "week8": "出勤",
+        "week10": "出勤",
+        "week12": "",
+        "week14": "",
+        "week16": ""
+      },
+      "quiz_scores": {
+        "week3": 100,
+        "week6": 93,
+        "week8": 98,
+        "week10": 70,
+        "week12": 0,
+        "week14": 0,
+        "week16": 0
+      },
+      "attendance_total": 0,
+      "final_paper": 0,
+      "total_score": 0
+    },
+    {
+      "name": "王若熙",
+      "id": "2200011446",
+      "attendance": {
+        "week3": "出勤",
+        "week6": "出勤",
+        "week8": "出勤",
+        "week10": "出勤",
+        "week12": "",
+        "week14": "",
+        "week16": ""
+      },
+      "quiz_scores": {
+        "week3": 100,
+        "week6": 96,
+        "week8": 100,
+        "week10": 91,
+        "week12": 0,
+        "week14": 0,
+        "week16": 0
+      },
+      "attendance_total": 0,
+      "final_paper": 0,
+      "total_score": 0
+    },
+    {
+      "name": "徐铭宇",
+      "id": "2200011502",
+      "attendance": {
+        "week3": "出勤",
+        "week6": "出勤",
+        "week8": "出勤",
+        "week10": "出勤",
+        "week12": "",
+        "week14": "",
+        "week16": ""
+      },
+      "quiz_scores": {
+        "week3": 100,
+        "week6": 97,
+        "week8": 100,
+        "week10": 83,
+        "week12": 0,
+        "week14": 0,
+        "week16": 0
+      },
+      "attendance_total": 0,
+      "final_paper": 0,
+      "total_score": 0
+    },
+    {
+      "name": "郑岳晨阳",
+      "id": "2200012152",
+      "attendance": {
+        "week3": "出勤",
+        "week6": "出勤",
+        "week8": "出勤",
+        "week10": "出勤",
+        "week12": "",
+        "week14": "",
+        "week16": ""
+      },
+      "quiz_scores": {
+        "week3": 100,
+        "week6": 92,
+        "week8": 98,
+        "week10": 78,
+        "week12": 0,
+        "week14": 0,
+        "week16": 0
+      },
+      "attendance_total": 0,
+      "final_paper": 0,
+      "total_score": 0
+    },
+    {
+      "name": "赵希睿",
+      "id": "2200012864",
+      "attendance": {
+        "week3": "出勤",
+        "week6": "请假",
+        "week8": "出勤",
+        "week10": "出勤",
+        "week12": "",
+        "week14": "",
+        "week16": ""
+      },
+      "quiz_scores": {
+        "week3": 100,
+        "week6": 0,
+        "week8": 98,
+        "week10": 70,
+        "week12": 0,
+        "week14": 0,
+        "week16": 0
+      },
+      "attendance_total": 0,
+      "final_paper": 0,
+      "total_score": 0
+    },
+    {
+      "name": "王易乾",
+      "id": "2200014904",
+      "attendance": {
+        "week3": "出勤",
+        "week6": "出勤",
+        "week8": "出勤",
+        "week10": "出勤",
+        "week12": "",
+        "week14": "",
+        "week16": ""
+      },
+      "quiz_scores": {
+        "week3": 100,
+        "week6": 95,
+        "week8": 96,
+        "week10": 82,
+        "week12": 0,
+        "week14": 0,
+        "week16": 0
+      },
+      "attendance_total": 0,
+      "final_paper": 0,
+      "total_score": 0
+    },
+    {
+      "name": "袁黛茜",
+      "id": "2200014905",
+      "attendance": {
+        "week3": "出勤",
+        "week6": "出勤",
+        "week8": "出勤",
+        "week10": "出勤",
+        "week12": "",
+        "week14": "",
+        "week16": ""
+      },
+      "quiz_scores": {
+        "week3": 100,
+        "week6": 98,
+        "week8": 98,
+        "week10": 83,
+        "week12": 0,
+        "week14": 0,
+        "week16": 0
+      },
+      "attendance_total": 0,
+      "final_paper": 0,
+      "total_score": 0
+    },
+    {
+      "name": "倪源辰",
+      "id": "2200014906",
+      "attendance": {
+        "week3": "出勤",
+        "week6": "出勤",
+        "week8": "出勤",
+        "week10": "出勤",
+        "week12": "",
+        "week14": "",
+        "week16": ""
+      },
+      "quiz_scores": {
+        "week3": 100,
+        "week6": 95,
+        "week8": 100,
+        "week10": 67,
+        "week12": 0,
+        "week14": 0,
+        "week16": 0
+      },
+      "attendance_total": 0,
+      "final_paper": 0,
+      "total_score": 0
+    },
+    {
+      "name": "何慧琳",
+      "id": "2200014917",
+      "attendance": {
+        "week3": "请假",
+        "week6": "出勤",
+        "week8": "出勤",
+        "week10": "出勤",
+        "week12": "",
+        "week14": "",
+        "week16": ""
+      },
+      "quiz_scores": {
+        "week3": 0,
+        "week6": 96,
+        "week8": 96,
+        "week10": 82,
+        "week12": 0,
+        "week14": 0,
+        "week16": 0
+      },
+      "attendance_total": 0,
+      "final_paper": 0,
+      "total_score": 0
+    },
+    {
+      "name": "周航羽",
+      "id": "2200014927",
+      "attendance": {
+        "week3": "缺勤",
+        "week6": "缺勤",
+        "week8": "缺勤",
+        "week10": "出勤",
+        "week12": "",
+        "week14": "",
+        "week16": ""
+      },
+      "quiz_scores": {
+        "week3": 0,
+        "week6": 0,
+        "week8": 0,
+        "week10": 90,
+        "week12": 0,
+        "week14": 0,
+        "week16": 0
+      },
+      "attendance_total": -1,
+      "final_paper": 0,
+      "total_score": 0
+    },
+    {
+      "name": "胡晨欣",
+      "id": "2200014932",
+      "attendance": {
+        "week3": "出勤",
+        "week6": "出勤",
+        "week8": "出勤",
+        "week10": "出勤",
+        "week12": "",
+        "week14": "",
+        "week16": ""
+      },
+      "quiz_scores": {
+        "week3": 100,
+        "week6": 94,
+        "week8": 96,
+        "week10": 86,
+        "week12": 0,
+        "week14": 0,
+        "week16": 0
+      },
+      "attendance_total": 0,
+      "final_paper": 0,
+      "total_score": 0
+    },
+    {
+      "name": "陈思伽",
+      "id": "2200014959",
+      "attendance": {
+        "week3": "出勤",
+        "week6": "出勤",
+        "week8": "出勤",
+        "week10": "出勤",
+        "week12": "",
+        "week14": "",
+        "week16": ""
+      },
+      "quiz_scores": {
+        "week3": 100,
+        "week6": 96,
+        "week8": 0,
+        "week10": 75,
+        "week12": 0,
+        "week14": 0,
+        "week16": 0
+      },
+      "attendance_total": 0,
+      "final_paper": 0,
+      "total_score": 0
+    },
+    {
+      "name": "白玛钰珍",
+      "id": "2200014962",
+      "attendance": {
+        "week3": "出勤",
+        "week6": "出勤",
+        "week8": "出勤",
+        "week10": "出勤",
+        "week12": "",
+        "week14": "",
+        "week16": ""
+      },
+      "quiz_scores": {
+        "week3": 100,
+        "week6": 95,
+        "week8": 100,
+        "week10": 94,
+        "week12": 0,
+        "week14": 0,
+        "week16": 0
+      },
+      "attendance_total": 0,
+      "final_paper": 0,
+      "total_score": 0
+    },
+    {
+      "name": "邹富兴",
+      "id": "2200015140",
+      "attendance": {
+        "week3": "出勤",
+        "week6": "出勤",
+        "week8": "出勤",
+        "week10": "出勤",
+        "week12": "",
+        "week14": "",
+        "week16": ""
+      },
+      "quiz_scores": {
+        "week3": 100,
+        "week6": 93,
+        "week8": 98,
+        "week10": 84,
+        "week12": 0,
+        "week14": 0,
+        "week16": 0
+      },
+      "attendance_total": 0,
+      "final_paper": 0,
+      "total_score": 0
+    },
+    {
+      "name": "景璧辉",
+      "id": "2200017419",
+      "attendance": {
+        "week3": "出勤",
+        "week6": "出勤",
+        "week8": "出勤",
+        "week10": "出勤",
+        "week12": "",
+        "week14": "",
+        "week16": ""
+      },
+      "quiz_scores": {
+        "week3": 100,
+        "week6": 96,
+        "week8": 100,
+        "week10": 0,
+        "week12": 0,
+        "week14": 0,
+        "week16": 0
+      },
+      "attendance_total": 0,
+      "final_paper": 0,
+      "total_score": 0
+    },
+    {
+      "name": "屈尘骓",
+      "id": "2300011324",
+      "attendance": {
+        "week3": "出勤",
+        "week6": "出勤",
+        "week8": "出勤",
+        "week10": "出勤",
+        "week12": "",
+        "week14": "",
+        "week16": ""
+      },
+      "quiz_scores": {
+        "week3": 100,
+        "week6": 93,
+        "week8": 100,
+        "week10": 80,
+        "week12": 0,
+        "week14": 0,
+        "week16": 0
+      },
+      "attendance_total": 0,
+      "final_paper": 0,
+      "total_score": 0
+    },
+    {
+      "name": "和宜周",
+      "id": "2300011342",
+      "attendance": {
+        "week3": "出勤",
+        "week6": "出勤",
+        "week8": "出勤",
+        "week10": "出勤",
+        "week12": "",
+        "week14": "",
+        "week16": ""
+      },
+      "quiz_scores": {
+        "week3": 100,
+        "week6": 95,
+        "week8": 98,
+        "week10": 72,
+        "week12": 0,
+        "week14": 0,
+        "week16": 0
+      },
+      "attendance_total": 0,
+      "final_paper": 0,
+      "total_score": 0
+    },
+    {
+      "name": "王之恒",
+      "id": "2300011558",
+      "attendance": {
+        "week3": "出勤",
+        "week6": "出勤",
+        "week8": "缺勤",
+        "week10": "出勤",
+        "week12": "",
+        "week14": "",
+        "week16": ""
+      },
+      "quiz_scores": {
+        "week3": 100,
+        "week6": 95,
+        "week8": 0,
+        "week10": 65,
+        "week12": 0,
+        "week14": 0,
+        "week16": 0
+      },
+      "attendance_total": -1,
+      "final_paper": 0,
+      "total_score": 0
+    },
+    {
+      "name": "李中烨",
+      "id": "2300011740",
+      "attendance": {
+        "week3": "出勤",
+        "week6": "出勤",
+        "week8": "出勤",
+        "week10": "出勤",
+        "week12": "",
+        "week14": "",
+        "week16": ""
+      },
+      "quiz_scores": {
+        "week3": 100,
+        "week6": 94,
+        "week8": 98,
+        "week10": 70,
+        "week12": 0,
+        "week14": 0,
+        "week16": 0
+      },
+      "attendance_total": 0,
+      "final_paper": 0,
+      "total_score": 0
+    },
+    {
+      "name": "梁天睿",
+      "id": "2300012808",
+      "attendance": {
+        "week3": "出勤",
+        "week6": "出勤",
+        "week8": "出勤",
+        "week10": "出勤",
+        "week12": "",
+        "week14": "",
+        "week16": ""
+      },
+      "quiz_scores": {
+        "week3": 100,
+        "week6": 95,
+        "week8": 98,
+        "week10": 77,
+        "week12": 0,
+        "week14": 0,
+        "week16": 0
+      },
+      "attendance_total": 0,
+      "final_paper": 0,
+      "total_score": 0
+    },
+    {
+      "name": "陈禹铭",
+      "id": "2300012861",
+      "attendance": {
+        "week3": "出勤",
+        "week6": "出勤",
+        "week8": "出勤",
+        "week10": "出勤",
+        "week12": "",
+        "week14": "",
+        "week16": ""
+      },
+      "quiz_scores": {
+        "week3": 100,
+        "week6": 93,
+        "week8": 98,
+        "week10": 94,
+        "week12": 0,
+        "week14": 0,
+        "week16": 0
+      },
+      "attendance_total": 0,
+      "final_paper": 0,
+      "total_score": 0
+    },
+    {
+      "name": "赵海涵",
+      "id": "2300013922",
+      "attendance": {
+        "week3": "出勤",
+        "week6": "出勤",
+        "week8": "出勤",
+        "week10": "出勤",
+        "week12": "",
+        "week14": "",
+        "week16": ""
+      },
+      "quiz_scores": {
+        "week3": 80,
+        "week6": 96,
+        "week8": 98,
+        "week10": 67,
+        "week12": 0,
+        "week14": 0,
+        "week16": 0
+      },
+      "attendance_total": 0,
+      "final_paper": 0,
+      "total_score": 0
+    },
+    {
+      "name": "冯海敏",
+      "id": "2300014226",
+      "attendance": {
+        "week3": "出勤",
+        "week6": "出勤",
+        "week8": "出勤",
+        "week10": "出勤",
+        "week12": "",
+        "week14": "",
+        "week16": ""
+      },
+      "quiz_scores": {
+        "week3": 100,
+        "week6": 97,
+        "week8": 100,
+        "week10": 82,
+        "week12": 0,
+        "week14": 0,
+        "week16": 0
+      },
+      "attendance_total": 0,
+      "final_paper": 0,
+      "total_score": 0
+    },
+    {
+      "name": "张逸凡",
+      "id": "2300014522",
+      "attendance": {
+        "week3": "出勤",
+        "week6": "出勤",
+        "week8": "出勤",
+        "week10": "出勤",
+        "week12": "",
+        "week14": "",
+        "week16": ""
+      },
+      "quiz_scores": {
+        "week3": 100,
+        "week6": 96,
+        "week8": 100,
+        "week10": 88,
+        "week12": 0,
+        "week14": 0,
+        "week16": 0
+      },
+      "attendance_total": 0,
+      "final_paper": 0,
+      "total_score": 0
+    },
+    {
+      "name": "王墨涵",
+      "id": "2300014570",
+      "attendance": {
+        "week3": "出勤",
+        "week6": "出勤",
+        "week8": "出勤",
+        "week10": "出勤",
+        "week12": "",
+        "week14": "",
+        "week16": ""
+      },
+      "quiz_scores": {
+        "week3": 80,
+        "week6": 93,
+        "week8": 98,
+        "week10": 71,
+        "week12": 0,
+        "week14": 0,
+        "week16": 0
+      },
+      "attendance_total": 0,
+      "final_paper": 0,
+      "total_score": 0
+    },
+    {
+      "name": "苏昱峰",
+      "id": "2300014902",
+      "attendance": {
+        "week3": "出勤",
+        "week6": "出勤",
+        "week8": "出勤",
+        "week10": "出勤",
+        "week12": "",
+        "week14": "",
+        "week16": ""
+      },
+      "quiz_scores": {
+        "week3": 100,
+        "week6": 92,
+        "week8": 100,
+        "week10": 69,
+        "week12": 0,
+        "week14": 0,
+        "week16": 0
+      },
+      "attendance_total": 0,
+      "final_paper": 0,
+      "total_score": 0
+    },
+    {
+      "name": "陈茁",
+      "id": "2300014923",
+      "attendance": {
+        "week3": "出勤",
+        "week6": "出勤",
+        "week8": "出勤",
+        "week10": "出勤",
+        "week12": "",
+        "week14": "",
+        "week16": ""
+      },
+      "quiz_scores": {
+        "week3": 100,
+        "week6": 96,
+        "week8": 100,
+        "week10": 84,
+        "week12": 0,
+        "week14": 0,
+        "week16": 0
+      },
+      "attendance_total": 0,
+      "final_paper": 0,
+      "total_score": 0
+    },
+    {
+      "name": "李晓鹏",
+      "id": "2300014956",
+      "attendance": {
+        "week3": "出勤",
+        "week6": "出勤",
+        "week8": "出勤",
+        "week10": "出勤",
+        "week12": "",
+        "week14": "",
+        "week16": ""
+      },
+      "quiz_scores": {
+        "week3": 100,
+        "week6": 93,
+        "week8": 96,
+        "week10": 77,
+        "week12": 0,
+        "week14": 0,
+        "week16": 0
+      },
+      "attendance_total": 0,
+      "final_paper": 0,
+      "total_score": 0
+    },
+    {
+      "name": "曹荣乐",
+      "id": "2300014958",
+      "attendance": {
+        "week3": "出勤",
+        "week6": "出勤",
+        "week8": "出勤",
+        "week10": "出勤",
+        "week12": "",
+        "week14": "",
+        "week16": ""
+      },
+      "quiz_scores": {
+        "week3": 100,
+        "week6": 94,
+        "week8": 100,
+        "week10": 79,
+        "week12": 0,
+        "week14": 0,
+        "week16": 0
+      },
+      "attendance_total": 0,
+      "final_paper": 0,
+      "total_score": 0
+    },
+    {
+      "name": "周子越",
+      "id": "2300014959",
+      "attendance": {
+        "week3": "出勤",
+        "week6": "出勤",
+        "week8": "出勤",
+        "week10": "出勤",
+        "week12": "",
+        "week14": "",
+        "week16": ""
+      },
+      "quiz_scores": {
+        "week3": 100,
+        "week6": 95,
+        "week8": 100,
+        "week10": 87,
+        "week12": 0,
+        "week14": 0,
+        "week16": 0
+      },
+      "attendance_total": 0,
+      "final_paper": 0,
+      "total_score": 0
+    },
+    {
+      "name": "蒋梦烨",
+      "id": "2300014962",
+      "attendance": {
+        "week3": "请假",
+        "week6": "出勤",
+        "week8": "出勤",
+        "week10": "出勤",
+        "week12": "",
+        "week14": "",
+        "week16": ""
+      },
+      "quiz_scores": {
+        "week3": 0,
+        "week6": 94,
+        "week8": 98,
+        "week10": 79,
+        "week12": 0,
+        "week14": 0,
+        "week16": 0
+      },
+      "attendance_total": 0,
+      "final_paper": 0,
+      "total_score": 0
+    },
+    {
+      "name": "苏乐儿",
+      "id": "2300014965",
+      "attendance": {
+        "week3": "出勤",
+        "week6": "出勤",
+        "week8": "出勤",
+        "week10": "出勤",
+        "week12": "",
+        "week14": "",
+        "week16": ""
+      },
+      "quiz_scores": {
+        "week3": 100,
+        "week6": 95,
+        "week8": 100,
+        "week10": 81,
+        "week12": 0,
+        "week14": 0,
+        "week16": 0
+      },
+      "attendance_total": 0,
+      "final_paper": 0,
+      "total_score": 0
+    },
+    {
+      "name": "李企淳",
+      "id": "2300016327",
+      "attendance": {
+        "week3": "出勤",
+        "week6": "出勤",
+        "week8": "出勤",
+        "week10": "出勤",
+        "week12": "",
+        "week14": "",
+        "week16": ""
+      },
+      "quiz_scores": {
+        "week3": 100,
+        "week6": 95,
+        "week8": 100,
+        "week10": 74,
+        "week12": 0,
+        "week14": 0,
+        "week16": 0
+      },
+      "attendance_total": 0,
+      "final_paper": 0,
+      "total_score": 0
+    },
+    {
+      "name": "南浦知帰",
+      "id": "2300092302",
+      "attendance": {
+        "week3": "出勤",
+        "week6": "出勤",
+        "week8": "出勤",
+        "week10": "出勤",
+        "week12": "",
+        "week14": "",
+        "week16": ""
+      },
+      "quiz_scores": {
+        "week3": 100,
+        "week6": 95,
+        "week8": 100,
+        "week10": 60,
+        "week12": 0,
+        "week14": 0,
+        "week16": 0
+      },
+      "attendance_total": 0,
+      "final_paper": 0,
+      "total_score": 0
+    },
+    {
+      "name": "李清莲",
+      "id": "2300094307",
+      "attendance": {
+        "week3": "出勤",
+        "week6": "出勤",
+        "week8": "出勤",
+        "week10": "出勤",
+        "week12": "",
+        "week14": "",
+        "week16": ""
+      },
+      "quiz_scores": {
+        "week3": 100,
+        "week6": 94,
+        "week8": 0,
+        "week10": 67,
+        "week12": 0,
+        "week14": 0,
+        "week16": 0
+      },
+      "attendance_total": 0,
+      "final_paper": 0,
+      "total_score": 0
+    },
+    {
+      "name": "蔺赓泽",
+      "id": "2400010971",
+      "attendance": {
+        "week3": "出勤",
+        "week6": "出勤",
+        "week8": "出勤",
+        "week10": "出勤",
+        "week12": "",
+        "week14": "",
+        "week16": ""
+      },
+      "quiz_scores": {
+        "week3": 100,
+        "week6": 96,
+        "week8": 100,
+        "week10": 89,
+        "week12": 0,
+        "week14": 0,
+        "week16": 0
+      },
+      "attendance_total": 0,
+      "final_paper": 0,
+      "total_score": 0
+    },
+    {
+      "name": "陈怀瑜",
+      "id": "2400010985",
+      "attendance": {
+        "week3": "出勤",
+        "week6": "出勤",
+        "week8": "出勤",
+        "week10": "出勤",
+        "week12": "",
+        "week14": "",
+        "week16": ""
+      },
+      "quiz_scores": {
+        "week3": 100,
+        "week6": 96,
+        "week8": 100,
+        "week10": 91,
+        "week12": 0,
+        "week14": 0,
+        "week16": 0
+      },
+      "attendance_total": 0,
+      "final_paper": 0,
+      "total_score": 0
+    },
+    {
+      "name": "韩宇宸",
+      "id": "2400010989",
+      "attendance": {
+        "week3": "出勤",
+        "week6": "出勤",
+        "week8": "请假",
+        "week10": "出勤",
+        "week12": "",
+        "week14": "",
+        "week16": ""
+      },
+      "quiz_scores": {
+        "week3": 100,
+        "week6": 95,
+        "week8": 0,
+        "week10": 83,
+        "week12": 0,
+        "week14": 0,
+        "week16": 0
+      },
+      "attendance_total": 0,
+      "final_paper": 0,
+      "total_score": 0
+    },
+    {
+      "name": "王贤瑞",
+      "id": "2400011024",
+      "attendance": {
+        "week3": "出勤",
+        "week6": "出勤",
+        "week8": "出勤",
+        "week10": "出勤",
+        "week12": "",
+        "week14": "",
+        "week16": ""
+      },
+      "quiz_scores": {
+        "week3": 100,
+        "week6": 96,
+        "week8": 98,
+        "week10": 59,
+        "week12": 0,
+        "week14": 0,
+        "week16": 0
+      },
+      "attendance_total": 0,
+      "final_paper": 0,
+      "total_score": 0
+    },
+    {
+      "name": "林柏豪",
+      "id": "2400011207",
+      "attendance": {
+        "week3": "出勤",
+        "week6": "出勤",
+        "week8": "出勤",
+        "week10": "出勤",
+        "week12": "",
+        "week14": "",
+        "week16": ""
+      },
+      "quiz_scores": {
+        "week3": 100,
+        "week6": 95,
+        "week8": 96,
+        "week10": 73,
+        "week12": 0,
+        "week14": 0,
+        "week16": 0
+      },
+      "attendance_total": 0,
+      "final_paper": 0,
+      "total_score": 0
+    },
+    {
+      "name": "刘聃",
+      "id": "2400011304",
+      "attendance": {
+        "week3": "出勤",
+        "week6": "出勤",
+        "week8": "出勤",
+        "week10": "出勤",
+        "week12": "",
+        "week14": "",
+        "week16": ""
+      },
+      "quiz_scores": {
+        "week3": 100,
+        "week6": 94,
+        "week8": 98,
+        "week10": 80,
+        "week12": 0,
+        "week14": 0,
+        "week16": 0
+      },
+      "attendance_total": 0,
+      "final_paper": 0,
+      "total_score": 0
+    },
+    {
+      "name": "翁宇阳",
+      "id": "2400011452",
+      "attendance": {
+        "week3": "出勤",
+        "week6": "出勤",
+        "week8": "出勤",
+        "week10": "出勤",
+        "week12": "",
+        "week14": "",
+        "week16": ""
+      },
+      "quiz_scores": {
+        "week3": 100,
+        "week6": 94,
+        "week8": 96,
+        "week10": 79,
+        "week12": 0,
+        "week14": 0,
+        "week16": 0
+      },
+      "attendance_total": 0,
+      "final_paper": 0,
+      "total_score": 0
+    },
+    {
+      "name": "顾博宇",
+      "id": "2400011581",
+      "attendance": {
+        "week3": "出勤",
+        "week6": "出勤",
+        "week8": "出勤",
+        "week10": "出勤",
+        "week12": "",
+        "week14": "",
+        "week16": ""
+      },
+      "quiz_scores": {
+        "week3": 100,
+        "week6": 94,
+        "week8": 100,
+        "week10": 89,
+        "week12": 0,
+        "week14": 0,
+        "week16": 0
+      },
+      "attendance_total": 0,
+      "final_paper": 0,
+      "total_score": 0
+    },
+    {
+      "name": "郑翰永",
+      "id": "2400011761",
+      "attendance": {
+        "week3": "出勤",
+        "week6": "出勤",
+        "week8": "出勤",
+        "week10": "出勤",
+        "week12": "",
+        "week14": "",
+        "week16": ""
+      },
+      "quiz_scores": {
+        "week3": 100,
+        "week6": 96,
+        "week8": 100,
+        "week10": 66,
+        "week12": 0,
+        "week14": 0,
+        "week16": 0
+      },
+      "attendance_total": 0,
+      "final_paper": 0,
+      "total_score": 0
+    },
+    {
+      "name": "傅玉成",
+      "id": "2400011798",
+      "attendance": {
+        "week3": "出勤",
+        "week6": "出勤",
+        "week8": "出勤",
+        "week10": "出勤",
+        "week12": "",
+        "week14": "",
+        "week16": ""
+      },
+      "quiz_scores": {
+        "week3": 100,
+        "week6": 95,
+        "week8": 100,
+        "week10": 78,
+        "week12": 0,
+        "week14": 0,
+        "week16": 0
+      },
+      "attendance_total": 0,
+      "final_paper": 0,
+      "total_score": 0
+    },
+    {
+      "name": "唐诗棋",
+      "id": "2400012158",
+      "attendance": {
+        "week3": "出勤",
+        "week6": "出勤",
+        "week8": "出勤",
+        "week10": "出勤",
+        "week12": "",
+        "week14": "",
+        "week16": ""
+      },
+      "quiz_scores": {
+        "week3": 100,
+        "week6": 95,
+        "week8": 98,
+        "week10": 63,
+        "week12": 0,
+        "week14": 0,
+        "week16": 0
+      },
+      "attendance_total": 0,
+      "final_paper": 0,
+      "total_score": 0
+    },
+    {
+      "name": "王佑名",
+      "id": "2400012295",
+      "attendance": {
+        "week3": "出勤",
+        "week6": "出勤",
+        "week8": "出勤",
+        "week10": "出勤",
+        "week12": "",
+        "week14": "",
+        "week16": ""
+      },
+      "quiz_scores": {
+        "week3": 80,
+        "week6": 94,
+        "week8": 100,
+        "week10": 59,
+        "week12": 0,
+        "week14": 0,
+        "week16": 0
+      },
+      "attendance_total": 0,
+      "final_paper": 0,
+      "total_score": 0
+    },
+    {
+      "name": "张洺瑜",
+      "id": "2400012603",
+      "attendance": {
+        "week3": "出勤",
+        "week6": "出勤",
+        "week8": "出勤",
+        "week10": "出勤",
+        "week12": "",
+        "week14": "",
+        "week16": ""
+      },
+      "quiz_scores": {
+        "week3": 100,
+        "week6": 93,
+        "week8": 100,
+        "week10": 91,
+        "week12": 0,
+        "week14": 0,
+        "week16": 0
+      },
+      "attendance_total": 0,
+      "final_paper": 0,
+      "total_score": 0
+    },
+    {
+      "name": "徐艺匀",
+      "id": "2400013260",
+      "attendance": {
+        "week3": "出勤",
+        "week6": "出勤",
+        "week8": "出勤",
+        "week10": "出勤",
+        "week12": "",
+        "week14": "",
+        "week16": ""
+      },
+      "quiz_scores": {
+        "week3": 100,
+        "week6": 96,
+        "week8": 100,
+        "week10": 43,
+        "week12": 0,
+        "week14": 0,
+        "week16": 0
+      },
+      "attendance_total": 0,
+      "final_paper": 0,
+      "total_score": 0
+    },
+    {
+      "name": "刘丛竹",
+      "id": "2400013755",
+      "attendance": {
+        "week3": "出勤",
+        "week6": "出勤",
+        "week8": "出勤",
+        "week10": "出勤",
+        "week12": "",
+        "week14": "",
+        "week16": ""
+      },
+      "quiz_scores": {
+        "week3": 100,
+        "week6": 94,
+        "week8": 98,
+        "week10": 75,
+        "week12": 0,
+        "week14": 0,
+        "week16": 0
+      },
+      "attendance_total": 0,
+      "final_paper": 0,
+      "total_score": 0
+    },
+    {
+      "name": "王奕菲",
+      "id": "2400014957",
+      "attendance": {
+        "week3": "出勤",
+        "week6": "出勤",
+        "week8": "出勤",
+        "week10": "出勤",
+        "week12": "",
+        "week14": "",
+        "week16": ""
+      },
+      "quiz_scores": {
+        "week3": 100,
+        "week6": 93,
+        "week8": 98,
+        "week10": 80,
+        "week12": 0,
+        "week14": 0,
+        "week16": 0
+      },
+      "attendance_total": 0,
+      "final_paper": 0,
+      "total_score": 0
+    },
+    {
+      "name": "陈欣怡",
+      "id": "2400015415",
+      "attendance": {
+        "week3": "出勤",
+        "week6": "出勤",
+        "week8": "出勤",
+        "week10": "出勤",
+        "week12": "",
+        "week14": "",
+        "week16": ""
+      },
+      "quiz_scores": {
+        "week3": 100,
+        "week6": 94,
+        "week8": 96,
+        "week10": 86,
+        "week12": 0,
+        "week14": 0,
+        "week16": 0
+      },
+      "attendance_total": 0,
+      "final_paper": 0,
+      "total_score": 0
+    },
+    {
+      "name": "刘文谨",
+      "id": "2400015487",
+      "attendance": {
+        "week3": "出勤",
+        "week6": "出勤",
+        "week8": "出勤",
+        "week10": "出勤",
+        "week12": "",
+        "week14": "",
+        "week16": ""
+      },
+      "quiz_scores": {
+        "week3": 100,
+        "week6": 95,
+        "week8": 100,
+        "week10": 65,
+        "week12": 0,
+        "week14": 0,
+        "week16": 0
+      },
+      "attendance_total": 0,
+      "final_paper": 0,
+      "total_score": 0
+    },
+    {
+      "name": "齐羽丰",
+      "id": "2400015886",
+      "attendance": {
+        "week3": "出勤",
+        "week6": "出勤",
+        "week8": "出勤",
+        "week10": "出勤",
+        "week12": "",
+        "week14": "",
+        "week16": ""
+      },
+      "quiz_scores": {
+        "week3": 100,
+        "week6": 95,
+        "week8": 100,
+        "week10": 65,
+        "week12": 0,
+        "week14": 0,
+        "week16": 0
+      },
+      "attendance_total": 0,
+      "final_paper": 0,
+      "total_score": 0
+    },
+    {
+      "name": "蒋宇",
+      "id": "2400016640",
+      "attendance": {
+        "week3": "出勤",
+        "week6": "出勤",
+        "week8": "出勤",
+        "week10": "出勤",
+        "week12": "",
+        "week14": "",
+        "week16": ""
+      },
+      "quiz_scores": {
+        "week3": 100,
+        "week6": 94,
+        "week8": 98,
+        "week10": 83,
+        "week12": 0,
+        "week14": 0,
+        "week16": 0
+      },
+      "attendance_total": 0,
+      "final_paper": 0,
+      "total_score": 0
+    },
+    {
+      "name": "张吟聆",
+      "id": "2400017403",
+      "attendance": {
+        "week3": "出勤",
+        "week6": "出勤",
+        "week8": "出勤",
+        "week10": "出勤",
+        "week12": "",
+        "week14": "",
+        "week16": ""
+      },
+      "quiz_scores": {
+        "week3": 100,
+        "week6": 96,
+        "week8": 100,
+        "week10": 72,
+        "week12": 0,
+        "week14": 0,
+        "week16": 0
+      },
+      "attendance_total": 0,
+      "final_paper": 0,
+      "total_score": 0
+    },
+    {
+      "name": "王淇渲",
+      "id": "2400018415",
+      "attendance": {
+        "week3": "出勤",
+        "week6": "出勤",
+        "week8": "出勤",
+        "week10": "出勤",
+        "week12": "",
+        "week14": "",
+        "week16": ""
+      },
+      "quiz_scores": {
+        "week3": 100,
+        "week6": 97,
+        "week8": 100,
+        "week10": 97,
+        "week12": 0,
+        "week14": 0,
+        "week16": 0
+      },
+      "attendance_total": 0,
+      "final_paper": 0,
+      "total_score": 0
+    },
+    {
+      "name": "李丰喆",
+      "id": "2400912016",
+      "attendance": {
+        "week3": "出勤",
+        "week6": "出勤",
+        "week8": "出勤",
+        "week10": "出勤",
+        "week12": "",
+        "week14": "",
+        "week16": ""
+      },
+      "quiz_scores": {
+        "week3": 100,
+        "week6": 93,
+        "week8": 98,
+        "week10": 68,
+        "week12": 0,
+        "week14": 0,
+        "week16": 0
+      },
+      "attendance_total": 0,
+      "final_paper": 0,
+      "total_score": 0
+    },
+    {
+      "name": "李基皓",
+      "id": "2400912017",
+      "attendance": {
+        "week3": "出勤",
+        "week6": "出勤",
+        "week8": "出勤",
+        "week10": "出勤",
+        "week12": "",
+        "week14": "",
+        "week16": ""
+      },
+      "quiz_scores": {
+        "week3": 100,
+        "week6": 93,
+        "week8": 100,
+        "week10": 63,
+        "week12": 0,
+        "week14": 0,
+        "week16": 0
+      },
+      "attendance_total": 0,
+      "final_paper": 0,
+      "total_score": 0
+    },
+    {
+      "name": "孔凡",
+      "id": "2410108213",
+      "attendance": {
+        "week3": "出勤",
+        "week6": "出勤",
+        "week8": "出勤",
+        "week10": "出勤",
+        "week12": "",
+        "week14": "",
+        "week16": ""
+      },
+      "quiz_scores": {
+        "week3": 100,
+        "week6": 95,
+        "week8": 98,
+        "week10": 64,
+        "week12": 0,
+        "week14": 0,
+        "week16": 0
+      },
+      "attendance_total": 0,
+      "final_paper": 0,
+      "total_score": 0
+    },
+    {
+      "name": "张震",
+      "id": "2410124242",
+      "attendance": {
+        "week3": "出勤",
+        "week6": "出勤",
+        "week8": "出勤",
+        "week10": "出勤",
+        "week12": "",
+        "week14": "",
+        "week16": ""
+      },
+      "quiz_scores": {
+        "week3": 100,
+        "week6": 97,
+        "week8": 98,
+        "week10": 76,
+        "week12": 0,
+        "week14": 0,
+        "week16": 0
+      },
+      "attendance_total": 0,
+      "final_paper": 0,
+      "total_score": 0
+    },
+    {
+      "name": "陆亦铭",
+      "id": "2500011011",
+      "attendance": {
+        "week3": "出勤",
+        "week6": "出勤",
+        "week8": "出勤",
+        "week10": "出勤",
+        "week12": "",
+        "week14": "",
+        "week16": ""
+      },
+      "quiz_scores": {
+        "week3": 100,
+        "week6": 94,
+        "week8": 98,
+        "week10": 71,
+        "week12": 0,
+        "week14": 0,
+        "week16": 0
+      },
+      "attendance_total": 0,
+      "final_paper": 0,
+      "total_score": 0
+    },
+    {
+      "name": "贾雯博",
+      "id": "2500011044",
+      "attendance": {
+        "week3": "出勤",
+        "week6": "出勤",
+        "week8": "出勤",
+        "week10": "出勤",
+        "week12": "",
+        "week14": "",
+        "week16": ""
+      },
+      "quiz_scores": {
+        "week3": 100,
+        "week6": 95,
+        "week8": 98,
+        "week10": 91,
+        "week12": 0,
+        "week14": 0,
+        "week16": 0
+      },
+      "attendance_total": 0,
+      "final_paper": 0,
+      "total_score": 0
+    },
+    {
+      "name": "赵东兴",
+      "id": "2500011130",
+      "attendance": {
+        "week3": "出勤",
+        "week6": "出勤",
+        "week8": "出勤",
+        "week10": "缺勤",
+        "week12": "",
+        "week14": "",
+        "week16": ""
+      },
+      "quiz_scores": {
+        "week3": 100,
+        "week6": 93,
+        "week8": 98,
+        "week10": 0,
+        "week12": 0,
+        "week14": 0,
+        "week16": 0
+      },
+      "attendance_total": -1,
+      "final_paper": 0,
+      "total_score": 0
+    },
+    {
+      "name": "倪梓阳",
+      "id": "2500011439",
+      "attendance": {
+        "week3": "出勤",
+        "week6": "出勤",
+        "week8": "出勤",
+        "week10": "出勤",
+        "week12": "",
+        "week14": "",
+        "week16": ""
+      },
+      "quiz_scores": {
+        "week3": 100,
+        "week6": 93,
+        "week8": 98,
+        "week10": 83,
+        "week12": 0,
+        "week14": 0,
+        "week16": 0
+      },
+      "attendance_total": 0,
+      "final_paper": 0,
+      "total_score": 0
+    },
+    {
+      "name": "王靖翔",
+      "id": "2500011454",
+      "attendance": {
+        "week3": "出勤",
+        "week6": "出勤",
+        "week8": "出勤",
+        "week10": "出勤",
+        "week12": "",
+        "week14": "",
+        "week16": ""
+      },
+      "quiz_scores": {
+        "week3": 100,
+        "week6": 95,
+        "week8": 100,
+        "week10": 85,
+        "week12": 0,
+        "week14": 0,
+        "week16": 0
+      },
+      "attendance_total": 0,
+      "final_paper": 0,
+      "total_score": 0
+    },
+    {
+      "name": "韩学晨",
+      "id": "2500011459",
+      "attendance": {
+        "week3": "出勤",
+        "week6": "出勤",
+        "week8": "出勤",
+        "week10": "出勤",
+        "week12": "",
+        "week14": "",
+        "week16": ""
+      },
+      "quiz_scores": {
+        "week3": 100,
+        "week6": 94,
+        "week8": 94,
+        "week10": 85,
+        "week12": 0,
+        "week14": 0,
+        "week16": 0
+      },
+      "attendance_total": 0,
+      "final_paper": 0,
+      "total_score": 0
+    },
+    {
+      "name": "王千一",
+      "id": "2500011493",
+      "attendance": {
+        "week3": "出勤",
+        "week6": "出勤",
+        "week8": "出勤",
+        "week10": "出勤",
+        "week12": "",
+        "week14": "",
+        "week16": ""
+      },
+      "quiz_scores": {
+        "week3": 100,
+        "week6": 98,
+        "week8": 96,
+        "week10": 100,
+        "week12": 0,
+        "week14": 0,
+        "week16": 0
+      },
+      "attendance_total": 0,
+      "final_paper": 0,
+      "total_score": 0
+    },
+    {
+      "name": "王维石",
+      "id": "2500012307",
+      "attendance": {
+        "week3": "出勤",
+        "week6": "出勤",
+        "week8": "出勤",
+        "week10": "出勤",
+        "week12": "",
+        "week14": "",
+        "week16": ""
+      },
+      "quiz_scores": {
+        "week3": 80,
+        "week6": 96,
+        "week8": 98,
+        "week10": 77,
+        "week12": 0,
+        "week14": 0,
+        "week16": 0
+      },
+      "attendance_total": 0,
+      "final_paper": 0,
+      "total_score": 0
+    },
+    {
+      "name": "周琳萱",
+      "id": "2500012411",
+      "attendance": {
+        "week3": "出勤",
+        "week6": "出勤",
+        "week8": "出勤",
+        "week10": "出勤",
+        "week12": "",
+        "week14": "",
+        "week16": ""
+      },
+      "quiz_scores": {
+        "week3": 100,
+        "week6": 95,
+        "week8": 100,
+        "week10": 83,
+        "week12": 0,
+        "week14": 0,
+        "week16": 0
+      },
+      "attendance_total": 0,
+      "final_paper": 0,
+      "total_score": 0
+    },
+    {
+      "name": "马健",
+      "id": "2500012817",
+      "attendance": {
+        "week3": "出勤",
+        "week6": "出勤",
+        "week8": "出勤",
+        "week10": "出勤",
+        "week12": "",
+        "week14": "",
+        "week16": ""
+      },
+      "quiz_scores": {
+        "week3": 100,
+        "week6": 98,
+        "week8": 100,
+        "week10": 100,
+        "week12": 0,
+        "week14": 0,
+        "week16": 0
+      },
+      "attendance_total": 0,
+      "final_paper": 0,
+      "total_score": 0
+    },
+    {
+      "name": "于俊龙",
+      "id": "2500013046",
+      "attendance": {
+        "week3": "出勤",
+        "week6": "出勤",
+        "week8": "出勤",
+        "week10": "出勤",
+        "week12": "",
+        "week14": "",
+        "week16": ""
+      },
+      "quiz_scores": {
+        "week3": 100,
+        "week6": 94,
+        "week8": 100,
+        "week10": 71,
+        "week12": 0,
+        "week14": 0,
+        "week16": 0
+      },
+      "attendance_total": 0,
+      "final_paper": 0,
+      "total_score": 0
+    },
+    {
+      "name": "马语辰",
+      "id": "2500013066",
+      "attendance": {
+        "week3": "出勤",
+        "week6": "出勤",
+        "week8": "出勤",
+        "week10": "出勤",
+        "week12": "",
+        "week14": "",
+        "week16": ""
+      },
+      "quiz_scores": {
+        "week3": 100,
+        "week6": 96,
+        "week8": 94,
+        "week10": 85,
+        "week12": 0,
+        "week14": 0,
+        "week16": 0
+      },
+      "attendance_total": 0,
+      "final_paper": 0,
+      "total_score": 0
+    },
+    {
+      "name": "李根智",
+      "id": "2500013196",
+      "attendance": {
+        "week3": "出勤",
+        "week6": "出勤",
+        "week8": "出勤",
+        "week10": "出勤",
+        "week12": "",
+        "week14": "",
+        "week16": ""
+      },
+      "quiz_scores": {
+        "week3": 100,
+        "week6": 96,
+        "week8": 100,
+        "week10": 86,
+        "week12": 0,
+        "week14": 0,
+        "week16": 0
+      },
+      "attendance_total": 0,
+      "final_paper": 0,
+      "total_score": 0
+    },
+    {
+      "name": "李乐天丞",
+      "id": "2500013203",
+      "attendance": {
+        "week3": "出勤",
+        "week6": "出勤",
+        "week8": "出勤",
+        "week10": "出勤",
+        "week12": "",
+        "week14": "",
+        "week16": ""
+      },
+      "quiz_scores": {
+        "week3": 100,
+        "week6": 94,
+        "week8": 96,
+        "week10": 81,
+        "week12": 0,
+        "week14": 0,
+        "week16": 0
+      },
+      "attendance_total": 0,
+      "final_paper": 0,
+      "total_score": 0
+    },
+    {
+      "name": "王鑫雨",
+      "id": "2500016281",
+      "attendance": {
+        "week3": "出勤",
+        "week6": "出勤",
+        "week8": "出勤",
+        "week10": "出勤",
+        "week12": "",
+        "week14": "",
+        "week16": ""
+      },
+      "quiz_scores": {
+        "week3": 100,
+        "week6": 98,
+        "week8": 100,
+        "week10": 75,
+        "week12": 0,
+        "week14": 0,
+        "week16": 0
+      },
+      "attendance_total": 0,
+      "final_paper": 0,
+      "total_score": 0
+    },
+    {
+      "name": "张翔",
+      "id": "2500016614",
+      "attendance": {
+        "week3": "出勤",
+        "week6": "出勤",
+        "week8": "出勤",
+        "week10": "出勤",
+        "week12": "",
+        "week14": "",
+        "week16": ""
+      },
+      "quiz_scores": {
+        "week3": 100,
+        "week6": 97,
+        "week8": 100,
+        "week10": 71,
+        "week12": 0,
+        "week14": 0,
+        "week16": 0
+      },
+      "attendance_total": 0,
+      "final_paper": 0,
+      "total_score": 0
+    },
+    {
+      "name": "张兴悦",
+      "id": "2500016932",
+      "attendance": {
+        "week3": "出勤",
+        "week6": "出勤",
+        "week8": "出勤",
+        "week10": "出勤",
+        "week12": "",
+        "week14": "",
+        "week16": ""
+      },
+      "quiz_scores": {
+        "week3": 100,
+        "week6": 94,
+        "week8": 98,
+        "week10": 85,
+        "week12": 0,
+        "week14": 0,
+        "week16": 0
+      },
+      "attendance_total": 0,
+      "final_paper": 0,
+      "total_score": 0
+    },
+    {
+      "name": "杨砺寒",
+      "id": "2500017815",
+      "attendance": {
+        "week3": "出勤",
+        "week6": "请假",
+        "week8": "出勤",
+        "week10": "出勤",
+        "week12": "",
+        "week14": "",
+        "week16": ""
+      },
+      "quiz_scores": {
+        "week3": 100,
+        "week6": 0,
+        "week8": 98,
+        "week10": 54,
+        "week12": 0,
+        "week14": 0,
+        "week16": 0
+      },
+      "attendance_total": 0,
+      "final_paper": 0,
+      "total_score": 0
+    },
+    {
+      "name": "彭嘉涵",
+      "id": "2500018402",
+      "attendance": {
+        "week3": "出勤",
+        "week6": "出勤",
+        "week8": "出勤",
+        "week10": "出勤",
+        "week12": "",
+        "week14": "",
+        "week16": ""
+      },
+      "quiz_scores": {
+        "week3": 100,
+        "week6": 95,
+        "week8": 98,
+        "week10": 77,
+        "week12": 0,
+        "week14": 0,
+        "week16": 0
+      },
+      "attendance_total": 0,
+      "final_paper": 0,
+      "total_score": 0
+    },
+    {
+      "name": "赵彦燃",
+      "id": "2500018508",
+      "attendance": {
+        "week3": "出勤",
+        "week6": "请假",
+        "week8": "出勤",
+        "week10": "出勤",
+        "week12": "",
+        "week14": "",
+        "week16": ""
+      },
+      "quiz_scores": {
+        "week3": 100,
+        "week6": 0,
+        "week8": 100,
+        "week10": 78,
+        "week12": 0,
+        "week14": 0,
+        "week16": 0
+      },
+      "attendance_total": 0,
+      "final_paper": 0,
+      "total_score": 0
+    },
+    {
+      "name": "秧孝慈",
+      "id": "2500091806",
+      "attendance": {
+        "week3": "出勤",
+        "week6": "出勤",
+        "week8": "出勤",
+        "week10": "出勤",
+        "week12": "",
+        "week14": "",
+        "week16": ""
+      },
+      "quiz_scores": {
+        "week3": 100,
+        "week6": 96,
+        "week8": 98,
+        "week10": 76,
+        "week12": 0,
+        "week14": 0,
+        "week16": 0
+      },
+      "attendance_total": 0,
+      "final_paper": 0,
+      "total_score": 0
+    },
+    {
+      "name": "马子涵",
+      "id": "2500931107",
+      "attendance": {
+        "week3": "出勤",
+        "week6": "出勤",
+        "week8": "出勤",
+        "week10": "出勤",
+        "week12": "",
+        "week14": "",
+        "week16": ""
+      },
+      "quiz_scores": {
+        "week3": 100,
+        "week6": 97,
+        "week8": 100,
+        "week10": 89,
+        "week12": 0,
+        "week14": 0,
+        "week16": 0
+      },
+      "attendance_total": 0,
+      "final_paper": 0,
+      "total_score": 0
+    },
+    {
+      "name": "陈昫君",
+      "id": "2500931114",
+      "attendance": {
+        "week3": "出勤",
+        "week6": "出勤",
+        "week8": "出勤",
+        "week10": "出勤",
+        "week12": "",
+        "week14": "",
+        "week16": ""
+      },
+      "quiz_scores": {
+        "week3": 100,
+        "week6": 98,
+        "week8": 100,
+        "week10": 57,
+        "week12": 0,
+        "week14": 0,
+        "week16": 0
+      },
+      "attendance_total": 0,
+      "final_paper": 0,
+      "total_score": 0
+    },
+    {
+      "name": "杜冰鑫",
+      "id": "2500931121",
+      "attendance": {
+        "week3": "出勤",
+        "week6": "出勤",
+        "week8": "出勤",
+        "week10": "出勤",
+        "week12": "",
+        "week14": "",
+        "week16": ""
+      },
+      "quiz_scores": {
+        "week3": 100,
+        "week6": 95,
+        "week8": 98,
+        "week10": 57,
+        "week12": 0,
+        "week14": 0,
+        "week16": 0
+      },
+      "attendance_total": 0,
+      "final_paper": 0,
+      "total_score": 0
+    },
+    {
+      "name": "王奕晴",
+      "id": "2510124209",
+      "attendance": {
+        "week3": "出勤",
+        "week6": "出勤",
+        "week8": "出勤",
+        "week10": "出勤",
+        "week12": "",
+        "week14": "",
+        "week16": ""
+      },
+      "quiz_scores": {
+        "week3": 100,
+        "week6": 97,
+        "week8": 98,
+        "week10": 73,
+        "week12": 0,
+        "week14": 0,
+        "week16": 0
+      },
+      "attendance_total": 0,
+      "final_paper": 0,
+      "total_score": 0
+    },
+    {
+      "name": "胡耀宇",
+      "id": "2510301105",
+      "attendance": {
+        "week3": "出勤",
+        "week6": "出勤",
+        "week8": "出勤",
+        "week10": "出勤",
+        "week12": "",
+        "week14": "",
+        "week16": ""
+      },
+      "quiz_scores": {
+        "week3": 100,
+        "week6": 95,
+        "week8": 100,
+        "week10": 63,
+        "week12": 0,
+        "week14": 0,
+        "week16": 0
+      },
+      "attendance_total": 0,
+      "final_paper": 0,
+      "total_score": 0
+    },
+    {
+      "name": "王知宜",
+      "id": "2510301117",
+      "attendance": {
+        "week3": "出勤",
+        "week6": "出勤",
+        "week8": "出勤",
+        "week10": "出勤",
+        "week12": "",
+        "week14": "",
+        "week16": ""
+      },
+      "quiz_scores": {
+        "week3": 100,
+        "week6": 97,
+        "week8": 96,
+        "week10": 74,
+        "week12": 0,
+        "week14": 0,
+        "week16": 0
+      },
+      "attendance_total": 0,
+      "final_paper": 0,
+      "total_score": 0
+    },
+    {
+      "name": "翟艺岚",
+      "id": "2510301141",
+      "attendance": {
+        "week3": "出勤",
+        "week6": "出勤",
+        "week8": "出勤",
+        "week10": "出勤",
+        "week12": "",
+        "week14": "",
+        "week16": ""
+      },
+      "quiz_scores": {
+        "week3": 100,
+        "week6": 94,
+        "week8": 98,
+        "week10": 86,
+        "week12": 0,
+        "week14": 0,
+        "week16": 0
+      },
+      "attendance_total": 0,
+      "final_paper": 0,
+      "total_score": 0
+    },
+    {
+      "name": "钱知源",
+      "id": "2510301317",
+      "attendance": {
+        "week3": "出勤",
+        "week6": "出勤",
+        "week8": "出勤",
+        "week10": "出勤",
+        "week12": "",
+        "week14": "",
+        "week16": ""
+      },
+      "quiz_scores": {
+        "week3": 100,
+        "week6": 95,
+        "week8": 100,
+        "week10": 79,
+        "week12": 0,
+        "week14": 0,
+        "week16": 0
+      },
+      "attendance_total": 0,
+      "final_paper": 0,
+      "total_score": 0
+    },
+    {
+      "name": "梁奥鑫",
+      "id": "2510301324",
+      "attendance": {
+        "week3": "出勤",
+        "week6": "出勤",
+        "week8": "出勤",
+        "week10": "出勤",
+        "week12": "",
+        "week14": "",
+        "week16": ""
+      },
+      "quiz_scores": {
+        "week3": 100,
+        "week6": 97,
+        "week8": 100,
+        "week10": 74,
+        "week12": 0,
+        "week14": 0,
+        "week16": 0
+      },
+      "attendance_total": 0,
+      "final_paper": 0,
+      "total_score": 0
+    },
+    {
+      "name": "耿潇扬",
+      "id": "2510303107",
+      "attendance": {
+        "week3": "出勤",
+        "week6": "出勤",
+        "week8": "出勤",
+        "week10": "出勤",
+        "week12": "",
+        "week14": "",
+        "week16": ""
+      },
+      "quiz_scores": {
+        "week3": 100,
+        "week6": 94,
+        "week8": 98,
+        "week10": 74,
+        "week12": 0,
+        "week14": 0,
+        "week16": 0
+      },
+      "attendance_total": 0,
+      "final_paper": 0,
+      "total_score": 0
+    },
+    {
+      "name": "张靖韩",
+      "id": "2510305108",
+      "attendance": {
+        "week3": "出勤",
+        "week6": "出勤",
+        "week8": "出勤",
+        "week10": "出勤",
+        "week12": "",
+        "week14": "",
+        "week16": ""
+      },
+      "quiz_scores": {
+        "week3": 100,
+        "week6": 94,
+        "week8": 98,
+        "week10": 70,
+        "week12": 0,
+        "week14": 0,
+        "week16": 0
+      },
+      "attendance_total": 0,
+      "final_paper": 0,
+      "total_score": 0
+    },
+    {
+      "name": "庄子宁",
+      "id": "2510306235",
+      "attendance": {
+        "week3": "出勤",
+        "week6": "出勤",
+        "week8": "出勤",
+        "week10": "出勤",
+        "week12": "",
+        "week14": "",
+        "week16": ""
+      },
+      "quiz_scores": {
+        "week3": 100,
+        "week6": 97,
+        "week8": 98,
+        "week10": 60,
+        "week12": 0,
+        "week14": 0,
+        "week16": 0
+      },
+      "attendance_total": 0,
+      "final_paper": 0,
+      "total_score": 0
+    },
+    {
+      "name": "贾博雅",
+      "id": "2510307419",
+      "attendance": {
+        "week3": "出勤",
+        "week6": "出勤",
+        "week8": "出勤",
+        "week10": "出勤",
+        "week12": "",
+        "week14": "",
+        "week16": ""
+      },
+      "quiz_scores": {
+        "week3": 100,
+        "week6": 94,
+        "week8": 100,
+        "week10": 78,
+        "week12": 0,
+        "week14": 0,
+        "week16": 0
+      },
+      "attendance_total": 0,
+      "final_paper": 0,
+      "total_score": 0
+    },
+    {
+      "name": "吴羿筱",
+      "id": "北京外国语大学",
+      "attendance": {
+        "week3": "请假",
+        "week6": "出勤",
+        "week8": "出勤",
+        "week10": "出勤",
+        "week12": "",
+        "week14": "",
+        "week16": ""
+      },
+      "quiz_scores": {
+        "week3": 0,
+        "week6": 95,
+        "week8": 100,
+        "week10": 62,
+        "week12": 0,
+        "week14": 0,
+        "week16": 0
+      },
+      "attendance_total": 0,
+      "final_paper": 0,
+      "total_score": 0
+    }
+  ]
+}
