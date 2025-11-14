@@ -462,12 +462,12 @@
             attendanceScore = -2;
         }
         
-        document.getElementById('quizTotalScore').textContent = `${quizFinalScore}/60`;
+        document.getElementById('quizTotalScore').textContent = `${quizFinalScore} / 60`;
         document.getElementById('attendanceScore').textContent = attendanceScore;
-        document.getElementById('paperScore').textContent = `${student.final_paper}/40`;
+        document.getElementById('paperScore').textContent = `${student.final_paper} / 40`;
         
         const totalScore = quizFinalScore + attendanceScore + student.final_paper;
-        document.getElementById('totalScore').textContent = `${totalScore}/100`;
+        document.getElementById('totalScore').textContent = `${totalScore} / 100`;
         
         // 为所有周次创建行
         allWeeks.forEach(week => {
