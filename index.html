@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>智识与审美 - 成绩查询系统</title>
     <style>
+        /* 之前的样式保持不变 */
         * {
             margin: 0;
             padding: 0;
@@ -177,6 +178,11 @@
             font-weight: 500;
         }
         
+        .attendance-empty {
+            color: #6c757d;
+            font-style: italic;
+        }
+        
         .summary-card {
             background: linear-gradient(135deg, #f8f9ff 0%, #e9ecef 100%);
             border-radius: 10px;
@@ -248,11 +254,71 @@
         </header>
         
         <section class="query-section">
-            <!-- 查询表单保持不变 -->
+            <div class="form-group">
+                <label for="studentName">姓名</label>
+                <input type="text" id="studentName" placeholder="请输入您的姓名">
+            </div>
+            
+            <div class="form-group">
+                <label for="studentId">学号或学校</label>
+                <input type="text" id="studentId" placeholder="请输入您的完整学号或学校名称">
+            </div>
+            
+            <button id="queryBtn" disabled>加载数据中...</button>
+            
+            <div class="loading" id="loadingMessage">
+                正在加载学生数据...
+            </div>
+            
+            <div class="error-message" id="errorMessage">
+                未找到匹配的学生信息，请检查姓名和学号是否正确。
+            </div>
         </section>
         
         <section class="result-section" id="resultSection">
-            <!-- 结果显示保持不变 -->
+            <div class="student-info">
+                <div class="info-row">
+                    <div class="info-label">姓名：</div>
+                    <div class="info-value" id="displayName">-</div>
+                </div>
+                <div class="info-row">
+                    <div class="info-label">学号：</div>
+                    <div class="info-value" id="displayId">-</div>
+                </div>
+            </div>
+            
+            <h2 class="section-title">考勤与测验成绩</h2>
+            <table>
+                <thead>
+                    <tr>
+                        <th>周次</th>
+                        <th>考勤状态</th>
+                        <th>测验成绩</th>
+                    </tr>
+                </thead>
+                <tbody id="attendanceTable">
+                    <!-- 动态生成考勤数据 -->
+                </tbody>
+            </table>
+            
+            <div class="summary-card">
+                <div class="summary-item">
+                    <span>测验总成绩：</span>
+                    <span id="quizTotalScore">-</span>
+                </div>
+                <div class="summary-item">
+                    <span>考勤成绩：</span>
+                    <span id="attendanceScore">-</span>
+                </div>
+                <div class="summary-item">
+                    <span>期末论文成绩：</span>
+                    <span id="paperScore">-</span>
+                </div>
+                <div class="summary-item total-score">
+                    <span>总成绩：</span>
+                    <span id="totalScore">-</span>
+                </div>
+            </div>
         </section>
         
         <footer>
@@ -264,6 +330,8 @@
     <script>
         // 全局变量存储学生数据
         let studentsData = [];
+        // 定义所有周次
+        const allWeeks = [3, 6, 8, 10, 12, 14, 16];
 
         // 页面加载时获取数据
         document.addEventListener('DOMContentLoaded', function() {
@@ -306,7 +374,7 @@
                 document.getElementById('loadingMessage').style.color = '#dc3545';
             }
         }
-        
+
         // 查询按钮事件处理
         document.getElementById('queryBtn').addEventListener('click', function() {
             const name = document.getElementById('studentName').value.trim();
@@ -333,7 +401,7 @@
                 showError("未找到匹配的学生信息，请检查姓名和学号是否正确。");
             }
         });
-        
+
         // 修改后的findStudent函数 - 只允许精确匹配
         function findStudent(name, id) {
             return studentsData.find(student => 
@@ -342,13 +410,6 @@
                 // 学号或学校名称必须精确匹配
                 (student.student_id === id)
             );
-        }
-        
-        // 添加一个辅助函数，用于显示更详细的错误信息
-        function showError(message) {
-            const errorElement = document.getElementById('errorMessage');
-            errorElement.textContent = message;
-            errorElement.style.display = 'block';
         }
 
         function displayStudentInfo(student) {
@@ -360,27 +421,45 @@
             const attendanceTable = document.getElementById('attendanceTable');
             attendanceTable.innerHTML = '';
             
-            // 按周次排序
-            const sortedAttendance = student.attendance.sort((a, b) => a.week - b.week);
+            // 确保所有周次都有记录
+            const attendanceByWeek = {};
+            student.attendance.forEach(item => {
+                attendanceByWeek[item.week] = item;
+            });
             
-            sortedAttendance.forEach(item => {
+            // 为所有周次创建行
+            allWeeks.forEach(week => {
                 const row = document.createElement('tr');
                 
                 const weekCell = document.createElement('td');
-                weekCell.textContent = `第${item.week}周`;
+                weekCell.textContent = `第${week}周`;
                 
                 const statusCell = document.createElement('td');
-                statusCell.textContent = item.status;
-                if (item.status === '出勤') {
-                    statusCell.className = 'attendance-present';
-                } else if (item.status === '请假') {
-                    statusCell.className = 'attention-leave';
-                } else if (item.status === '缺勤') {
-                    statusCell.className = 'attendance-absent';
-                }
-                
                 const scoreCell = document.createElement('td');
-                scoreCell.textContent = item.score !== null && item.score !== undefined ? item.score : '-';
+                
+                if (attendanceByWeek[week]) {
+                    const item = attendanceByWeek[week];
+                    statusCell.textContent = item.status || '--';
+                    
+                    // 设置考勤状态的颜色
+                    if (item.status === '出勤') {
+                        statusCell.className = 'attendance-present';
+                    } else if (item.status === '请假') {
+                        statusCell.className = 'attendance-leave';
+                    } else if (item.status === '缺勤') {
+                        statusCell.className = 'attendance-absent';
+                    } else {
+                        statusCell.className = 'attendance-empty';
+                    }
+                    
+                    // 显示测验成绩
+                    scoreCell.textContent = (item.score !== null && item.score !== undefined) ? item.score : '--';
+                } else {
+                    // 没有考勤数据
+                    statusCell.textContent = '--';
+                    statusCell.className = 'attendance-empty';
+                    scoreCell.textContent = '--';
+                }
                 
                 row.appendChild(weekCell);
                 row.appendChild(statusCell);
