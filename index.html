@@ -294,7 +294,7 @@
     <div class="container">
         <div class="header">
             <h1>智识与审美课程成绩查询</h1>
-            <p>请输入姓名和学号查询您的成绩详情</p>
+            <p>请输入姓名和学号（或学校）查询您的成绩详情</p>
         </div>
         
         <div class="search-section">
@@ -304,8 +304,8 @@
                     <input type="text" id="name" placeholder="请输入您的姓名" required>
                 </div>
                 <div class="input-group">
-                    <label for="id">学号</label>
-                    <input type="text" id="id" placeholder="请输入您的学号" required>
+                    <label for="id">学号/学校</label>
+                    <input type="text" id="id" placeholder="请输入您的学号/学校" required>
                 </div>
                 <button type="submit" class="search-btn">查询成绩</button>
             </form>
@@ -321,8 +321,8 @@
                     <h4>考勤分计算规则</h4>
                     <ul>
                         <li>缺勤次数 ≤ 0次：考勤分不扣分</li>
-                        <li>缺勤次数 1-3次：考勤分扣1分</li>
-                        <li>缺勤次数 > 3次：考勤分扣2分</li>
+                        <li>缺勤次数 1~3次：考勤分扣1分</li>
+                        <li>缺勤次数 4~7次：考勤分扣2分</li>
                         <li>请假不计入缺勤次数</li>
                     </ul>
                 </div>
@@ -340,7 +340,6 @@
                     <ul>
                         <li>测验总分 = 最高四次测验成绩之和 × 15%</li>
                         <li>计算结果四舍五入取整</li>
-                        <li>最高分用绿色高亮显示</li>
                     </ul>
                 </div>
                 <div class="quiz-scores-grid" id="quizScoresGrid"></div>
@@ -514,7 +513,7 @@
                 }
                 
                 // 显示测验总分
-                quizTotalScore.textContent = quizTotal;
+                quizTotalScore.textContent = quizTotal / 60;
                 
                 // 显示期末论文成绩
                 let finalPaperValue = 0;
@@ -522,7 +521,7 @@
                     finalPaperValue = student.final_paper;
                     finalPaperScore.textContent = finalPaperValue + '分';
                 } else {
-                    finalPaperScore.textContent = '待公布';
+                    finalPaperScore.textContent = '--';
                 }
                 
                 // 计算并显示课程总分
