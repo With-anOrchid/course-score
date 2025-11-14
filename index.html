@@ -495,8 +495,7 @@
                 // 显示测验计算详情
                 if (topFourScores.length > 0) {
                     let detailsHtml = '<p><strong>计算详情：</strong></p>';
-                    detailsHtml += `<p>最高四次成绩: ${topFourScores.map(item => `${item.week}(${item.score}分)`).join(' + ')}</p>`;
-                    detailsHtml += `<p>最高四次成绩总和: ${topFourSum}分</p>`;
+                    detailsHtml += `<p>最高四次成绩: ${topFourScores.map(item => `${item.week}(${item.score}分)`).join(' + ')} = ${topFourSum}分</p>`;
                     detailsHtml += `<p>${topFourSum} × 15% = ${quizTotal}分</p>`;
                     quizCalculationDetails.innerHTML = detailsHtml;
                 } else {
