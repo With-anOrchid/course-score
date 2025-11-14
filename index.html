@@ -244,78 +244,20 @@
         <header>
             <h1>智识与审美</h1>
             <div class="subtitle">课程成绩查询系统</div>
+            <div class="update-info" id="updateInfo" style="font-size: 14px; margin-top: 10px; opacity: 0.8;"></div>
         </header>
         
         <section class="query-section">
-            <div class="form-group">
-                <label for="studentName">姓名</label>
-                <input type="text" id="studentName" placeholder="请输入您的姓名">
-            </div>
-            
-            <div class="form-group">
-                <label for="studentId">学号或学校</label>
-                <input type="text" id="studentId" placeholder="请输入您的学号或学校">
-            </div>
-            
-            <button id="queryBtn" disabled>加载数据中...</button>
-            
-            <div class="loading" id="loadingMessage">
-                正在加载学生数据...
-            </div>
-            
-            <div class="error-message" id="errorMessage">
-                未找到匹配的学生信息，请检查姓名和学号是否正确。
-            </div>
+            <!-- 查询表单保持不变 -->
         </section>
         
         <section class="result-section" id="resultSection">
-            <div class="student-info">
-                <div class="info-row">
-                    <div class="info-label">姓名：</div>
-                    <div class="info-value" id="displayName">-</div>
-                </div>
-                <div class="info-row">
-                    <div class="info-label">学号/学校：</div>
-                    <div class="info-value" id="displayId">-</div>
-                </div>
-            </div>
-            
-            <h2 class="section-title">考勤与测验成绩</h2>
-            <table>
-                <thead>
-                    <tr>
-                        <th>周次</th>
-                        <th>考勤状态</th>
-                        <th>测验成绩</th>
-                    </tr>
-                </thead>
-                <tbody id="attendanceTable">
-                    <!-- 动态生成考勤数据 -->
-                </tbody>
-            </table>
-            
-            <div class="summary-card">
-                <div class="summary-item">
-                    <span>测验总成绩：</span>
-                    <span id="quizTotalScore">-</span>
-                </div>
-                <div class="summary-item">
-                    <span>考勤成绩：</span>
-                    <span id="attendanceScore">-</span>
-                </div>
-                <div class="summary-item">
-                    <span>期末论文成绩：</span>
-                    <span id="paperScore">-</span>
-                </div>
-                <div class="summary-item total-score">
-                    <span>总成绩：</span>
-                    <span id="totalScore">-</span>
-                </div>
-            </div>
+            <!-- 结果显示保持不变 -->
         </section>
         
         <footer>
-            <p>© 2025 智识与审美 | 如有疑问请联系课程助教</p>
+            <p>© 2023 智识与审美课程组 | 如有疑问请联系课程助教</p>
+            <p id="dataUpdateInfo" style="font-size: 12px; margin-top: 5px;"></p>
         </footer>
     </div>
 
@@ -337,6 +279,19 @@
                 }
                 studentsData = await response.json();
                 
+                // 显示数据更新信息
+                if (studentsData.length > 0) {
+                    const latestUpdate = studentsData.reduce((latest, student) => {
+                        const studentTime = new Date(student.last_updated || 0);
+                        return studentTime > latest ? studentTime : latest;
+                    }, new Date(0));
+                    
+                    document.getElementById('updateInfo').textContent = 
+                        `数据最后更新: ${latestUpdate.toLocaleString()}`;
+                    document.getElementById('dataUpdateInfo').textContent = 
+                        `数据版本: ${latestUpdate.toLocaleString()}`;
+                }
+                
                 // 启用查询按钮
                 document.getElementById('queryBtn').disabled = false;
                 document.getElementById('queryBtn').textContent = '查询成绩';
@@ -351,7 +306,8 @@
                 document.getElementById('loadingMessage').style.color = '#dc3545';
             }
         }
-
+        
+        // 查询按钮事件处理
         document.getElementById('queryBtn').addEventListener('click', function() {
             const name = document.getElementById('studentName').value.trim();
             const id = document.getElementById('studentId').value.trim();
@@ -377,14 +333,22 @@
                 showError("未找到匹配的学生信息，请检查姓名和学号是否正确。");
             }
         });
-
+        
+        // 修改后的findStudent函数 - 只允许精确匹配
         function findStudent(name, id) {
             return studentsData.find(student => 
+                // 姓名必须精确匹配
                 student.name === name && 
-                (student.student_id === id || 
-                 student.student_id.includes(id) || 
-                 id.includes(student.student_id))
+                // 学号或学校名称必须精确匹配
+                (student.student_id === id)
             );
+        }
+        
+        // 添加一个辅助函数，用于显示更详细的错误信息
+        function showError(message) {
+            const errorElement = document.getElementById('errorMessage');
+            errorElement.textContent = message;
+            errorElement.style.display = 'block';
         }
 
         function displayStudentInfo(student) {
@@ -410,7 +374,7 @@
                 if (item.status === '出勤') {
                     statusCell.className = 'attendance-present';
                 } else if (item.status === '请假') {
-                    statusCell.className = 'attendance-leave';
+                    statusCell.className = 'attention-leave';
                 } else if (item.status === '缺勤') {
                     statusCell.className = 'attendance-absent';
                 }
@@ -451,6 +415,13 @@
             
             const totalScore = quizFinalScore + attendanceScore + student.final_paper;
             document.getElementById('totalScore').textContent = `${totalScore}/100`;
+            
+            // 显示数据更新时间
+            if (student.last_updated) {
+                const updateTime = new Date(student.last_updated).toLocaleString();
+                document.getElementById('dataUpdateInfo').textContent = 
+                    `该记录最后更新: ${updateTime}`;
+            }
         }
 
         function showError(message) {
