@@ -470,7 +470,7 @@
                         <td>${week.name}</td>
                         <td class="${attendanceClass}">${attendanceText || '--'}</td>
                         <td class="score-value">${score !== null && score !== undefined ? score : '--'}</td>
-                        <td>${isTopScore ? '✅ 计入测验总分' : (score !== null && score !== undefined ? '未计入最高四次' : '无成绩')}</td>
+                        <td>${isTopScore ? '✅ 计入测验总分' : (score !== null && score !== undefined ? '不计入测验总分' : '无成绩')}</td>
                     `;
                     scoresBody.appendChild(row);
                 });
