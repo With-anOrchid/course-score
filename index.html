@@ -278,7 +278,7 @@
     <div class="container">
         <div class="header">
             <h1>智识与审美课程成绩查询</h1>
-            <p>请输入姓名和学号查询您的课程成绩详情</p>
+            <p>请输入姓名和学号（或校名）查询您的课程成绩详情</p>
         </div>
         
         <div class="rules-section">
@@ -288,7 +288,7 @@
                     <strong>测验总分：</strong>取最高的四次测验成绩，求和后乘以15%，四舍五入保留一位小数
                 </div>
                 <div class="rule-item">
-                    <strong>考勤分：</strong>1~3次缺勤（不含请假）为-1分，4~7次缺勤为-2分
+                    <strong>考勤分：</strong>缺勤（不含请假）1~3次为-1分，缺勤（不含请假）4~7次为-2分
                 </div>
                 <div class="rule-item">
                     <strong>总分：</strong>测验总分 + 考勤分
@@ -303,8 +303,8 @@
                     <input type="text" id="name" placeholder="请输入您的姓名" required>
                 </div>
                 <div class="input-group">
-                    <label for="id">学号</label>
-                    <input type="text" id="id" placeholder="请输入您的学号" required>
+                    <label for="id">学号/校名</label>
+                    <input type="text" id="id" placeholder="请输入您的学号/校名" required>
                 </div>
                 <button type="submit" class="search-btn">查询成绩</button>
             </form>
