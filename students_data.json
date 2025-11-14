@@ -1,0 +1,620 @@
+[
+  {
+    "student_id": "2000013703",
+    "name": "2000013703",
+    "attendance": [],
+    "final_paper": 0.0
+  },
+  {
+    "student_id": "2000091816",
+    "name": "2000091816",
+    "attendance": [],
+    "final_paper": 0.0
+  },
+  {
+    "student_id": "2100014925",
+    "name": "2100014925",
+    "attendance": [],
+    "final_paper": 0.0
+  },
+  {
+    "student_id": "2100014927",
+    "name": "2100014927",
+    "attendance": [],
+    "final_paper": -1.0
+  },
+  {
+    "student_id": "2100014952",
+    "name": "2100014952",
+    "attendance": [],
+    "final_paper": 0.0
+  },
+  {
+    "student_id": "2100092305",
+    "name": "2100092305",
+    "attendance": [],
+    "final_paper": -1.0
+  },
+  {
+    "student_id": "2200011415",
+    "name": "2200011415",
+    "attendance": [],
+    "final_paper": 0.0
+  },
+  {
+    "student_id": "2200011430",
+    "name": "2200011430",
+    "attendance": [],
+    "final_paper": 0.0
+  },
+  {
+    "student_id": "2200011446",
+    "name": "2200011446",
+    "attendance": [],
+    "final_paper": 0.0
+  },
+  {
+    "student_id": "2200011502",
+    "name": "2200011502",
+    "attendance": [],
+    "final_paper": 0.0
+  },
+  {
+    "student_id": "2200012152",
+    "name": "2200012152",
+    "attendance": [],
+    "final_paper": 0.0
+  },
+  {
+    "student_id": "2200012864",
+    "name": "2200012864",
+    "attendance": [],
+    "final_paper": 0.0
+  },
+  {
+    "student_id": "2200014904",
+    "name": "2200014904",
+    "attendance": [],
+    "final_paper": 0.0
+  },
+  {
+    "student_id": "2200014905",
+    "name": "2200014905",
+    "attendance": [],
+    "final_paper": 0.0
+  },
+  {
+    "student_id": "2200014906",
+    "name": "2200014906",
+    "attendance": [],
+    "final_paper": 0.0
+  },
+  {
+    "student_id": "2200014917",
+    "name": "2200014917",
+    "attendance": [],
+    "final_paper": 0.0
+  },
+  {
+    "student_id": "2200014927",
+    "name": "2200014927",
+    "attendance": [],
+    "final_paper": -1.0
+  },
+  {
+    "student_id": "2200014932",
+    "name": "2200014932",
+    "attendance": [],
+    "final_paper": 0.0
+  },
+  {
+    "student_id": "2200014959",
+    "name": "2200014959",
+    "attendance": [],
+    "final_paper": 0.0
+  },
+  {
+    "student_id": "2200014962",
+    "name": "2200014962",
+    "attendance": [],
+    "final_paper": 0.0
+  },
+  {
+    "student_id": "2200015140",
+    "name": "2200015140",
+    "attendance": [],
+    "final_paper": 0.0
+  },
+  {
+    "student_id": "2200017419",
+    "name": "2200017419",
+    "attendance": [],
+    "final_paper": 0.0
+  },
+  {
+    "student_id": "2300011324",
+    "name": "2300011324",
+    "attendance": [],
+    "final_paper": 0.0
+  },
+  {
+    "student_id": "2300011342",
+    "name": "2300011342",
+    "attendance": [],
+    "final_paper": 0.0
+  },
+  {
+    "student_id": "2300011558",
+    "name": "2300011558",
+    "attendance": [],
+    "final_paper": -1.0
+  },
+  {
+    "student_id": "2300011740",
+    "name": "2300011740",
+    "attendance": [],
+    "final_paper": 0.0
+  },
+  {
+    "student_id": "2300012808",
+    "name": "2300012808",
+    "attendance": [],
+    "final_paper": 0.0
+  },
+  {
+    "student_id": "2300012861",
+    "name": "2300012861",
+    "attendance": [],
+    "final_paper": 0.0
+  },
+  {
+    "student_id": "2300013922",
+    "name": "2300013922",
+    "attendance": [],
+    "final_paper": 0.0
+  },
+  {
+    "student_id": "2300014226",
+    "name": "2300014226",
+    "attendance": [],
+    "final_paper": 0.0
+  },
+  {
+    "student_id": "2300014522",
+    "name": "2300014522",
+    "attendance": [],
+    "final_paper": 0.0
+  },
+  {
+    "student_id": "2300014570",
+    "name": "2300014570",
+    "attendance": [],
+    "final_paper": 0.0
+  },
+  {
+    "student_id": "2300014902",
+    "name": "2300014902",
+    "attendance": [],
+    "final_paper": 0.0
+  },
+  {
+    "student_id": "2300014923",
+    "name": "2300014923",
+    "attendance": [],
+    "final_paper": 0.0
+  },
+  {
+    "student_id": "2300014956",
+    "name": "2300014956",
+    "attendance": [],
+    "final_paper": 0.0
+  },
+  {
+    "student_id": "2300014958",
+    "name": "2300014958",
+    "attendance": [],
+    "final_paper": 0.0
+  },
+  {
+    "student_id": "2300014959",
+    "name": "2300014959",
+    "attendance": [],
+    "final_paper": 0.0
+  },
+  {
+    "student_id": "2300014962",
+    "name": "2300014962",
+    "attendance": [],
+    "final_paper": 0.0
+  },
+  {
+    "student_id": "2300014965",
+    "name": "2300014965",
+    "attendance": [],
+    "final_paper": 0.0
+  },
+  {
+    "student_id": "2300016327",
+    "name": "2300016327",
+    "attendance": [],
+    "final_paper": 0.0
+  },
+  {
+    "student_id": "2300092302",
+    "name": "2300092302",
+    "attendance": [],
+    "final_paper": 0.0
+  },
+  {
+    "student_id": "2300094307",
+    "name": "2300094307",
+    "attendance": [],
+    "final_paper": 0.0
+  },
+  {
+    "student_id": "2400010971",
+    "name": "2400010971",
+    "attendance": [],
+    "final_paper": 0.0
+  },
+  {
+    "student_id": "2400010985",
+    "name": "2400010985",
+    "attendance": [],
+    "final_paper": 0.0
+  },
+  {
+    "student_id": "2400010989",
+    "name": "2400010989",
+    "attendance": [],
+    "final_paper": 0.0
+  },
+  {
+    "student_id": "2400011024",
+    "name": "2400011024",
+    "attendance": [],
+    "final_paper": 0.0
+  },
+  {
+    "student_id": "2400011207",
+    "name": "2400011207",
+    "attendance": [],
+    "final_paper": 0.0
+  },
+  {
+    "student_id": "2400011304",
+    "name": "2400011304",
+    "attendance": [],
+    "final_paper": 0.0
+  },
+  {
+    "student_id": "2400011452",
+    "name": "2400011452",
+    "attendance": [],
+    "final_paper": 0.0
+  },
+  {
+    "student_id": "2400011581",
+    "name": "2400011581",
+    "attendance": [],
+    "final_paper": 0.0
+  },
+  {
+    "student_id": "2400011761",
+    "name": "2400011761",
+    "attendance": [],
+    "final_paper": 0.0
+  },
+  {
+    "student_id": "2400011798",
+    "name": "2400011798",
+    "attendance": [],
+    "final_paper": 0.0
+  },
+  {
+    "student_id": "2400012158",
+    "name": "2400012158",
+    "attendance": [],
+    "final_paper": 0.0
+  },
+  {
+    "student_id": "2400012295",
+    "name": "2400012295",
+    "attendance": [],
+    "final_paper": 0.0
+  },
+  {
+    "student_id": "2400012603",
+    "name": "2400012603",
+    "attendance": [],
+    "final_paper": 0.0
+  },
+  {
+    "student_id": "2400013260",
+    "name": "2400013260",
+    "attendance": [],
+    "final_paper": 0.0
+  },
+  {
+    "student_id": "2400013755",
+    "name": "2400013755",
+    "attendance": [],
+    "final_paper": 0.0
+  },
+  {
+    "student_id": "2400014957",
+    "name": "2400014957",
+    "attendance": [],
+    "final_paper": 0.0
+  },
+  {
+    "student_id": "2400015415",
+    "name": "2400015415",
+    "attendance": [],
+    "final_paper": 0.0
+  },
+  {
+    "student_id": "2400015487",
+    "name": "2400015487",
+    "attendance": [],
+    "final_paper": 0.0
+  },
+  {
+    "student_id": "2400015886",
+    "name": "2400015886",
+    "attendance": [],
+    "final_paper": 0.0
+  },
+  {
+    "student_id": "2400016640",
+    "name": "2400016640",
+    "attendance": [],
+    "final_paper": 0.0
+  },
+  {
+    "student_id": "2400017403",
+    "name": "2400017403",
+    "attendance": [],
+    "final_paper": 0.0
+  },
+  {
+    "student_id": "2400018415",
+    "name": "2400018415",
+    "attendance": [],
+    "final_paper": 0.0
+  },
+  {
+    "student_id": "2400912016",
+    "name": "2400912016",
+    "attendance": [],
+    "final_paper": 0.0
+  },
+  {
+    "student_id": "2400912017",
+    "name": "2400912017",
+    "attendance": [],
+    "final_paper": 0.0
+  },
+  {
+    "student_id": "2410108213",
+    "name": "2410108213",
+    "attendance": [],
+    "final_paper": 0.0
+  },
+  {
+    "student_id": "2410124242",
+    "name": "2410124242",
+    "attendance": [],
+    "final_paper": 0.0
+  },
+  {
+    "student_id": "2500011011",
+    "name": "2500011011",
+    "attendance": [],
+    "final_paper": 0.0
+  },
+  {
+    "student_id": "2500011044",
+    "name": "2500011044",
+    "attendance": [],
+    "final_paper": 0.0
+  },
+  {
+    "student_id": "2500011130",
+    "name": "2500011130",
+    "attendance": [],
+    "final_paper": -1.0
+  },
+  {
+    "student_id": "2500011439",
+    "name": "2500011439",
+    "attendance": [],
+    "final_paper": 0.0
+  },
+  {
+    "student_id": "2500011454",
+    "name": "2500011454",
+    "attendance": [],
+    "final_paper": 0.0
+  },
+  {
+    "student_id": "2500011459",
+    "name": "2500011459",
+    "attendance": [],
+    "final_paper": 0.0
+  },
+  {
+    "student_id": "2500011493",
+    "name": "2500011493",
+    "attendance": [],
+    "final_paper": 0.0
+  },
+  {
+    "student_id": "2500012307",
+    "name": "2500012307",
+    "attendance": [],
+    "final_paper": 0.0
+  },
+  {
+    "student_id": "2500012411",
+    "name": "2500012411",
+    "attendance": [],
+    "final_paper": 0.0
+  },
+  {
+    "student_id": "2500012817",
+    "name": "2500012817",
+    "attendance": [],
+    "final_paper": 0.0
+  },
+  {
+    "student_id": "2500013046",
+    "name": "2500013046",
+    "attendance": [],
+    "final_paper": 0.0
+  },
+  {
+    "student_id": "2500013066",
+    "name": "2500013066",
+    "attendance": [],
+    "final_paper": 0.0
+  },
+  {
+    "student_id": "2500013196",
+    "name": "2500013196",
+    "attendance": [],
+    "final_paper": 0.0
+  },
+  {
+    "student_id": "2500013203",
+    "name": "2500013203",
+    "attendance": [],
+    "final_paper": 0.0
+  },
+  {
+    "student_id": "2500016281",
+    "name": "2500016281",
+    "attendance": [],
+    "final_paper": 0.0
+  },
+  {
+    "student_id": "2500016614",
+    "name": "2500016614",
+    "attendance": [],
+    "final_paper": 0.0
+  },
+  {
+    "student_id": "2500016932",
+    "name": "2500016932",
+    "attendance": [],
+    "final_paper": 0.0
+  },
+  {
+    "student_id": "2500017815",
+    "name": "2500017815",
+    "attendance": [],
+    "final_paper": 0.0
+  },
+  {
+    "student_id": "2500018402",
+    "name": "2500018402",
+    "attendance": [],
+    "final_paper": 0.0
+  },
+  {
+    "student_id": "2500018508",
+    "name": "2500018508",
+    "attendance": [],
+    "final_paper": 0.0
+  },
+  {
+    "student_id": "2500091806",
+    "name": "2500091806",
+    "attendance": [],
+    "final_paper": 0.0
+  },
+  {
+    "student_id": "2500931107",
+    "name": "2500931107",
+    "attendance": [],
+    "final_paper": 0.0
+  },
+  {
+    "student_id": "2500931114",
+    "name": "2500931114",
+    "attendance": [],
+    "final_paper": 0.0
+  },
+  {
+    "student_id": "2500931121",
+    "name": "2500931121",
+    "attendance": [],
+    "final_paper": 0.0
+  },
+  {
+    "student_id": "2510124209",
+    "name": "2510124209",
+    "attendance": [],
+    "final_paper": 0.0
+  },
+  {
+    "student_id": "2510301105",
+    "name": "2510301105",
+    "attendance": [],
+    "final_paper": 0.0
+  },
+  {
+    "student_id": "2510301117",
+    "name": "2510301117",
+    "attendance": [],
+    "final_paper": 0.0
+  },
+  {
+    "student_id": "2510301141",
+    "name": "2510301141",
+    "attendance": [],
+    "final_paper": 0.0
+  },
+  {
+    "student_id": "2510301317",
+    "name": "2510301317",
+    "attendance": [],
+    "final_paper": 0.0
+  },
+  {
+    "student_id": "2510301324",
+    "name": "2510301324",
+    "attendance": [],
+    "final_paper": 0.0
+  },
+  {
+    "student_id": "2510303107",
+    "name": "2510303107",
+    "attendance": [],
+    "final_paper": 0.0
+  },
+  {
+    "student_id": "2510305108",
+    "name": "2510305108",
+    "attendance": [],
+    "final_paper": 0.0
+  },
+  {
+    "student_id": "2510306235",
+    "name": "2510306235",
+    "attendance": [],
+    "final_paper": 0.0
+  },
+  {
+    "student_id": "2510307419",
+    "name": "2510307419",
+    "attendance": [],
+    "final_paper": 0.0
+  },
+  {
+    "student_id": "北京外国语大学",
+    "name": "北京外国语大学",
+    "attendance": [],
+    "final_paper": 0.0
+  }
+]
