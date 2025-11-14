@@ -22,9 +22,25 @@
         "week": 10,
         "status": "出勤",
         "score": 71.0
+      },
+      {
+        "week": 12,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 16,
+        "status": null,
+        "score": null
       }
     ],
-    "final_paper": 0.0
+    "final_paper": 0.0,
+    "last_updated": "2025-11-14T18:09:56.494095"
   },
   {
     "student_id": "2000091816",
@@ -49,9 +65,25 @@
         "week": 10,
         "status": "出勤",
         "score": 76.0
+      },
+      {
+        "week": 12,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 16,
+        "status": null,
+        "score": null
       }
     ],
-    "final_paper": 0.0
+    "final_paper": 0.0,
+    "last_updated": "2025-11-14T18:09:56.495320"
   },
   {
     "student_id": "2100014925",
@@ -76,9 +108,25 @@
         "week": 10,
         "status": "出勤",
         "score": 84.0
+      },
+      {
+        "week": 12,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 16,
+        "status": null,
+        "score": null
       }
     ],
-    "final_paper": 0.0
+    "final_paper": 0.0,
+    "last_updated": "2025-11-14T18:09:56.496475"
   },
   {
     "student_id": "2100014927",
@@ -103,9 +151,25 @@
         "week": 10,
         "status": "出勤",
         "score": 63.0
+      },
+      {
+        "week": 12,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 16,
+        "status": null,
+        "score": null
       }
     ],
-    "final_paper": -1.0
+    "final_paper": -1.0,
+    "last_updated": "2025-11-14T18:09:56.502877"
   },
   {
     "student_id": "2100014952",
@@ -130,9 +194,25 @@
         "week": 10,
         "status": "出勤",
         "score": 80.0
+      },
+      {
+        "week": 12,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 16,
+        "status": null,
+        "score": null
       }
     ],
-    "final_paper": 0.0
+    "final_paper": 0.0,
+    "last_updated": "2025-11-14T18:09:56.504554"
   },
   {
     "student_id": "2100092305",
@@ -157,9 +237,25 @@
         "week": 10,
         "status": "缺勤",
         "score": 41.0
+      },
+      {
+        "week": 12,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 16,
+        "status": null,
+        "score": null
       }
     ],
-    "final_paper": -1.0
+    "final_paper": -1.0,
+    "last_updated": "2025-11-14T18:09:56.506766"
   },
   {
     "student_id": "2200011415",
@@ -184,9 +280,25 @@
         "week": 10,
         "status": "出勤",
         "score": 75.0
+      },
+      {
+        "week": 12,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 16,
+        "status": null,
+        "score": null
       }
     ],
-    "final_paper": 0.0
+    "final_paper": 0.0,
+    "last_updated": "2025-11-14T18:09:56.508549"
   },
   {
     "student_id": "2200011430",
@@ -211,9 +323,25 @@
         "week": 10,
         "status": "出勤",
         "score": 70.0
+      },
+      {
+        "week": 12,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 16,
+        "status": null,
+        "score": null
       }
     ],
-    "final_paper": 0.0
+    "final_paper": 0.0,
+    "last_updated": "2025-11-14T18:09:56.510041"
   },
   {
     "student_id": "2200011446",
@@ -238,9 +366,25 @@
         "week": 10,
         "status": "出勤",
         "score": 91.0
+      },
+      {
+        "week": 12,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 16,
+        "status": null,
+        "score": null
       }
     ],
-    "final_paper": 0.0
+    "final_paper": 0.0,
+    "last_updated": "2025-11-14T18:09:56.519729"
   },
   {
     "student_id": "2200011502",
@@ -265,9 +409,25 @@
         "week": 10,
         "status": "出勤",
         "score": 83.0
+      },
+      {
+        "week": 12,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 16,
+        "status": null,
+        "score": null
       }
     ],
-    "final_paper": 0.0
+    "final_paper": 0.0,
+    "last_updated": "2025-11-14T18:09:56.524183"
   },
   {
     "student_id": "2200012152",
@@ -292,9 +452,25 @@
         "week": 10,
         "status": "出勤",
         "score": 78.0
+      },
+      {
+        "week": 12,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 16,
+        "status": null,
+        "score": null
       }
     ],
-    "final_paper": 0.0
+    "final_paper": 0.0,
+    "last_updated": "2025-11-14T18:09:56.528139"
   },
   {
     "student_id": "2200012864",
@@ -319,9 +495,25 @@
         "week": 10,
         "status": "出勤",
         "score": 70.0
+      },
+      {
+        "week": 12,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 16,
+        "status": null,
+        "score": null
       }
     ],
-    "final_paper": 0.0
+    "final_paper": 0.0,
+    "last_updated": "2025-11-14T18:09:56.538013"
   },
   {
     "student_id": "2200014904",
@@ -346,9 +538,25 @@
         "week": 10,
         "status": "出勤",
         "score": 82.0
+      },
+      {
+        "week": 12,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 16,
+        "status": null,
+        "score": null
       }
     ],
-    "final_paper": 0.0
+    "final_paper": 0.0,
+    "last_updated": "2025-11-14T18:09:56.542255"
   },
   {
     "student_id": "2200014905",
@@ -373,9 +581,25 @@
         "week": 10,
         "status": "出勤",
         "score": 83.0
+      },
+      {
+        "week": 12,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 16,
+        "status": null,
+        "score": null
       }
     ],
-    "final_paper": 0.0
+    "final_paper": 0.0,
+    "last_updated": "2025-11-14T18:09:56.546333"
   },
   {
     "student_id": "2200014906",
@@ -400,9 +624,25 @@
         "week": 10,
         "status": "出勤",
         "score": 67.0
+      },
+      {
+        "week": 12,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 16,
+        "status": null,
+        "score": null
       }
     ],
-    "final_paper": 0.0
+    "final_paper": 0.0,
+    "last_updated": "2025-11-14T18:09:56.556483"
   },
   {
     "student_id": "2200014917",
@@ -427,9 +667,25 @@
         "week": 10,
         "status": "出勤",
         "score": 82.0
+      },
+      {
+        "week": 12,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 16,
+        "status": null,
+        "score": null
       }
     ],
-    "final_paper": 0.0
+    "final_paper": 0.0,
+    "last_updated": "2025-11-14T18:09:56.560466"
   },
   {
     "student_id": "2200014927",
@@ -454,9 +710,25 @@
         "week": 10,
         "status": "出勤",
         "score": 90.0
+      },
+      {
+        "week": 12,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 16,
+        "status": null,
+        "score": null
       }
     ],
-    "final_paper": -1.0
+    "final_paper": -1.0,
+    "last_updated": "2025-11-14T18:09:56.569907"
   },
   {
     "student_id": "2200014932",
@@ -481,9 +753,25 @@
         "week": 10,
         "status": "出勤",
         "score": 86.0
+      },
+      {
+        "week": 12,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 16,
+        "status": null,
+        "score": null
       }
     ],
-    "final_paper": 0.0
+    "final_paper": 0.0,
+    "last_updated": "2025-11-14T18:09:56.574315"
   },
   {
     "student_id": "2200014959",
@@ -508,9 +796,25 @@
         "week": 10,
         "status": "出勤",
         "score": 75.0
+      },
+      {
+        "week": 12,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 16,
+        "status": null,
+        "score": null
       }
     ],
-    "final_paper": 0.0
+    "final_paper": 0.0,
+    "last_updated": "2025-11-14T18:09:56.578295"
   },
   {
     "student_id": "2200014962",
@@ -535,9 +839,25 @@
         "week": 10,
         "status": "出勤",
         "score": 94.0
+      },
+      {
+        "week": 12,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 16,
+        "status": null,
+        "score": null
       }
     ],
-    "final_paper": 0.0
+    "final_paper": 0.0,
+    "last_updated": "2025-11-14T18:09:56.587360"
   },
   {
     "student_id": "2200015140",
@@ -562,9 +882,25 @@
         "week": 10,
         "status": "出勤",
         "score": 84.0
+      },
+      {
+        "week": 12,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 16,
+        "status": null,
+        "score": null
       }
     ],
-    "final_paper": 0.0
+    "final_paper": 0.0,
+    "last_updated": "2025-11-14T18:09:56.591287"
   },
   {
     "student_id": "2200017419",
@@ -589,9 +925,25 @@
         "week": 10,
         "status": "出勤",
         "score": null
+      },
+      {
+        "week": 12,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 16,
+        "status": null,
+        "score": null
       }
     ],
-    "final_paper": 0.0
+    "final_paper": 0.0,
+    "last_updated": "2025-11-14T18:09:56.595209"
   },
   {
     "student_id": "2300011324",
@@ -616,9 +968,25 @@
         "week": 10,
         "status": "出勤",
         "score": 80.0
+      },
+      {
+        "week": 12,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 16,
+        "status": null,
+        "score": null
       }
     ],
-    "final_paper": 0.0
+    "final_paper": 0.0,
+    "last_updated": "2025-11-14T18:09:56.605131"
   },
   {
     "student_id": "2300011342",
@@ -643,9 +1011,25 @@
         "week": 10,
         "status": "出勤",
         "score": 72.0
+      },
+      {
+        "week": 12,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 16,
+        "status": null,
+        "score": null
       }
     ],
-    "final_paper": 0.0
+    "final_paper": 0.0,
+    "last_updated": "2025-11-14T18:09:56.609476"
   },
   {
     "student_id": "2300011558",
@@ -670,9 +1054,25 @@
         "week": 10,
         "status": "出勤",
         "score": 65.0
+      },
+      {
+        "week": 12,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 16,
+        "status": null,
+        "score": null
       }
     ],
-    "final_paper": -1.0
+    "final_paper": -1.0,
+    "last_updated": "2025-11-14T18:09:56.613523"
   },
   {
     "student_id": "2300011740",
@@ -697,9 +1097,25 @@
         "week": 10,
         "status": "出勤",
         "score": 70.0
+      },
+      {
+        "week": 12,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 16,
+        "status": null,
+        "score": null
       }
     ],
-    "final_paper": 0.0
+    "final_paper": 0.0,
+    "last_updated": "2025-11-14T18:09:56.623675"
   },
   {
     "student_id": "2300012808",
@@ -724,9 +1140,25 @@
         "week": 10,
         "status": "出勤",
         "score": 77.0
+      },
+      {
+        "week": 12,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 16,
+        "status": null,
+        "score": null
       }
     ],
-    "final_paper": 0.0
+    "final_paper": 0.0,
+    "last_updated": "2025-11-14T18:09:56.627781"
   },
   {
     "student_id": "2300012861",
@@ -751,9 +1183,25 @@
         "week": 10,
         "status": "出勤",
         "score": 94.0
+      },
+      {
+        "week": 12,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 16,
+        "status": null,
+        "score": null
       }
     ],
-    "final_paper": 0.0
+    "final_paper": 0.0,
+    "last_updated": "2025-11-14T18:09:56.637912"
   },
   {
     "student_id": "2300013922",
@@ -778,9 +1226,25 @@
         "week": 10,
         "status": "出勤",
         "score": 67.0
+      },
+      {
+        "week": 12,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 16,
+        "status": null,
+        "score": null
       }
     ],
-    "final_paper": 0.0
+    "final_paper": 0.0,
+    "last_updated": "2025-11-14T18:09:56.642138"
   },
   {
     "student_id": "2300014226",
@@ -805,9 +1269,25 @@
         "week": 10,
         "status": "出勤",
         "score": 82.0
+      },
+      {
+        "week": 12,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 16,
+        "status": null,
+        "score": null
       }
     ],
-    "final_paper": 0.0
+    "final_paper": 0.0,
+    "last_updated": "2025-11-14T18:09:56.646161"
   },
   {
     "student_id": "2300014522",
@@ -832,9 +1312,25 @@
         "week": 10,
         "status": "出勤",
         "score": 88.0
+      },
+      {
+        "week": 12,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 16,
+        "status": null,
+        "score": null
       }
     ],
-    "final_paper": 0.0
+    "final_paper": 0.0,
+    "last_updated": "2025-11-14T18:09:56.655239"
   },
   {
     "student_id": "2300014570",
@@ -859,9 +1355,25 @@
         "week": 10,
         "status": "出勤",
         "score": 71.0
+      },
+      {
+        "week": 12,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 16,
+        "status": null,
+        "score": null
       }
     ],
-    "final_paper": 0.0
+    "final_paper": 0.0,
+    "last_updated": "2025-11-14T18:09:56.659163"
   },
   {
     "student_id": "2300014902",
@@ -886,9 +1398,25 @@
         "week": 10,
         "status": "出勤",
         "score": 69.0
+      },
+      {
+        "week": 12,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 16,
+        "status": null,
+        "score": null
       }
     ],
-    "final_paper": 0.0
+    "final_paper": 0.0,
+    "last_updated": "2025-11-14T18:09:56.663203"
   },
   {
     "student_id": "2300014923",
@@ -913,9 +1441,25 @@
         "week": 10,
         "status": "出勤",
         "score": 84.0
+      },
+      {
+        "week": 12,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 16,
+        "status": null,
+        "score": null
       }
     ],
-    "final_paper": 0.0
+    "final_paper": 0.0,
+    "last_updated": "2025-11-14T18:09:56.673223"
   },
   {
     "student_id": "2300014956",
@@ -940,9 +1484,25 @@
         "week": 10,
         "status": "出勤",
         "score": 77.0
+      },
+      {
+        "week": 12,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 16,
+        "status": null,
+        "score": null
       }
     ],
-    "final_paper": 0.0
+    "final_paper": 0.0,
+    "last_updated": "2025-11-14T18:09:56.677164"
   },
   {
     "student_id": "2300014958",
@@ -967,9 +1527,25 @@
         "week": 10,
         "status": "出勤",
         "score": 79.0
+      },
+      {
+        "week": 12,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 16,
+        "status": null,
+        "score": null
       }
     ],
-    "final_paper": 0.0
+    "final_paper": 0.0,
+    "last_updated": "2025-11-14T18:09:56.686187"
   },
   {
     "student_id": "2300014959",
@@ -994,9 +1570,25 @@
         "week": 10,
         "status": "出勤",
         "score": 87.0
+      },
+      {
+        "week": 12,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 16,
+        "status": null,
+        "score": null
       }
     ],
-    "final_paper": 0.0
+    "final_paper": 0.0,
+    "last_updated": "2025-11-14T18:09:56.690275"
   },
   {
     "student_id": "2300014962",
@@ -1021,9 +1613,25 @@
         "week": 10,
         "status": "出勤",
         "score": 79.0
+      },
+      {
+        "week": 12,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 16,
+        "status": null,
+        "score": null
       }
     ],
-    "final_paper": 0.0
+    "final_paper": 0.0,
+    "last_updated": "2025-11-14T18:09:56.694205"
   },
   {
     "student_id": "2300014965",
@@ -1048,9 +1656,25 @@
         "week": 10,
         "status": "出勤",
         "score": 81.0
+      },
+      {
+        "week": 12,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 16,
+        "status": null,
+        "score": null
       }
     ],
-    "final_paper": 0.0
+    "final_paper": 0.0,
+    "last_updated": "2025-11-14T18:09:56.703144"
   },
   {
     "student_id": "2300016327",
@@ -1075,9 +1699,25 @@
         "week": 10,
         "status": "出勤",
         "score": 74.0
+      },
+      {
+        "week": 12,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 16,
+        "status": null,
+        "score": null
       }
     ],
-    "final_paper": 0.0
+    "final_paper": 0.0,
+    "last_updated": "2025-11-14T18:09:56.707134"
   },
   {
     "student_id": "2300092302",
@@ -1102,9 +1742,25 @@
         "week": 10,
         "status": "出勤",
         "score": 60.0
+      },
+      {
+        "week": 12,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 16,
+        "status": null,
+        "score": null
       }
     ],
-    "final_paper": 0.0
+    "final_paper": 0.0,
+    "last_updated": "2025-11-14T18:09:56.710941"
   },
   {
     "student_id": "2300094307",
@@ -1129,9 +1785,25 @@
         "week": 10,
         "status": "出勤",
         "score": 67.0
+      },
+      {
+        "week": 12,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 16,
+        "status": null,
+        "score": null
       }
     ],
-    "final_paper": 0.0
+    "final_paper": 0.0,
+    "last_updated": "2025-11-14T18:09:56.719988"
   },
   {
     "student_id": "2400010971",
@@ -1156,9 +1828,25 @@
         "week": 10,
         "status": "出勤",
         "score": 89.0
+      },
+      {
+        "week": 12,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 16,
+        "status": null,
+        "score": null
       }
     ],
-    "final_paper": 0.0
+    "final_paper": 0.0,
+    "last_updated": "2025-11-14T18:09:56.723933"
   },
   {
     "student_id": "2400010985",
@@ -1183,9 +1871,25 @@
         "week": 10,
         "status": "出勤",
         "score": 91.0
+      },
+      {
+        "week": 12,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 16,
+        "status": null,
+        "score": null
       }
     ],
-    "final_paper": 0.0
+    "final_paper": 0.0,
+    "last_updated": "2025-11-14T18:09:56.727831"
   },
   {
     "student_id": "2400010989",
@@ -1210,9 +1914,25 @@
         "week": 10,
         "status": "出勤",
         "score": 83.0
+      },
+      {
+        "week": 12,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 16,
+        "status": null,
+        "score": null
       }
     ],
-    "final_paper": 0.0
+    "final_paper": 0.0,
+    "last_updated": "2025-11-14T18:09:56.736741"
   },
   {
     "student_id": "2400011024",
@@ -1237,9 +1957,25 @@
         "week": 10,
         "status": "出勤",
         "score": 59.0
+      },
+      {
+        "week": 12,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 16,
+        "status": null,
+        "score": null
       }
     ],
-    "final_paper": 0.0
+    "final_paper": 0.0,
+    "last_updated": "2025-11-14T18:09:56.740647"
   },
   {
     "student_id": "2400011207",
@@ -1264,9 +2000,25 @@
         "week": 10,
         "status": "出勤",
         "score": 73.0
+      },
+      {
+        "week": 12,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 16,
+        "status": null,
+        "score": null
       }
     ],
-    "final_paper": 0.0
+    "final_paper": 0.0,
+    "last_updated": "2025-11-14T18:09:56.744454"
   },
   {
     "student_id": "2400011304",
@@ -1291,9 +2043,25 @@
         "week": 10,
         "status": "出勤",
         "score": 80.0
+      },
+      {
+        "week": 12,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 16,
+        "status": null,
+        "score": null
       }
     ],
-    "final_paper": 0.0
+    "final_paper": 0.0,
+    "last_updated": "2025-11-14T18:09:56.753402"
   },
   {
     "student_id": "2400011452",
@@ -1318,9 +2086,25 @@
         "week": 10,
         "status": "出勤",
         "score": 79.0
+      },
+      {
+        "week": 12,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 16,
+        "status": null,
+        "score": null
       }
     ],
-    "final_paper": 0.0
+    "final_paper": 0.0,
+    "last_updated": "2025-11-14T18:09:56.757271"
   },
   {
     "student_id": "2400011581",
@@ -1345,9 +2129,25 @@
         "week": 10,
         "status": "出勤",
         "score": 89.0
+      },
+      {
+        "week": 12,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 16,
+        "status": null,
+        "score": null
       }
     ],
-    "final_paper": 0.0
+    "final_paper": 0.0,
+    "last_updated": "2025-11-14T18:09:56.761060"
   },
   {
     "student_id": "2400011761",
@@ -1372,9 +2172,25 @@
         "week": 10,
         "status": "出勤",
         "score": 66.0
+      },
+      {
+        "week": 12,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 16,
+        "status": null,
+        "score": null
       }
     ],
-    "final_paper": 0.0
+    "final_paper": 0.0,
+    "last_updated": "2025-11-14T18:09:56.769979"
   },
   {
     "student_id": "2400011798",
@@ -1399,9 +2215,25 @@
         "week": 10,
         "status": "出勤",
         "score": 78.0
+      },
+      {
+        "week": 12,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 16,
+        "status": null,
+        "score": null
       }
     ],
-    "final_paper": 0.0
+    "final_paper": 0.0,
+    "last_updated": "2025-11-14T18:09:56.773903"
   },
   {
     "student_id": "2400012158",
@@ -1426,9 +2258,25 @@
         "week": 10,
         "status": "出勤",
         "score": 63.0
+      },
+      {
+        "week": 12,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 16,
+        "status": null,
+        "score": null
       }
     ],
-    "final_paper": 0.0
+    "final_paper": 0.0,
+    "last_updated": "2025-11-14T18:09:56.777715"
   },
   {
     "student_id": "2400012295",
@@ -1453,9 +2301,25 @@
         "week": 10,
         "status": "出勤",
         "score": 59.0
+      },
+      {
+        "week": 12,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 16,
+        "status": null,
+        "score": null
       }
     ],
-    "final_paper": 0.0
+    "final_paper": 0.0,
+    "last_updated": "2025-11-14T18:09:56.786733"
   },
   {
     "student_id": "2400012603",
@@ -1480,9 +2344,25 @@
         "week": 10,
         "status": "出勤",
         "score": 91.0
+      },
+      {
+        "week": 12,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 16,
+        "status": null,
+        "score": null
       }
     ],
-    "final_paper": 0.0
+    "final_paper": 0.0,
+    "last_updated": "2025-11-14T18:09:56.790702"
   },
   {
     "student_id": "2400013260",
@@ -1507,9 +2387,25 @@
         "week": 10,
         "status": "出勤",
         "score": 43.0
+      },
+      {
+        "week": 12,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 16,
+        "status": null,
+        "score": null
       }
     ],
-    "final_paper": 0.0
+    "final_paper": 0.0,
+    "last_updated": "2025-11-14T18:09:56.794561"
   },
   {
     "student_id": "2400013755",
@@ -1534,9 +2430,25 @@
         "week": 10,
         "status": "出勤",
         "score": 75.0
+      },
+      {
+        "week": 12,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 16,
+        "status": null,
+        "score": null
       }
     ],
-    "final_paper": 0.0
+    "final_paper": 0.0,
+    "last_updated": "2025-11-14T18:09:56.803441"
   },
   {
     "student_id": "2400014957",
@@ -1561,9 +2473,25 @@
         "week": 10,
         "status": "出勤",
         "score": 80.0
+      },
+      {
+        "week": 12,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 16,
+        "status": null,
+        "score": null
       }
     ],
-    "final_paper": 0.0
+    "final_paper": 0.0,
+    "last_updated": "2025-11-14T18:09:56.807363"
   },
   {
     "student_id": "2400015415",
@@ -1588,9 +2516,25 @@
         "week": 10,
         "status": "出勤",
         "score": 86.0
+      },
+      {
+        "week": 12,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 16,
+        "status": null,
+        "score": null
       }
     ],
-    "final_paper": 0.0
+    "final_paper": 0.0,
+    "last_updated": "2025-11-14T18:09:56.811197"
   },
   {
     "student_id": "2400015487",
@@ -1615,9 +2559,25 @@
         "week": 10,
         "status": "出勤",
         "score": 65.0
+      },
+      {
+        "week": 12,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 16,
+        "status": null,
+        "score": null
       }
     ],
-    "final_paper": 0.0
+    "final_paper": 0.0,
+    "last_updated": "2025-11-14T18:09:56.820097"
   },
   {
     "student_id": "2400015886",
@@ -1642,9 +2602,25 @@
         "week": 10,
         "status": "出勤",
         "score": 65.0
+      },
+      {
+        "week": 12,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 16,
+        "status": null,
+        "score": null
       }
     ],
-    "final_paper": 0.0
+    "final_paper": 0.0,
+    "last_updated": "2025-11-14T18:09:56.824071"
   },
   {
     "student_id": "2400016640",
@@ -1669,9 +2645,25 @@
         "week": 10,
         "status": "出勤",
         "score": 83.0
+      },
+      {
+        "week": 12,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 16,
+        "status": null,
+        "score": null
       }
     ],
-    "final_paper": 0.0
+    "final_paper": 0.0,
+    "last_updated": "2025-11-14T18:09:56.827908"
   },
   {
     "student_id": "2400017403",
@@ -1696,9 +2688,25 @@
         "week": 10,
         "status": "出勤",
         "score": 72.0
+      },
+      {
+        "week": 12,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 16,
+        "status": null,
+        "score": null
       }
     ],
-    "final_paper": 0.0
+    "final_paper": 0.0,
+    "last_updated": "2025-11-14T18:09:56.836913"
   },
   {
     "student_id": "2400018415",
@@ -1723,9 +2731,25 @@
         "week": 10,
         "status": "出勤",
         "score": 97.0
+      },
+      {
+        "week": 12,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 16,
+        "status": null,
+        "score": null
       }
     ],
-    "final_paper": 0.0
+    "final_paper": 0.0,
+    "last_updated": "2025-11-14T18:09:56.840825"
   },
   {
     "student_id": "2400912016",
@@ -1750,9 +2774,25 @@
         "week": 10,
         "status": "出勤",
         "score": 68.0
+      },
+      {
+        "week": 12,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 16,
+        "status": null,
+        "score": null
       }
     ],
-    "final_paper": 0.0
+    "final_paper": 0.0,
+    "last_updated": "2025-11-14T18:09:56.844750"
   },
   {
     "student_id": "2400912017",
@@ -1777,9 +2817,25 @@
         "week": 10,
         "status": "出勤",
         "score": 63.0
+      },
+      {
+        "week": 12,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 16,
+        "status": null,
+        "score": null
       }
     ],
-    "final_paper": 0.0
+    "final_paper": 0.0,
+    "last_updated": "2025-11-14T18:09:56.853822"
   },
   {
     "student_id": "2410108213",
@@ -1804,9 +2860,25 @@
         "week": 10,
         "status": "出勤",
         "score": 64.0
+      },
+      {
+        "week": 12,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 16,
+        "status": null,
+        "score": null
       }
     ],
-    "final_paper": 0.0
+    "final_paper": 0.0,
+    "last_updated": "2025-11-14T18:09:56.857738"
   },
   {
     "student_id": "2410124242",
@@ -1831,9 +2903,25 @@
         "week": 10,
         "status": "出勤",
         "score": 76.0
+      },
+      {
+        "week": 12,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 16,
+        "status": null,
+        "score": null
       }
     ],
-    "final_paper": 0.0
+    "final_paper": 0.0,
+    "last_updated": "2025-11-14T18:09:56.861538"
   },
   {
     "student_id": "2500011011",
@@ -1858,9 +2946,25 @@
         "week": 10,
         "status": "出勤",
         "score": 71.0
+      },
+      {
+        "week": 12,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 16,
+        "status": null,
+        "score": null
       }
     ],
-    "final_paper": 0.0
+    "final_paper": 0.0,
+    "last_updated": "2025-11-14T18:09:56.870425"
   },
   {
     "student_id": "2500011044",
@@ -1885,9 +2989,25 @@
         "week": 10,
         "status": "出勤",
         "score": 91.0
+      },
+      {
+        "week": 12,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 16,
+        "status": null,
+        "score": null
       }
     ],
-    "final_paper": 0.0
+    "final_paper": 0.0,
+    "last_updated": "2025-11-14T18:09:56.874364"
   },
   {
     "student_id": "2500011130",
@@ -1912,9 +3032,25 @@
         "week": 10,
         "status": "缺勤",
         "score": null
+      },
+      {
+        "week": 12,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 16,
+        "status": null,
+        "score": null
       }
     ],
-    "final_paper": -1.0
+    "final_paper": -1.0,
+    "last_updated": "2025-11-14T18:09:56.878197"
   },
   {
     "student_id": "2500011439",
@@ -1939,9 +3075,25 @@
         "week": 10,
         "status": "出勤",
         "score": 83.0
+      },
+      {
+        "week": 12,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 16,
+        "status": null,
+        "score": null
       }
     ],
-    "final_paper": 0.0
+    "final_paper": 0.0,
+    "last_updated": "2025-11-14T18:09:56.887121"
   },
   {
     "student_id": "2500011454",
@@ -1966,9 +3118,25 @@
         "week": 10,
         "status": "出勤",
         "score": 85.0
+      },
+      {
+        "week": 12,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 16,
+        "status": null,
+        "score": null
       }
     ],
-    "final_paper": 0.0
+    "final_paper": 0.0,
+    "last_updated": "2025-11-14T18:09:56.891079"
   },
   {
     "student_id": "2500011459",
@@ -1993,9 +3161,25 @@
         "week": 10,
         "status": "出勤",
         "score": 85.0
+      },
+      {
+        "week": 12,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 16,
+        "status": null,
+        "score": null
       }
     ],
-    "final_paper": 0.0
+    "final_paper": 0.0,
+    "last_updated": "2025-11-14T18:09:56.894963"
   },
   {
     "student_id": "2500011493",
@@ -2020,9 +3204,25 @@
         "week": 10,
         "status": "出勤",
         "score": 100.0
+      },
+      {
+        "week": 12,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 16,
+        "status": null,
+        "score": null
       }
     ],
-    "final_paper": 0.0
+    "final_paper": 0.0,
+    "last_updated": "2025-11-14T18:09:56.904008"
   },
   {
     "student_id": "2500012307",
@@ -2047,9 +3247,25 @@
         "week": 10,
         "status": "出勤",
         "score": 77.0
+      },
+      {
+        "week": 12,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 16,
+        "status": null,
+        "score": null
       }
     ],
-    "final_paper": 0.0
+    "final_paper": 0.0,
+    "last_updated": "2025-11-14T18:09:56.907952"
   },
   {
     "student_id": "2500012411",
@@ -2074,9 +3290,25 @@
         "week": 10,
         "status": "出勤",
         "score": 83.0
+      },
+      {
+        "week": 12,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 16,
+        "status": null,
+        "score": null
       }
     ],
-    "final_paper": 0.0
+    "final_paper": 0.0,
+    "last_updated": "2025-11-14T18:09:56.911907"
   },
   {
     "student_id": "2500012817",
@@ -2101,9 +3333,25 @@
         "week": 10,
         "status": "出勤",
         "score": 100.0
+      },
+      {
+        "week": 12,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 16,
+        "status": null,
+        "score": null
       }
     ],
-    "final_paper": 0.0
+    "final_paper": 0.0,
+    "last_updated": "2025-11-14T18:09:56.920795"
   },
   {
     "student_id": "2500013046",
@@ -2128,9 +3376,25 @@
         "week": 10,
         "status": "出勤",
         "score": 71.0
+      },
+      {
+        "week": 12,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 16,
+        "status": null,
+        "score": null
       }
     ],
-    "final_paper": 0.0
+    "final_paper": 0.0,
+    "last_updated": "2025-11-14T18:09:56.924874"
   },
   {
     "student_id": "2500013066",
@@ -2155,9 +3419,25 @@
         "week": 10,
         "status": "出勤",
         "score": 85.0
+      },
+      {
+        "week": 12,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 16,
+        "status": null,
+        "score": null
       }
     ],
-    "final_paper": 0.0
+    "final_paper": 0.0,
+    "last_updated": "2025-11-14T18:09:56.928793"
   },
   {
     "student_id": "2500013196",
@@ -2182,9 +3462,25 @@
         "week": 10,
         "status": "出勤",
         "score": 86.0
+      },
+      {
+        "week": 12,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 16,
+        "status": null,
+        "score": null
       }
     ],
-    "final_paper": 0.0
+    "final_paper": 0.0,
+    "last_updated": "2025-11-14T18:09:56.937747"
   },
   {
     "student_id": "2500013203",
@@ -2209,9 +3505,25 @@
         "week": 10,
         "status": "出勤",
         "score": 81.0
+      },
+      {
+        "week": 12,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 16,
+        "status": null,
+        "score": null
       }
     ],
-    "final_paper": 0.0
+    "final_paper": 0.0,
+    "last_updated": "2025-11-14T18:09:56.941687"
   },
   {
     "student_id": "2500016281",
@@ -2236,9 +3548,25 @@
         "week": 10,
         "status": "出勤",
         "score": 75.0
+      },
+      {
+        "week": 12,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 16,
+        "status": null,
+        "score": null
       }
     ],
-    "final_paper": 0.0
+    "final_paper": 0.0,
+    "last_updated": "2025-11-14T18:09:56.945512"
   },
   {
     "student_id": "2500016614",
@@ -2263,9 +3591,25 @@
         "week": 10,
         "status": "出勤",
         "score": 71.0
+      },
+      {
+        "week": 12,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 16,
+        "status": null,
+        "score": null
       }
     ],
-    "final_paper": 0.0
+    "final_paper": 0.0,
+    "last_updated": "2025-11-14T18:09:56.954453"
   },
   {
     "student_id": "2500016932",
@@ -2290,9 +3634,25 @@
         "week": 10,
         "status": "出勤",
         "score": 85.0
+      },
+      {
+        "week": 12,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 16,
+        "status": null,
+        "score": null
       }
     ],
-    "final_paper": 0.0
+    "final_paper": 0.0,
+    "last_updated": "2025-11-14T18:09:56.958370"
   },
   {
     "student_id": "2500017815",
@@ -2317,9 +3677,25 @@
         "week": 10,
         "status": "出勤",
         "score": 54.0
+      },
+      {
+        "week": 12,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 16,
+        "status": null,
+        "score": null
       }
     ],
-    "final_paper": 0.0
+    "final_paper": 0.0,
+    "last_updated": "2025-11-14T18:09:56.962260"
   },
   {
     "student_id": "2500018402",
@@ -2344,9 +3720,25 @@
         "week": 10,
         "status": "出勤",
         "score": 77.0
+      },
+      {
+        "week": 12,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 16,
+        "status": null,
+        "score": null
       }
     ],
-    "final_paper": 0.0
+    "final_paper": 0.0,
+    "last_updated": "2025-11-14T18:09:56.971289"
   },
   {
     "student_id": "2500018508",
@@ -2371,9 +3763,25 @@
         "week": 10,
         "status": "出勤",
         "score": 78.0
+      },
+      {
+        "week": 12,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 16,
+        "status": null,
+        "score": null
       }
     ],
-    "final_paper": 0.0
+    "final_paper": 0.0,
+    "last_updated": "2025-11-14T18:09:56.975243"
   },
   {
     "student_id": "2500091806",
@@ -2398,9 +3806,25 @@
         "week": 10,
         "status": "出勤",
         "score": 76.0
+      },
+      {
+        "week": 12,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 16,
+        "status": null,
+        "score": null
       }
     ],
-    "final_paper": 0.0
+    "final_paper": 0.0,
+    "last_updated": "2025-11-14T18:09:56.979071"
   },
   {
     "student_id": "2500931107",
@@ -2425,9 +3849,25 @@
         "week": 10,
         "status": "出勤",
         "score": 89.0
+      },
+      {
+        "week": 12,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 16,
+        "status": null,
+        "score": null
       }
     ],
-    "final_paper": 0.0
+    "final_paper": 0.0,
+    "last_updated": "2025-11-14T18:09:56.987959"
   },
   {
     "student_id": "2500931114",
@@ -2452,9 +3892,25 @@
         "week": 10,
         "status": "出勤",
         "score": 57.0
+      },
+      {
+        "week": 12,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 16,
+        "status": null,
+        "score": null
       }
     ],
-    "final_paper": 0.0
+    "final_paper": 0.0,
+    "last_updated": "2025-11-14T18:09:56.991997"
   },
   {
     "student_id": "2500931121",
@@ -2479,9 +3935,25 @@
         "week": 10,
         "status": "出勤",
         "score": 57.0
+      },
+      {
+        "week": 12,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 16,
+        "status": null,
+        "score": null
       }
     ],
-    "final_paper": 0.0
+    "final_paper": 0.0,
+    "last_updated": "2025-11-14T18:09:56.995929"
   },
   {
     "student_id": "2510124209",
@@ -2506,9 +3978,25 @@
         "week": 10,
         "status": "出勤",
         "score": 73.0
+      },
+      {
+        "week": 12,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 16,
+        "status": null,
+        "score": null
       }
     ],
-    "final_paper": 0.0
+    "final_paper": 0.0,
+    "last_updated": "2025-11-14T18:09:57.004937"
   },
   {
     "student_id": "2510301105",
@@ -2533,9 +4021,25 @@
         "week": 10,
         "status": "出勤",
         "score": 63.0
+      },
+      {
+        "week": 12,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 16,
+        "status": null,
+        "score": null
       }
     ],
-    "final_paper": 0.0
+    "final_paper": 0.0,
+    "last_updated": "2025-11-14T18:09:57.008849"
   },
   {
     "student_id": "2510301117",
@@ -2560,9 +4064,25 @@
         "week": 10,
         "status": "出勤",
         "score": 74.0
+      },
+      {
+        "week": 12,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 16,
+        "status": null,
+        "score": null
       }
     ],
-    "final_paper": 0.0
+    "final_paper": 0.0,
+    "last_updated": "2025-11-14T18:09:57.012767"
   },
   {
     "student_id": "2510301141",
@@ -2587,9 +4107,25 @@
         "week": 10,
         "status": "出勤",
         "score": 86.0
+      },
+      {
+        "week": 12,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 16,
+        "status": null,
+        "score": null
       }
     ],
-    "final_paper": 0.0
+    "final_paper": 0.0,
+    "last_updated": "2025-11-14T18:09:57.022042"
   },
   {
     "student_id": "2510301317",
@@ -2614,9 +4150,25 @@
         "week": 10,
         "status": "出勤",
         "score": 79.0
+      },
+      {
+        "week": 12,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 16,
+        "status": null,
+        "score": null
       }
     ],
-    "final_paper": 0.0
+    "final_paper": 0.0,
+    "last_updated": "2025-11-14T18:09:57.026048"
   },
   {
     "student_id": "2510301324",
@@ -2641,9 +4193,25 @@
         "week": 10,
         "status": "出勤",
         "score": 74.0
+      },
+      {
+        "week": 12,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 16,
+        "status": null,
+        "score": null
       }
     ],
-    "final_paper": 0.0
+    "final_paper": 0.0,
+    "last_updated": "2025-11-14T18:09:57.029917"
   },
   {
     "student_id": "2510303107",
@@ -2668,9 +4236,25 @@
         "week": 10,
         "status": "出勤",
         "score": 74.0
+      },
+      {
+        "week": 12,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 16,
+        "status": null,
+        "score": null
       }
     ],
-    "final_paper": 0.0
+    "final_paper": 0.0,
+    "last_updated": "2025-11-14T18:09:57.039324"
   },
   {
     "student_id": "2510305108",
@@ -2695,9 +4279,25 @@
         "week": 10,
         "status": "出勤",
         "score": 70.0
+      },
+      {
+        "week": 12,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 16,
+        "status": null,
+        "score": null
       }
     ],
-    "final_paper": 0.0
+    "final_paper": 0.0,
+    "last_updated": "2025-11-14T18:09:57.043304"
   },
   {
     "student_id": "2510306235",
@@ -2722,9 +4322,25 @@
         "week": 10,
         "status": "出勤",
         "score": 60.0
+      },
+      {
+        "week": 12,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 16,
+        "status": null,
+        "score": null
       }
     ],
-    "final_paper": 0.0
+    "final_paper": 0.0,
+    "last_updated": "2025-11-14T18:09:57.052162"
   },
   {
     "student_id": "2510307419",
@@ -2749,9 +4365,25 @@
         "week": 10,
         "status": "出勤",
         "score": 78.0
+      },
+      {
+        "week": 12,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 16,
+        "status": null,
+        "score": null
       }
     ],
-    "final_paper": 0.0
+    "final_paper": 0.0,
+    "last_updated": "2025-11-14T18:09:57.056311"
   },
   {
     "student_id": "北京外国语大学",
@@ -2776,8 +4408,24 @@
         "week": 10,
         "status": "出勤",
         "score": 62.0
+      },
+      {
+        "week": 12,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": null,
+        "score": null
+      },
+      {
+        "week": 16,
+        "status": null,
+        "score": null
       }
     ],
-    "final_paper": 0.0
+    "final_paper": 0.0,
+    "last_updated": "2025-11-14T18:09:57.060830"
   }
 ]
