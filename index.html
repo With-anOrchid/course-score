@@ -332,6 +332,10 @@
             <!-- 考勤信息面板 -->
             <div class="info-panel" id="attendancePanel">
                 <h3>考勤信息</h3>
+                <div class="total-display">
+                    考勤分：<span id="attendanceTotal">0</span>
+                </div>
+                <div class="attendance-grid" id="attendanceGrid"></div>
                 <div class="rules-section">
                     <h4>考勤分计算规则</h4>
                     <ul>
@@ -340,10 +344,6 @@
                         <li>缺勤次数 4~7次：考勤分扣2分</li>
                         <li>请假不计入缺勤次数</li>
                     </ul>
-                </div>
-                <div class="attendance-grid" id="attendanceGrid"></div>
-                <div class="total-display">
-                    考勤总分: <span id="attendanceTotal">0</span> 分
                 </div>
             </div>
             
@@ -369,23 +369,16 @@
             <div class="info-panel" id="finalPaperPanel">
                 <h3>期末论文成绩</h3>
                 <div class="final-paper-display">
-                    论文分数: <span id="finalPaperScore">待公布</span>
+                    <span id="finalPaperScore">0</span> / 40
                 </div>
             </div>
             
             <!-- 课程总分面板 -->
             <div class="info-panel" id="totalScorePanel">
                 <h3>课程总成绩</h3>
-                <div class="rules-section">
-                    <h4>课程总分计算规则</h4>
-                    <ul>
-                        <li>课程总分 = 测验总分 + 考勤分 + 期末论文</li>
-                        <li>所有分数均为整数</li>
-                    </ul>
-                </div>
                 <div class="calculation-details" id="totalCalculationDetails"></div>
                 <div class="course-total-display">
-                    课程总分: <span id="totalCourseScore">待计算</span>
+                    课程总分: <span id="totalCourseScore">0</span> / 100
                 </div>
             </div>
         </div>
@@ -574,7 +567,7 @@
                     totalCourseScore.textContent = totalValue / 100;
                 } else {
                     totalCalculationDetails.innerHTML = '<p>待期末论文成绩公布后计算</p>';
-                    totalCourseScore.textContent = '待计算';
+                    totalCourseScore.textContent = '--';
                 }
                 
                 resultSection.style.display = 'block';
