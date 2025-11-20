@@ -261,7 +261,7 @@
             
             <div class="form-group">
                 <label for="studentId">学号或学校</label>
-                <input type="text" id="studentId" placeholder="请输入您的完整学号或学校名称">
+                <input type="text" id="studentId" placeholder="请输入您的学号或学校名称">
             </div>
             
             <button id="queryBtn" disabled>加载数据中...</button>
@@ -462,12 +462,12 @@
             attendanceScore = -2;
         }
         
-        document.getElementById('quizTotalScore').textContent = `${quizFinalScore} / 60`;
+        document.getElementById('quizTotalScore').textContent = `${quizFinalScore}/60`;
         document.getElementById('attendanceScore').textContent = attendanceScore;
-        document.getElementById('paperScore').textContent = `${student.final_paper} / 40`;
+        document.getElementById('paperScore').textContent = `${student.final_paper}/40`;
         
         const totalScore = quizFinalScore + attendanceScore + student.final_paper;
-        document.getElementById('totalScore').textContent = `${totalScore} / 100`;
+        document.getElementById('totalScore').textContent = `${totalScore}/100`;
         
         // 为所有周次创建行
         allWeeks.forEach(week => {
@@ -520,8 +520,14 @@
             attendanceTable.appendChild(row);
         });
         
-        // 在表格下方添加说明
+        // 在表格下方添加说明 - 先检查是否已存在说明元素
+        const existingExplanation = document.getElementById('scoreExplanation');
+        if (existingExplanation) {
+            existingExplanation.remove();
+        }
+        
         const explanation = document.createElement('div');
+        explanation.id = 'scoreExplanation'; // 添加ID以便后续查找和删除
         explanation.style.textAlign = 'left';
         explanation.style.fontSize = '14px';
         explanation.style.color = '#666';
