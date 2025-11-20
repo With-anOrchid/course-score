@@ -145,91 +145,35 @@
             color: #444;
         }
         
+        /* 找到现有的表格样式，添加固定布局属性 */
         table {
             width: 100%;
             border-collapse: collapse;
             margin-bottom: 20px;
+            table-layout: fixed; /* 添加这一行 */
         }
         
+        /* 找到现有的th, td样式，添加换行属性 */
         th, td {
             padding: 12px 15px;
             text-align: left;
             border-bottom: 1px solid #eee;
+            word-wrap: break-word; /* 添加这一行 */
         }
         
-        th {
-            background-color: #f8f9fa;
-            font-weight: 500;
-            color: #555;
+        /* 在现有CSS中添加表格列宽设置（放在th, td样式后面） */
+        /* 为表格列设置宽度比例 */
+        th:nth-child(1), td:nth-child(1) { /* 周次列 */
+            width: 25%;
+        }
+        th:nth-child(2), td:nth-child(2) { /* 考勤状态列 */
+            width: 35%;
+        }
+        th:nth-child(3), td:nth-child(3) { /* 测验成绩列 */
+            width: 40%;
         }
         
-        .attendance-present {
-            color: #28a745;
-            font-weight: 500;
-        }
-        
-        .attendance-leave {
-            color: #ffc107;
-            font-weight: 500;
-        }
-        
-        .attendance-absent {
-            color: #dc3545;
-            font-weight: 500;
-        }
-        
-        .attendance-empty {
-            color: #6c757d;
-            font-style: italic;
-        }
-        
-        .summary-card {
-            background: linear-gradient(135deg, #f8f9ff 0%, #e9ecef 100%);
-            border-radius: 10px;
-            padding: 20px;
-            margin-top: 20px;
-            box-shadow: 0 3px 10px rgba(0, 0, 0, 0.05);
-        }
-        
-        .summary-item {
-            display: flex;
-            justify-content: space-between;
-            margin-bottom: 12px;
-            padding-bottom: 12px;
-            border-bottom: 1px dashed #ddd;
-        }
-        
-        .summary-item:last-child {
-            border-bottom: none;
-            margin-bottom: 0;
-            padding-bottom: 0;
-        }
-        
-        .total-score {
-            font-size: 22px;
-            font-weight: 600;
-            color: #6a11cb;
-            margin-top: 10px;
-        }
-        
-        .error-message {
-            background: #ffe6e6;
-            color: #d63031;
-            padding: 15px;
-            border-radius: 8px;
-            margin-top: 20px;
-            display: none;
-        }
-        
-        footer {
-            text-align: center;
-            padding: 20px;
-            color: #777;
-            font-size: 14px;
-            border-top: 1px solid #eee;
-            margin-top: 30px;
-        }
-        
+        /* 找到现有的移动端媒体查询，在里面添加移动端表格样式 */
         @media (max-width: 600px) {
             .container {
                 border-radius: 0;
@@ -241,6 +185,33 @@
             
             th, td {
                 padding: 10px 8px;
+                font-size: 14px; /* 添加这一行 */
+            }
+            
+            /* 在媒体查询内添加移动端表格列宽调整 */
+            th:nth-child(1), td:nth-child(1) { /* 周次列 */
+                width: 20%;
+            }
+            th:nth-child(2), td:nth-child(2) { /* 考勤状态列 */
+                width: 40%;
+            }
+            th:nth-child(3), td:nth-child(3) { /* 测验成绩列 */
+                width: 40%;
+            }
+            
+            /* 在媒体查询内添加移动端表格标题简化 */
+            th:nth-child(1)::after {
+                content: "周次";
+            }
+            th:nth-child(2)::after {
+                content: "考勤";
+            }
+            th:nth-child(3)::after {
+                content: "测验";
+            }
+            
+            th {
+                font-size: 12px; /* 添加这一行 */
             }
         }
     </style>
