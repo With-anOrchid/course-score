@@ -466,7 +466,10 @@
         document.getElementById('attendanceScore').textContent = attendanceScore;
         document.getElementById('paperScore').textContent = `${student.final_paper} / 40`;
 
-        const totalScore = quizFinalScore + attendanceScore + student.final_paper;
+        const totalScore = quizFinalScore + attendanceScore;
+        
+        //最后补充+ student.final_paper;
+            
         document.getElementById('totalScore').textContent = `${totalScore} / 100`;
 
         // 为所有周次创建行
