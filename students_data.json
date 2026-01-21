@@ -39,8 +39,8 @@
         "score": 94.0
       }
     ],
-    "final_paper": "已提交（待评分）",
-    "last_updated": "2026-01-09T22:19:33.259938"
+    "final_paper": 87.5,
+    "last_updated": "2026-01-21T19:49:41.255200"
   },
   {
     "student_id": "2000091816",
@@ -69,7 +69,7 @@
       {
         "week": 12,
         "status": "出勤",
-        "score": null
+        "score": 95.0
       },
       {
         "week": 14,
@@ -82,8 +82,8 @@
         "score": 88.0
       }
     ],
-    "final_paper": "已提交（待评分）",
-    "last_updated": "2026-01-09T22:19:33.261585"
+    "final_paper": 85.5,
+    "last_updated": "2026-01-21T19:49:41.256540"
   },
   {
     "student_id": "2100014925",
@@ -112,7 +112,7 @@
       {
         "week": 12,
         "status": "出勤",
-        "score": null
+        "score": 88.0
       },
       {
         "week": 14,
@@ -125,8 +125,8 @@
         "score": 85.0
       }
     ],
-    "final_paper": "已提交（待评分）",
-    "last_updated": "2026-01-09T22:19:33.262955"
+    "final_paper": 88.1,
+    "last_updated": "2026-01-21T19:49:41.257801"
   },
   {
     "student_id": "2100014927",
@@ -168,8 +168,8 @@
         "score": 86.0
       }
     ],
-    "final_paper": "已提交（待评分）",
-    "last_updated": "2026-01-09T22:19:33.264263"
+    "final_paper": 83.1,
+    "last_updated": "2026-01-21T19:49:41.259163"
   },
   {
     "student_id": "2100014952",
@@ -198,7 +198,7 @@
       {
         "week": 12,
         "status": "出勤",
-        "score": null
+        "score": 82.0
       },
       {
         "week": 14,
@@ -211,8 +211,8 @@
         "score": null
       }
     ],
-    "final_paper": "未提交",
-    "last_updated": "2026-01-09T22:19:33.265559"
+    "final_paper": 90.1,
+    "last_updated": "2026-01-21T19:49:41.260667"
   },
   {
     "student_id": "2100092305",
@@ -241,7 +241,7 @@
       {
         "week": 12,
         "status": "出勤",
-        "score": null
+        "score": 94.0
       },
       {
         "week": 14,
@@ -254,8 +254,8 @@
         "score": 94.0
       }
     ],
-    "final_paper": "已提交（待评分）",
-    "last_updated": "2026-01-09T22:19:33.266906"
+    "final_paper": 94.1,
+    "last_updated": "2026-01-21T19:49:41.262104"
   },
   {
     "student_id": "2200011415",
@@ -284,7 +284,7 @@
       {
         "week": 12,
         "status": "出勤",
-        "score": null
+        "score": 92.0
       },
       {
         "week": 14,
@@ -297,8 +297,8 @@
         "score": 92.0
       }
     ],
-    "final_paper": "已提交（待评分）",
-    "last_updated": "2026-01-09T22:19:33.268163"
+    "final_paper": 95.4,
+    "last_updated": "2026-01-21T19:49:41.263436"
   },
   {
     "student_id": "2200011430",
@@ -327,7 +327,7 @@
       {
         "week": 12,
         "status": "出勤",
-        "score": null
+        "score": 88.0
       },
       {
         "week": 14,
@@ -340,8 +340,8 @@
         "score": 88.0
       }
     ],
-    "final_paper": "已提交（待评分）",
-    "last_updated": "2026-01-09T22:19:33.279413"
+    "final_paper": 90.4,
+    "last_updated": "2026-01-21T19:49:41.264858"
   },
   {
     "student_id": "2200011446",
@@ -370,7 +370,7 @@
       {
         "week": 12,
         "status": "出勤",
-        "score": null
+        "score": 96.0
       },
       {
         "week": 14,
@@ -383,8 +383,8 @@
         "score": 90.0
       }
     ],
-    "final_paper": "已提交（待评分）",
-    "last_updated": "2026-01-09T22:19:33.283176"
+    "final_paper": 91.4,
+    "last_updated": "2026-01-21T19:49:41.279843"
   },
   {
     "student_id": "2200011502",
@@ -413,7 +413,7 @@
       {
         "week": 12,
         "status": "出勤",
-        "score": null
+        "score": 90.0
       },
       {
         "week": 14,
@@ -426,8 +426,8 @@
         "score": 90.0
       }
     ],
-    "final_paper": "已提交（待评分）",
-    "last_updated": "2026-01-09T22:19:33.293267"
+    "final_paper": 87.4,
+    "last_updated": "2026-01-21T19:49:41.288468"
   },
   {
     "student_id": "2200012152",
@@ -456,7 +456,7 @@
       {
         "week": 12,
         "status": "出勤",
-        "score": null
+        "score": 86.0
       },
       {
         "week": 14,
@@ -469,8 +469,8 @@
         "score": 86.0
       }
     ],
-    "final_paper": "已提交（待评分）",
-    "last_updated": "2026-01-09T22:19:33.297087"
+    "final_paper": 89.1,
+    "last_updated": "2026-01-21T19:49:41.292473"
   },
   {
     "student_id": "2200012864",
@@ -499,7 +499,7 @@
       {
         "week": 12,
         "status": "出勤",
-        "score": null
+        "score": 90.0
       },
       {
         "week": 14,
@@ -512,8 +512,8 @@
         "score": 90.0
       }
     ],
-    "final_paper": "已提交（待评分）",
-    "last_updated": "2026-01-09T22:19:33.300949"
+    "final_paper": 89.1,
+    "last_updated": "2026-01-21T19:49:41.296512"
   },
   {
     "student_id": "2200014904",
@@ -542,7 +542,7 @@
       {
         "week": 12,
         "status": "出勤",
-        "score": null
+        "score": 95.0
       },
       {
         "week": 14,
@@ -555,8 +555,8 @@
         "score": 88.0
       }
     ],
-    "final_paper": "已提交（待评分）",
-    "last_updated": "2026-01-09T22:19:33.311225"
+    "final_paper": 85.4,
+    "last_updated": "2026-01-21T19:49:41.306601"
   },
   {
     "student_id": "2200014905",
@@ -585,7 +585,7 @@
       {
         "week": 12,
         "status": "出勤",
-        "score": null
+        "score": 96.0
       },
       {
         "week": 14,
@@ -598,8 +598,8 @@
         "score": 94.0
       }
     ],
-    "final_paper": "已提交（待评分）",
-    "last_updated": "2026-01-09T22:19:33.315089"
+    "final_paper": 95.4,
+    "last_updated": "2026-01-21T19:49:41.310285"
   },
   {
     "student_id": "2200014906",
@@ -628,7 +628,7 @@
       {
         "week": 12,
         "status": "出勤",
-        "score": null
+        "score": 94.0
       },
       {
         "week": 14,
@@ -641,8 +641,8 @@
         "score": null
       }
     ],
-    "final_paper": "已提交（待评分）",
-    "last_updated": "2026-01-09T22:19:33.318681"
+    "final_paper": 87.4,
+    "last_updated": "2026-01-21T19:49:41.313698"
   },
   {
     "student_id": "2200014917",
@@ -684,8 +684,8 @@
         "score": 89.0
       }
     ],
-    "final_paper": "已提交（待评分）",
-    "last_updated": "2026-01-09T22:19:33.328917"
+    "final_paper": 94.1,
+    "last_updated": "2026-01-21T19:49:41.323450"
   },
   {
     "student_id": "2200014927",
@@ -714,7 +714,7 @@
       {
         "week": 12,
         "status": "缺勤",
-        "score": null
+        "score": 90.0
       },
       {
         "week": 14,
@@ -727,8 +727,8 @@
         "score": null
       }
     ],
-    "final_paper": "已提交（待评分）",
-    "last_updated": "2026-01-09T22:19:33.332695"
+    "final_paper": 85.4,
+    "last_updated": "2026-01-21T19:49:41.327220"
   },
   {
     "student_id": "2200014932",
@@ -757,7 +757,7 @@
       {
         "week": 12,
         "status": "出勤",
-        "score": null
+        "score": 92.0
       },
       {
         "week": 14,
@@ -770,8 +770,8 @@
         "score": null
       }
     ],
-    "final_paper": "已提交（待评分）",
-    "last_updated": "2026-01-09T22:19:33.342468"
+    "final_paper": 92.1,
+    "last_updated": "2026-01-21T19:49:41.330934"
   },
   {
     "student_id": "2200014959",
@@ -800,7 +800,7 @@
       {
         "week": 12,
         "status": "出勤",
-        "score": null
+        "score": 90.0
       },
       {
         "week": 14,
@@ -813,8 +813,8 @@
         "score": 89.0
       }
     ],
-    "final_paper": "未提交",
-    "last_updated": "2026-01-09T22:19:33.346385"
+    "final_paper": 0.0,
+    "last_updated": "2026-01-21T19:49:41.340681"
   },
   {
     "student_id": "2200014962",
@@ -843,7 +843,7 @@
       {
         "week": 12,
         "status": "出勤",
-        "score": null
+        "score": 92.0
       },
       {
         "week": 14,
@@ -856,8 +856,8 @@
         "score": 95.0
       }
     ],
-    "final_paper": "已提交（待评分）",
-    "last_updated": "2026-01-09T22:19:33.350561"
+    "final_paper": 86.4,
+    "last_updated": "2026-01-21T19:49:41.344275"
   },
   {
     "student_id": "2200015140",
@@ -886,7 +886,7 @@
       {
         "week": 12,
         "status": "出勤",
-        "score": null
+        "score": 92.0
       },
       {
         "week": 14,
@@ -899,8 +899,8 @@
         "score": null
       }
     ],
-    "final_paper": "已提交（待评分）",
-    "last_updated": "2026-01-09T22:19:33.361519"
+    "final_paper": 91.1,
+    "last_updated": "2026-01-21T19:49:41.348214"
   },
   {
     "student_id": "2200017419",
@@ -929,7 +929,7 @@
       {
         "week": 12,
         "status": "出勤",
-        "score": null
+        "score": 88.0
       },
       {
         "week": 14,
@@ -942,8 +942,8 @@
         "score": null
       }
     ],
-    "final_paper": "已提交（待评分）",
-    "last_updated": "2026-01-09T22:19:33.365488"
+    "final_paper": 87.0,
+    "last_updated": "2026-01-21T19:49:41.358855"
   },
   {
     "student_id": "2300011324",
@@ -972,7 +972,7 @@
       {
         "week": 12,
         "status": "出勤",
-        "score": null
+        "score": 90.0
       },
       {
         "week": 14,
@@ -985,8 +985,8 @@
         "score": 89.0
       }
     ],
-    "final_paper": "已提交（待评分）",
-    "last_updated": "2026-01-09T22:19:33.369528"
+    "final_paper": 93.4,
+    "last_updated": "2026-01-21T19:49:41.362378"
   },
   {
     "student_id": "2300011342",
@@ -1015,7 +1015,7 @@
       {
         "week": 12,
         "status": "出勤",
-        "score": null
+        "score": 91.0
       },
       {
         "week": 14,
@@ -1028,8 +1028,8 @@
         "score": 90.0
       }
     ],
-    "final_paper": "已提交（待评分）",
-    "last_updated": "2026-01-09T22:19:33.381160"
+    "final_paper": 94.1,
+    "last_updated": "2026-01-21T19:49:41.371623"
   },
   {
     "student_id": "2300011558",
@@ -1071,8 +1071,8 @@
         "score": null
       }
     ],
-    "final_paper": "已提交（待评分）",
-    "last_updated": "2026-01-09T22:19:33.385136"
+    "final_paper": 91.1,
+    "last_updated": "2026-01-21T19:49:41.375332"
   },
   {
     "student_id": "2300011740",
@@ -1101,7 +1101,7 @@
       {
         "week": 12,
         "status": "出勤",
-        "score": null
+        "score": 92.0
       },
       {
         "week": 14,
@@ -1114,8 +1114,8 @@
         "score": 86.0
       }
     ],
-    "final_paper": "已提交（待评分）",
-    "last_updated": "2026-01-09T22:19:33.395877"
+    "final_paper": 89.1,
+    "last_updated": "2026-01-21T19:49:41.378794"
   },
   {
     "student_id": "2300012808",
@@ -1144,7 +1144,7 @@
       {
         "week": 12,
         "status": "出勤",
-        "score": null
+        "score": 93.0
       },
       {
         "week": 14,
@@ -1157,8 +1157,8 @@
         "score": 84.0
       }
     ],
-    "final_paper": "已提交（待评分）",
-    "last_updated": "2026-01-09T22:19:33.399645"
+    "final_paper": 84.1,
+    "last_updated": "2026-01-21T19:49:41.388125"
   },
   {
     "student_id": "2300012861",
@@ -1187,7 +1187,7 @@
       {
         "week": 12,
         "status": "出勤",
-        "score": null
+        "score": 90.0
       },
       {
         "week": 14,
@@ -1200,8 +1200,8 @@
         "score": 90.0
       }
     ],
-    "final_paper": "已提交（待评分）",
-    "last_updated": "2026-01-09T22:19:33.408909"
+    "final_paper": 90.5,
+    "last_updated": "2026-01-21T19:49:41.391732"
   },
   {
     "student_id": "2300013922",
@@ -1230,7 +1230,7 @@
       {
         "week": 12,
         "status": "出勤",
-        "score": null
+        "score": 91.0
       },
       {
         "week": 14,
@@ -1243,8 +1243,8 @@
         "score": 90.0
       }
     ],
-    "final_paper": "已提交（待评分）",
-    "last_updated": "2026-01-09T22:19:33.412730"
+    "final_paper": 89.4,
+    "last_updated": "2026-01-21T19:49:41.395442"
   },
   {
     "student_id": "2300014226",
@@ -1273,7 +1273,7 @@
       {
         "week": 12,
         "status": "出勤",
-        "score": null
+        "score": 94.0
       },
       {
         "week": 14,
@@ -1286,8 +1286,8 @@
         "score": 93.0
       }
     ],
-    "final_paper": "已提交（待评分）",
-    "last_updated": "2026-01-09T22:19:33.416590"
+    "final_paper": 94.4,
+    "last_updated": "2026-01-21T19:49:41.405314"
   },
   {
     "student_id": "2300014522",
@@ -1316,7 +1316,7 @@
       {
         "week": 12,
         "status": "出勤",
-        "score": null
+        "score": 89.0
       },
       {
         "week": 14,
@@ -1329,8 +1329,8 @@
         "score": 92.0
       }
     ],
-    "final_paper": "已提交（待评分）",
-    "last_updated": "2026-01-09T22:19:33.425671"
+    "final_paper": 87.1,
+    "last_updated": "2026-01-21T19:49:41.409428"
   },
   {
     "student_id": "2300014570",
@@ -1359,7 +1359,7 @@
       {
         "week": 12,
         "status": "出勤",
-        "score": null
+        "score": 93.0
       },
       {
         "week": 14,
@@ -1372,8 +1372,8 @@
         "score": 90.0
       }
     ],
-    "final_paper": "已提交（待评分）",
-    "last_updated": "2026-01-09T22:19:33.429567"
+    "final_paper": 86.4,
+    "last_updated": "2026-01-21T19:49:41.413474"
   },
   {
     "student_id": "2300014902",
@@ -1402,7 +1402,7 @@
       {
         "week": 12,
         "status": "出勤",
-        "score": null
+        "score": 94.0
       },
       {
         "week": 14,
@@ -1415,8 +1415,8 @@
         "score": 90.0
       }
     ],
-    "final_paper": "已提交（待评分）",
-    "last_updated": "2026-01-09T22:19:33.433433"
+    "final_paper": 93.1,
+    "last_updated": "2026-01-21T19:49:41.423580"
   },
   {
     "student_id": "2300014923",
@@ -1445,7 +1445,7 @@
       {
         "week": 12,
         "status": "出勤",
-        "score": null
+        "score": 96.0
       },
       {
         "week": 14,
@@ -1458,8 +1458,8 @@
         "score": 95.0
       }
     ],
-    "final_paper": "已提交（待评分）",
-    "last_updated": "2026-01-09T22:19:33.444375"
+    "final_paper": 86.4,
+    "last_updated": "2026-01-21T19:49:41.427227"
   },
   {
     "student_id": "2300014956",
@@ -1488,7 +1488,7 @@
       {
         "week": 12,
         "status": "出勤",
-        "score": null
+        "score": 90.0
       },
       {
         "week": 14,
@@ -1501,8 +1501,8 @@
         "score": 91.0
       }
     ],
-    "final_paper": "已提交（待评分）",
-    "last_updated": "2026-01-09T22:19:33.448221"
+    "final_paper": 88.0,
+    "last_updated": "2026-01-21T19:49:41.431108"
   },
   {
     "student_id": "2300014958",
@@ -1531,7 +1531,7 @@
       {
         "week": 12,
         "status": "出勤",
-        "score": null
+        "score": 86.0
       },
       {
         "week": 14,
@@ -1544,8 +1544,8 @@
         "score": 95.0
       }
     ],
-    "final_paper": "已提交（待评分）",
-    "last_updated": "2026-01-09T22:19:33.452109"
+    "final_paper": 89.4,
+    "last_updated": "2026-01-21T19:49:41.441506"
   },
   {
     "student_id": "2300014959",
@@ -1574,7 +1574,7 @@
       {
         "week": 12,
         "status": "出勤",
-        "score": null
+        "score": 92.0
       },
       {
         "week": 14,
@@ -1587,8 +1587,8 @@
         "score": 90.0
       }
     ],
-    "final_paper": "已提交（待评分）",
-    "last_updated": "2026-01-09T22:19:33.463519"
+    "final_paper": 91.1,
+    "last_updated": "2026-01-21T19:49:41.445309"
   },
   {
     "student_id": "2300014962",
@@ -1617,7 +1617,7 @@
       {
         "week": 12,
         "status": "出勤",
-        "score": null
+        "score": 92.0
       },
       {
         "week": 14,
@@ -1630,8 +1630,8 @@
         "score": 91.0
       }
     ],
-    "final_paper": "已提交（待评分）",
-    "last_updated": "2026-01-09T22:19:33.467449"
+    "final_paper": 85.0,
+    "last_updated": "2026-01-21T19:49:41.454825"
   },
   {
     "student_id": "2300014965",
@@ -1660,7 +1660,7 @@
       {
         "week": 12,
         "status": "出勤",
-        "score": null
+        "score": 89.0
       },
       {
         "week": 14,
@@ -1673,8 +1673,8 @@
         "score": 90.0
       }
     ],
-    "final_paper": "已提交（待评分）",
-    "last_updated": "2026-01-09T22:19:33.477244"
+    "final_paper": 89.4,
+    "last_updated": "2026-01-21T19:49:41.459101"
   },
   {
     "student_id": "2300016327",
@@ -1703,7 +1703,7 @@
       {
         "week": 12,
         "status": "出勤",
-        "score": null
+        "score": 90.0
       },
       {
         "week": 14,
@@ -1716,8 +1716,8 @@
         "score": 94.0
       }
     ],
-    "final_paper": "已提交（待评分）",
-    "last_updated": "2026-01-09T22:19:33.481870"
+    "final_paper": 84.1,
+    "last_updated": "2026-01-21T19:49:41.463173"
   },
   {
     "student_id": "2300092302",
@@ -1746,7 +1746,7 @@
       {
         "week": 12,
         "status": "出勤",
-        "score": null
+        "score": 92.0
       },
       {
         "week": 14,
@@ -1759,8 +1759,8 @@
         "score": 88.0
       }
     ],
-    "final_paper": "已提交（待评分）",
-    "last_updated": "2026-01-09T22:19:33.485837"
+    "final_paper": 90.1,
+    "last_updated": "2026-01-21T19:49:41.473263"
   },
   {
     "student_id": "2300094307",
@@ -1789,7 +1789,7 @@
       {
         "week": 12,
         "status": "出勤",
-        "score": null
+        "score": 95.0
       },
       {
         "week": 14,
@@ -1802,8 +1802,8 @@
         "score": 90.0
       }
     ],
-    "final_paper": "已提交（待评分）",
-    "last_updated": "2026-01-09T22:19:33.496856"
+    "final_paper": 89.4,
+    "last_updated": "2026-01-21T19:49:41.477115"
   },
   {
     "student_id": "2400010971",
@@ -1832,7 +1832,7 @@
       {
         "week": 12,
         "status": "出勤",
-        "score": null
+        "score": 95.0
       },
       {
         "week": 14,
@@ -1845,8 +1845,8 @@
         "score": 90.0
       }
     ],
-    "final_paper": "已提交（待评分）",
-    "last_updated": "2026-01-09T22:19:33.500993"
+    "final_paper": 97.5,
+    "last_updated": "2026-01-21T19:49:41.480778"
   },
   {
     "student_id": "2400010985",
@@ -1875,7 +1875,7 @@
       {
         "week": 12,
         "status": "出勤",
-        "score": null
+        "score": 97.0
       },
       {
         "week": 14,
@@ -1888,8 +1888,8 @@
         "score": 90.0
       }
     ],
-    "final_paper": "已提交（待评分）",
-    "last_updated": "2026-01-09T22:19:33.512512"
+    "final_paper": 92.5,
+    "last_updated": "2026-01-21T19:49:41.491010"
   },
   {
     "student_id": "2400010989",
@@ -1918,7 +1918,7 @@
       {
         "week": 12,
         "status": "出勤",
-        "score": null
+        "score": 93.0
       },
       {
         "week": 14,
@@ -1931,8 +1931,8 @@
         "score": 90.0
       }
     ],
-    "final_paper": "已提交（待评分）",
-    "last_updated": "2026-01-09T22:19:33.516075"
+    "final_paper": 89.4,
+    "last_updated": "2026-01-21T19:49:41.494654"
   },
   {
     "student_id": "2400011024",
@@ -1961,7 +1961,7 @@
       {
         "week": 12,
         "status": "出勤",
-        "score": null
+        "score": 90.0
       },
       {
         "week": 14,
@@ -1974,8 +1974,8 @@
         "score": 92.0
       }
     ],
-    "final_paper": "已提交（待评分）",
-    "last_updated": "2026-01-09T22:19:33.526045"
+    "final_paper": 94.1,
+    "last_updated": "2026-01-21T19:49:41.504827"
   },
   {
     "student_id": "2400011207",
@@ -2004,7 +2004,7 @@
       {
         "week": 12,
         "status": "出勤",
-        "score": null
+        "score": 92.0
       },
       {
         "week": 14,
@@ -2017,8 +2017,8 @@
         "score": 95.0
       }
     ],
-    "final_paper": "已提交（待评分）",
-    "last_updated": "2026-01-09T22:19:33.529774"
+    "final_paper": 85.4,
+    "last_updated": "2026-01-21T19:49:41.508907"
   },
   {
     "student_id": "2400011304",
@@ -2047,7 +2047,7 @@
       {
         "week": 12,
         "status": "出勤",
-        "score": null
+        "score": 84.0
       },
       {
         "week": 14,
@@ -2060,8 +2060,8 @@
         "score": 85.0
       }
     ],
-    "final_paper": "已提交（待评分）",
-    "last_updated": "2026-01-09T22:19:33.533083"
+    "final_paper": 87.4,
+    "last_updated": "2026-01-21T19:49:41.512458"
   },
   {
     "student_id": "2400011452",
@@ -2090,7 +2090,7 @@
       {
         "week": 12,
         "status": "出勤",
-        "score": null
+        "score": 94.0
       },
       {
         "week": 14,
@@ -2103,8 +2103,8 @@
         "score": 90.0
       }
     ],
-    "final_paper": "已提交（待评分）",
-    "last_updated": "2026-01-09T22:19:33.543090"
+    "final_paper": 89.1,
+    "last_updated": "2026-01-21T19:49:41.522158"
   },
   {
     "student_id": "2400011581",
@@ -2133,7 +2133,7 @@
       {
         "week": 12,
         "status": "出勤",
-        "score": null
+        "score": 98.0
       },
       {
         "week": 14,
@@ -2146,8 +2146,8 @@
         "score": 93.0
       }
     ],
-    "final_paper": "已提交（待评分）",
-    "last_updated": "2026-01-09T22:19:33.546835"
+    "final_paper": 96.5,
+    "last_updated": "2026-01-21T19:49:41.525929"
   },
   {
     "student_id": "2400011761",
@@ -2176,7 +2176,7 @@
       {
         "week": 12,
         "status": "出勤",
-        "score": null
+        "score": 93.0
       },
       {
         "week": 14,
@@ -2189,8 +2189,8 @@
         "score": 92.0
       }
     ],
-    "final_paper": "已提交（待评分）",
-    "last_updated": "2026-01-09T22:19:33.550614"
+    "final_paper": 93.5,
+    "last_updated": "2026-01-21T19:49:41.529752"
   },
   {
     "student_id": "2400011798",
@@ -2219,7 +2219,7 @@
       {
         "week": 12,
         "status": "出勤",
-        "score": null
+        "score": 87.0
       },
       {
         "week": 14,
@@ -2232,8 +2232,8 @@
         "score": 88.0
       }
     ],
-    "final_paper": "已提交（待评分）",
-    "last_updated": "2026-01-09T22:19:33.560928"
+    "final_paper": 82.5,
+    "last_updated": "2026-01-21T19:49:41.539126"
   },
   {
     "student_id": "2400012158",
@@ -2262,7 +2262,7 @@
       {
         "week": 12,
         "status": "出勤",
-        "score": null
+        "score": 96.0
       },
       {
         "week": 14,
@@ -2275,8 +2275,8 @@
         "score": 92.0
       }
     ],
-    "final_paper": "已提交（待评分）",
-    "last_updated": "2026-01-09T22:19:33.564949"
+    "final_paper": 89.4,
+    "last_updated": "2026-01-21T19:49:41.543309"
   },
   {
     "student_id": "2400012295",
@@ -2305,7 +2305,7 @@
       {
         "week": 12,
         "status": "出勤",
-        "score": null
+        "score": 96.0
       },
       {
         "week": 14,
@@ -2318,8 +2318,8 @@
         "score": 93.0
       }
     ],
-    "final_paper": "已提交（待评分）",
-    "last_updated": "2026-01-09T22:19:33.568801"
+    "final_paper": 86.4,
+    "last_updated": "2026-01-21T19:49:41.547363"
   },
   {
     "student_id": "2400012603",
@@ -2348,7 +2348,7 @@
       {
         "week": 12,
         "status": "出勤",
-        "score": null
+        "score": 88.0
       },
       {
         "week": 14,
@@ -2361,8 +2361,8 @@
         "score": 86.0
       }
     ],
-    "final_paper": "已提交（待评分）",
-    "last_updated": "2026-01-09T22:19:33.580242"
+    "final_paper": 92.4,
+    "last_updated": "2026-01-21T19:49:41.556892"
   },
   {
     "student_id": "2400013260",
@@ -2391,7 +2391,7 @@
       {
         "week": 12,
         "status": "出勤",
-        "score": null
+        "score": 95.0
       },
       {
         "week": 14,
@@ -2404,8 +2404,8 @@
         "score": 93.0
       }
     ],
-    "final_paper": "已提交（待评分）",
-    "last_updated": "2026-01-09T22:19:33.583734"
+    "final_paper": 92.5,
+    "last_updated": "2026-01-21T19:49:41.560650"
   },
   {
     "student_id": "2400013755",
@@ -2434,7 +2434,7 @@
       {
         "week": 12,
         "status": "出勤",
-        "score": null
+        "score": 89.0
       },
       {
         "week": 14,
@@ -2447,8 +2447,8 @@
         "score": 89.0
       }
     ],
-    "final_paper": "已提交（待评分）",
-    "last_updated": "2026-01-09T22:19:33.592906"
+    "final_paper": 92.1,
+    "last_updated": "2026-01-21T19:49:41.564459"
   },
   {
     "student_id": "2400014957",
@@ -2477,7 +2477,7 @@
       {
         "week": 12,
         "status": "出勤",
-        "score": null
+        "score": 93.0
       },
       {
         "week": 14,
@@ -2490,8 +2490,8 @@
         "score": 90.0
       }
     ],
-    "final_paper": "已提交（待评分）",
-    "last_updated": "2026-01-09T22:19:33.596819"
+    "final_paper": 90.1,
+    "last_updated": "2026-01-21T19:49:41.574803"
   },
   {
     "student_id": "2400015415",
@@ -2520,7 +2520,7 @@
       {
         "week": 12,
         "status": "出勤",
-        "score": null
+        "score": 96.0
       },
       {
         "week": 14,
@@ -2533,8 +2533,8 @@
         "score": 91.0
       }
     ],
-    "final_paper": "已提交（待评分）",
-    "last_updated": "2026-01-09T22:19:33.600721"
+    "final_paper": 89.0,
+    "last_updated": "2026-01-21T19:49:41.579263"
   },
   {
     "student_id": "2400015487",
@@ -2563,7 +2563,7 @@
       {
         "week": 12,
         "status": "出勤",
-        "score": null
+        "score": 93.0
       },
       {
         "week": 14,
@@ -2576,8 +2576,8 @@
         "score": 93.0
       }
     ],
-    "final_paper": "已提交（待评分）",
-    "last_updated": "2026-01-09T22:19:33.610333"
+    "final_paper": 88.4,
+    "last_updated": "2026-01-21T19:49:41.588360"
   },
   {
     "student_id": "2400015886",
@@ -2606,7 +2606,7 @@
       {
         "week": 12,
         "status": "出勤",
-        "score": null
+        "score": 93.0
       },
       {
         "week": 14,
@@ -2619,8 +2619,8 @@
         "score": 89.0
       }
     ],
-    "final_paper": "已提交（待评分）",
-    "last_updated": "2026-01-09T22:19:33.614337"
+    "final_paper": 89.1,
+    "last_updated": "2026-01-21T19:49:41.592623"
   },
   {
     "student_id": "2400016640",
@@ -2649,7 +2649,7 @@
       {
         "week": 12,
         "status": "出勤",
-        "score": null
+        "score": 92.0
       },
       {
         "week": 14,
@@ -2662,8 +2662,8 @@
         "score": 88.0
       }
     ],
-    "final_paper": "已提交（待评分）",
-    "last_updated": "2026-01-09T22:19:33.618389"
+    "final_paper": 84.1,
+    "last_updated": "2026-01-21T19:49:41.596350"
   },
   {
     "student_id": "2400017403",
@@ -2692,7 +2692,7 @@
       {
         "week": 12,
         "status": "出勤",
-        "score": null
+        "score": 97.0
       },
       {
         "week": 14,
@@ -2705,8 +2705,8 @@
         "score": 90.0
       }
     ],
-    "final_paper": "已提交（待评分）",
-    "last_updated": "2026-01-09T22:19:33.627612"
+    "final_paper": 96.5,
+    "last_updated": "2026-01-21T19:49:41.605544"
   },
   {
     "student_id": "2400018415",
@@ -2735,7 +2735,7 @@
       {
         "week": 12,
         "status": "出勤",
-        "score": null
+        "score": 97.0
       },
       {
         "week": 14,
@@ -2748,8 +2748,8 @@
         "score": 90.0
       }
     ],
-    "final_paper": "已提交（待评分）",
-    "last_updated": "2026-01-09T22:19:33.631575"
+    "final_paper": 94.4,
+    "last_updated": "2026-01-21T19:49:41.609720"
   },
   {
     "student_id": "2400912016",
@@ -2778,7 +2778,7 @@
       {
         "week": 12,
         "status": "出勤",
-        "score": null
+        "score": 90.0
       },
       {
         "week": 14,
@@ -2791,8 +2791,8 @@
         "score": 89.0
       }
     ],
-    "final_paper": "已提交（待评分）",
-    "last_updated": "2026-01-09T22:19:33.635521"
+    "final_paper": 87.4,
+    "last_updated": "2026-01-21T19:49:41.613789"
   },
   {
     "student_id": "2400912017",
@@ -2821,7 +2821,7 @@
       {
         "week": 12,
         "status": "出勤",
-        "score": null
+        "score": 87.0
       },
       {
         "week": 14,
@@ -2834,8 +2834,8 @@
         "score": 89.0
       }
     ],
-    "final_paper": "已提交（待评分）",
-    "last_updated": "2026-01-09T22:19:33.645194"
+    "final_paper": 86.4,
+    "last_updated": "2026-01-21T19:49:41.624261"
   },
   {
     "student_id": "2410108213",
@@ -2864,7 +2864,7 @@
       {
         "week": 12,
         "status": "出勤",
-        "score": null
+        "score": 90.0
       },
       {
         "week": 14,
@@ -2877,8 +2877,8 @@
         "score": 93.0
       }
     ],
-    "final_paper": "已提交（待评分）",
-    "last_updated": "2026-01-09T22:19:33.649080"
+    "final_paper": 95.4,
+    "last_updated": "2026-01-21T19:49:41.628430"
   },
   {
     "student_id": "2410124242",
@@ -2907,7 +2907,7 @@
       {
         "week": 12,
         "status": "出勤",
-        "score": null
+        "score": 92.0
       },
       {
         "week": 14,
@@ -2920,8 +2920,8 @@
         "score": 92.0
       }
     ],
-    "final_paper": "已提交（待评分）",
-    "last_updated": "2026-01-09T22:19:33.652860"
+    "final_paper": 91.4,
+    "last_updated": "2026-01-21T19:49:41.637634"
   },
   {
     "student_id": "2500011011",
@@ -2950,7 +2950,7 @@
       {
         "week": 12,
         "status": "出勤",
-        "score": null
+        "score": 84.0
       },
       {
         "week": 14,
@@ -2963,8 +2963,8 @@
         "score": 90.0
       }
     ],
-    "final_paper": "已提交（待评分）",
-    "last_updated": "2026-01-09T22:19:33.662257"
+    "final_paper": 86.4,
+    "last_updated": "2026-01-21T19:49:41.641897"
   },
   {
     "student_id": "2500011044",
@@ -3006,8 +3006,8 @@
         "score": null
       }
     ],
-    "final_paper": "已提交（待评分）",
-    "last_updated": "2026-01-09T22:19:33.666100"
+    "final_paper": 82.5,
+    "last_updated": "2026-01-21T19:49:41.646013"
   },
   {
     "student_id": "2500011130",
@@ -3036,7 +3036,7 @@
       {
         "week": 12,
         "status": "出勤",
-        "score": null
+        "score": 84.0
       },
       {
         "week": 14,
@@ -3049,8 +3049,8 @@
         "score": null
       }
     ],
-    "final_paper": "已提交（待评分）",
-    "last_updated": "2026-01-09T22:19:33.676390"
+    "final_paper": 80.5,
+    "last_updated": "2026-01-21T19:49:41.655284"
   },
   {
     "student_id": "2500011439",
@@ -3079,7 +3079,7 @@
       {
         "week": 12,
         "status": "出勤",
-        "score": null
+        "score": 92.0
       },
       {
         "week": 14,
@@ -3092,8 +3092,8 @@
         "score": 88.0
       }
     ],
-    "final_paper": "已提交（待评分）",
-    "last_updated": "2026-01-09T22:19:33.680461"
+    "final_paper": 91.5,
+    "last_updated": "2026-01-21T19:49:41.659165"
   },
   {
     "student_id": "2500011454",
@@ -3122,7 +3122,7 @@
       {
         "week": 12,
         "status": "出勤",
-        "score": null
+        "score": 84.0
       },
       {
         "week": 14,
@@ -3135,8 +3135,8 @@
         "score": 88.0
       }
     ],
-    "final_paper": "已提交（待评分）",
-    "last_updated": "2026-01-09T22:19:33.684390"
+    "final_paper": 92.0,
+    "last_updated": "2026-01-21T19:49:41.663077"
   },
   {
     "student_id": "2500011459",
@@ -3165,7 +3165,7 @@
       {
         "week": 12,
         "status": "出勤",
-        "score": null
+        "score": 91.0
       },
       {
         "week": 14,
@@ -3178,8 +3178,8 @@
         "score": 88.0
       }
     ],
-    "final_paper": "已提交（待评分）",
-    "last_updated": "2026-01-09T22:19:33.695071"
+    "final_paper": 90.4,
+    "last_updated": "2026-01-21T19:49:41.673438"
   },
   {
     "student_id": "2500011493",
@@ -3208,7 +3208,7 @@
       {
         "week": 12,
         "status": "出勤",
-        "score": null
+        "score": 92.0
       },
       {
         "week": 14,
@@ -3221,8 +3221,8 @@
         "score": 88.0
       }
     ],
-    "final_paper": "已提交（待评分）",
-    "last_updated": "2026-01-09T22:19:33.698765"
+    "final_paper": 91.5,
+    "last_updated": "2026-01-21T19:49:41.677090"
   },
   {
     "student_id": "2500012307",
@@ -3251,7 +3251,7 @@
       {
         "week": 12,
         "status": "出勤",
-        "score": null
+        "score": 88.0
       },
       {
         "week": 14,
@@ -3264,8 +3264,8 @@
         "score": 95.0
       }
     ],
-    "final_paper": "已提交（待评分）",
-    "last_updated": "2026-01-09T22:19:33.702668"
+    "final_paper": 91.5,
+    "last_updated": "2026-01-21T19:49:41.681102"
   },
   {
     "student_id": "2500012411",
@@ -3294,7 +3294,7 @@
       {
         "week": 12,
         "status": "出勤",
-        "score": null
+        "score": 93.0
       },
       {
         "week": 14,
@@ -3307,8 +3307,8 @@
         "score": 90.0
       }
     ],
-    "final_paper": "已提交（待评分）",
-    "last_updated": "2026-01-09T22:19:33.713500"
+    "final_paper": 89.4,
+    "last_updated": "2026-01-21T19:49:41.692436"
   },
   {
     "student_id": "2500012817",
@@ -3337,7 +3337,7 @@
       {
         "week": 12,
         "status": "出勤",
-        "score": null
+        "score": 93.0
       },
       {
         "week": 14,
@@ -3350,8 +3350,8 @@
         "score": 86.0
       }
     ],
-    "final_paper": "已提交（待评分）",
-    "last_updated": "2026-01-09T22:19:33.717537"
+    "final_paper": 90.4,
+    "last_updated": "2026-01-21T19:49:41.696566"
   },
   {
     "student_id": "2500013046",
@@ -3380,7 +3380,7 @@
       {
         "week": 12,
         "status": "出勤",
-        "score": null
+        "score": 94.0
       },
       {
         "week": 14,
@@ -3393,8 +3393,8 @@
         "score": 88.0
       }
     ],
-    "final_paper": "已提交（待评分）",
-    "last_updated": "2026-01-09T22:19:33.726704"
+    "final_paper": 79.1,
+    "last_updated": "2026-01-21T19:49:41.705486"
   },
   {
     "student_id": "2500013066",
@@ -3423,7 +3423,7 @@
       {
         "week": 12,
         "status": "出勤",
-        "score": null
+        "score": 95.0
       },
       {
         "week": 14,
@@ -3436,8 +3436,8 @@
         "score": 88.0
       }
     ],
-    "final_paper": "已提交（待评分）",
-    "last_updated": "2026-01-09T22:19:33.730699"
+    "final_paper": 86.5,
+    "last_updated": "2026-01-21T19:49:41.709672"
   },
   {
     "student_id": "2500013196",
@@ -3466,7 +3466,7 @@
       {
         "week": 12,
         "status": "出勤",
-        "score": null
+        "score": 93.0
       },
       {
         "week": 14,
@@ -3479,8 +3479,8 @@
         "score": 85.0
       }
     ],
-    "final_paper": "已提交（待评分）",
-    "last_updated": "2026-01-09T22:19:33.734483"
+    "final_paper": 87.5,
+    "last_updated": "2026-01-21T19:49:41.713540"
   },
   {
     "student_id": "2500013203",
@@ -3509,7 +3509,7 @@
       {
         "week": 12,
         "status": "出勤",
-        "score": null
+        "score": 90.0
       },
       {
         "week": 14,
@@ -3522,8 +3522,8 @@
         "score": null
       }
     ],
-    "final_paper": "已提交（待评分）",
-    "last_updated": "2026-01-09T22:19:33.744031"
+    "final_paper": 92.5,
+    "last_updated": "2026-01-21T19:49:41.722924"
   },
   {
     "student_id": "2500016281",
@@ -3552,7 +3552,7 @@
       {
         "week": 12,
         "status": "出勤",
-        "score": null
+        "score": 94.0
       },
       {
         "week": 14,
@@ -3565,8 +3565,8 @@
         "score": 93.0
       }
     ],
-    "final_paper": "已提交（待评分）",
-    "last_updated": "2026-01-09T22:19:33.747829"
+    "final_paper": 89.1,
+    "last_updated": "2026-01-21T19:49:41.726654"
   },
   {
     "student_id": "2500016614",
@@ -3595,7 +3595,7 @@
       {
         "week": 12,
         "status": "出勤",
-        "score": null
+        "score": 90.0
       },
       {
         "week": 14,
@@ -3608,8 +3608,8 @@
         "score": 91.0
       }
     ],
-    "final_paper": "已提交（待评分）",
-    "last_updated": "2026-01-09T22:19:33.751786"
+    "final_paper": 86.4,
+    "last_updated": "2026-01-21T19:49:41.730640"
   },
   {
     "student_id": "2500016932",
@@ -3638,7 +3638,7 @@
       {
         "week": 12,
         "status": "出勤",
-        "score": null
+        "score": 84.0
       },
       {
         "week": 14,
@@ -3651,8 +3651,8 @@
         "score": 85.0
       }
     ],
-    "final_paper": "已提交（待评分）",
-    "last_updated": "2026-01-09T22:19:33.761936"
+    "final_paper": 81.5,
+    "last_updated": "2026-01-21T19:49:41.739938"
   },
   {
     "student_id": "2500017815",
@@ -3694,8 +3694,8 @@
         "score": 88.0
       }
     ],
-    "final_paper": "已提交（待评分）",
-    "last_updated": "2026-01-09T22:19:33.766094"
+    "final_paper": 82.5,
+    "last_updated": "2026-01-21T19:49:41.744060"
   },
   {
     "student_id": "2500018402",
@@ -3724,7 +3724,7 @@
       {
         "week": 12,
         "status": "出勤",
-        "score": null
+        "score": 94.0
       },
       {
         "week": 14,
@@ -3737,8 +3737,8 @@
         "score": 90.0
       }
     ],
-    "final_paper": "已提交（待评分）",
-    "last_updated": "2026-01-09T22:19:33.776413"
+    "final_paper": 95.1,
+    "last_updated": "2026-01-21T19:49:41.748148"
   },
   {
     "student_id": "2500018508",
@@ -3767,7 +3767,7 @@
       {
         "week": 12,
         "status": "出勤",
-        "score": null
+        "score": 96.0
       },
       {
         "week": 14,
@@ -3780,8 +3780,8 @@
         "score": null
       }
     ],
-    "final_paper": "未提交",
-    "last_updated": "2026-01-09T22:19:33.780731"
+    "final_paper": 0.0,
+    "last_updated": "2026-01-21T19:49:41.758178"
   },
   {
     "student_id": "2500091806",
@@ -3810,7 +3810,7 @@
       {
         "week": 12,
         "status": "出勤",
-        "score": null
+        "score": 96.0
       },
       {
         "week": 14,
@@ -3823,8 +3823,8 @@
         "score": 90.0
       }
     ],
-    "final_paper": "已提交（待评分）",
-    "last_updated": "2026-01-09T22:19:33.784605"
+    "final_paper": 92.1,
+    "last_updated": "2026-01-21T19:49:41.762343"
   },
   {
     "student_id": "2500931107",
@@ -3853,7 +3853,7 @@
       {
         "week": 12,
         "status": "出勤",
-        "score": null
+        "score": 96.0
       },
       {
         "week": 14,
@@ -3866,8 +3866,8 @@
         "score": 92.0
       }
     ],
-    "final_paper": "已提交（待评分）",
-    "last_updated": "2026-01-09T22:19:33.795151"
+    "final_paper": 94.4,
+    "last_updated": "2026-01-21T19:49:41.771893"
   },
   {
     "student_id": "2500931114",
@@ -3896,7 +3896,7 @@
       {
         "week": 12,
         "status": "出勤",
-        "score": null
+        "score": 96.0
       },
       {
         "week": 14,
@@ -3909,8 +3909,8 @@
         "score": 92.0
       }
     ],
-    "final_paper": "已提交（待评分）",
-    "last_updated": "2026-01-09T22:19:33.798927"
+    "final_paper": 90.0,
+    "last_updated": "2026-01-21T19:49:41.775459"
   },
   {
     "student_id": "2500931121",
@@ -3939,7 +3939,7 @@
       {
         "week": 12,
         "status": "出勤",
-        "score": null
+        "score": 94.0
       },
       {
         "week": 14,
@@ -3952,8 +3952,8 @@
         "score": 90.0
       }
     ],
-    "final_paper": "已提交（待评分）",
-    "last_updated": "2026-01-09T22:19:33.802653"
+    "final_paper": 89.4,
+    "last_updated": "2026-01-21T19:49:41.779521"
   },
   {
     "student_id": "2510124209",
@@ -3982,7 +3982,7 @@
       {
         "week": 12,
         "status": "出勤",
-        "score": null
+        "score": 90.0
       },
       {
         "week": 14,
@@ -3995,8 +3995,8 @@
         "score": 90.0
       }
     ],
-    "final_paper": "已提交（待评分）",
-    "last_updated": "2026-01-09T22:19:33.813265"
+    "final_paper": 89.1,
+    "last_updated": "2026-01-21T19:49:41.788865"
   },
   {
     "student_id": "2510301105",
@@ -4025,7 +4025,7 @@
       {
         "week": 12,
         "status": "出勤",
-        "score": null
+        "score": 91.0
       },
       {
         "week": 14,
@@ -4038,8 +4038,8 @@
         "score": 88.0
       }
     ],
-    "final_paper": "已提交（待评分）",
-    "last_updated": "2026-01-09T22:19:33.817207"
+    "final_paper": 94.1,
+    "last_updated": "2026-01-21T19:49:41.792742"
   },
   {
     "student_id": "2510301117",
@@ -4068,7 +4068,7 @@
       {
         "week": 12,
         "status": "出勤",
-        "score": null
+        "score": 93.0
       },
       {
         "week": 14,
@@ -4081,8 +4081,8 @@
         "score": 90.0
       }
     ],
-    "final_paper": "已提交（待评分）",
-    "last_updated": "2026-01-09T22:19:33.826314"
+    "final_paper": 88.4,
+    "last_updated": "2026-01-21T19:49:41.796507"
   },
   {
     "student_id": "2510301141",
@@ -4111,7 +4111,7 @@
       {
         "week": 12,
         "status": "出勤",
-        "score": null
+        "score": 93.0
       },
       {
         "week": 14,
@@ -4124,8 +4124,8 @@
         "score": 90.0
       }
     ],
-    "final_paper": "已提交（待评分）",
-    "last_updated": "2026-01-09T22:19:33.830251"
+    "final_paper": 89.1,
+    "last_updated": "2026-01-21T19:49:41.806080"
   },
   {
     "student_id": "2510301317",
@@ -4154,7 +4154,7 @@
       {
         "week": 12,
         "status": "出勤",
-        "score": null
+        "score": 95.0
       },
       {
         "week": 14,
@@ -4167,8 +4167,8 @@
         "score": 90.0
       }
     ],
-    "final_paper": "已提交（待评分）",
-    "last_updated": "2026-01-09T22:19:33.834154"
+    "final_paper": 89.1,
+    "last_updated": "2026-01-21T19:49:41.810236"
   },
   {
     "student_id": "2510301324",
@@ -4197,7 +4197,7 @@
       {
         "week": 12,
         "status": "出勤",
-        "score": null
+        "score": 94.0
       },
       {
         "week": 14,
@@ -4210,8 +4210,8 @@
         "score": 89.0
       }
     ],
-    "final_paper": "已提交（待评分）",
-    "last_updated": "2026-01-09T22:19:33.843657"
+    "final_paper": 81.1,
+    "last_updated": "2026-01-21T19:49:41.814350"
   },
   {
     "student_id": "2510303107",
@@ -4240,7 +4240,7 @@
       {
         "week": 12,
         "status": "出勤",
-        "score": null
+        "score": 97.0
       },
       {
         "week": 14,
@@ -4253,8 +4253,8 @@
         "score": 93.0
       }
     ],
-    "final_paper": "已提交（待评分）",
-    "last_updated": "2026-01-09T22:19:33.847658"
+    "final_paper": 89.1,
+    "last_updated": "2026-01-21T19:49:41.824631"
   },
   {
     "student_id": "2510305108",
@@ -4283,7 +4283,7 @@
       {
         "week": 12,
         "status": "出勤",
-        "score": null
+        "score": 85.0
       },
       {
         "week": 14,
@@ -4296,8 +4296,8 @@
         "score": 89.0
       }
     ],
-    "final_paper": "已提交（待评分）",
-    "last_updated": "2026-01-09T22:19:33.851655"
+    "final_paper": 81.5,
+    "last_updated": "2026-01-21T19:49:41.828791"
   },
   {
     "student_id": "2510306235",
@@ -4326,7 +4326,7 @@
       {
         "week": 12,
         "status": "出勤",
-        "score": null
+        "score": 94.0
       },
       {
         "week": 14,
@@ -4339,8 +4339,8 @@
         "score": 92.0
       }
     ],
-    "final_paper": "已提交（待评分）",
-    "last_updated": "2026-01-09T22:19:33.861661"
+    "final_paper": 94.1,
+    "last_updated": "2026-01-21T19:49:41.837747"
   },
   {
     "student_id": "2510307419",
@@ -4369,7 +4369,7 @@
       {
         "week": 12,
         "status": "出勤",
-        "score": null
+        "score": 97.0
       },
       {
         "week": 14,
@@ -4382,8 +4382,8 @@
         "score": 86.0
       }
     ],
-    "final_paper": "已提交（待评分）",
-    "last_updated": "2026-01-09T22:19:33.865732"
+    "final_paper": 93.1,
+    "last_updated": "2026-01-21T19:49:41.841922"
   },
   {
     "student_id": "北京外国语大学",
@@ -4412,7 +4412,7 @@
       {
         "week": 12,
         "status": "出勤",
-        "score": null
+        "score": 92.0
       },
       {
         "week": 14,
@@ -4425,7 +4425,7 @@
         "score": null
       }
     ],
-    "final_paper": "已提交（待评分）",
-    "last_updated": "2026-01-09T22:19:33.877229"
+    "final_paper": 94.1,
+    "last_updated": "2026-01-21T19:49:41.846228"
   }
 ]
