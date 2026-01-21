@@ -466,7 +466,7 @@
         document.getElementById('attendanceScore').textContent = attendanceScore;
         document.getElementById('paperScore').textContent = `${student.final_paper}`;
 
-        const totalScore = quizFinalScore + attendanceScore + student.final_paper*0.4;
+        const totalScore = Math.round(quizFinalScore + attendanceScore + student.final_paper*0.4);
             
         document.getElementById('totalScore').textContent = `${totalScore} / 100`;
 
